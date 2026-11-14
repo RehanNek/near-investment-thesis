@@ -1,4 +1,4 @@
-# NEAR Investment Thesis
+# Three Engines, One Token: a NEAR Investment Thesis
 
 **Track:** NEAR HACKATHON, Investment Thesis (`thesis`). An investment thesis on NEAR in which every number, chart and document is rebuilt from the raw data by one command, `make charts`, with no API keys. It is hosted at <https://rehannek.github.io/near-investment-thesis/site/>.
 

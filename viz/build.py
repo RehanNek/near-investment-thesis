@@ -1757,11 +1757,11 @@ def page(secs, data_asof, thesis_md, methods_md) -> str:
     if twice:
         raise RuntimeError(f"site/index.html would have the same id twice: {twice}")
     nav = ('<nav class="tabs" aria-label="Parts of this site"><div class="tabs-in">'
-           '<span class="brand">NEAR Investment Thesis</span>'
+           '<span class="brand">Three Engines, One Token</span>'
            + "".join(f'<a href="#{t}" data-tab="{t}">{e(label)}</a>' for t, label in TABS) + "</div></nav>")
     return ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
-            "<title>NEAR Investment Thesis</title>"
+            "<title>Three Engines, One Token: a NEAR investment thesis</title>"
             "<meta name=\"description\" content=\"An investment thesis on NEAR: the thesis, every chart with the query "
             "behind it, the methods, and one command that rebuilds all of it from raw data.\">"
             f"<link rel=\"stylesheet\" href=\"style.css\"><style>{css}</style></head><body>{nav}<main>"
