@@ -1,0 +1,112 @@
+month,check,ours,independent,source,pct_diff
+2025-11,price_usd,2.05948,2.05943,CoinGecko,0.00278755
+2025-11,price_usd,2.05948,2.15641,revenue.near.org implied,-4.49481
+2025-12,price_usd,1.61502,1.61486,CoinGecko,0.00950514
+2025-12,price_usd,1.61502,1.61545,revenue.near.org implied,-0.0271558
+2026-01,price_usd,1.62038,1.61976,CoinGecko,0.0386404
+2026-01,price_usd,1.62038,1.59349,revenue.near.org implied,1.68777
+2026-02,price_usd,1.06368,1.06908,CoinGecko,-0.50563
+2026-02,price_usd,1.06368,1.06271,revenue.near.org implied,0.0907507
+2026-03,price_usd,1.2834,1.28288,CoinGecko,0.0406772
+2026-03,price_usd,1.2834,1.29332,revenue.near.org implied,-0.766903
+2026-04,price_usd,1.33698,1.33793,CoinGecko,-0.0710066
+2026-04,price_usd,1.33698,1.33586,revenue.near.org implied,0.0835746
+2026-05,price_usd,1.77021,1.77089,CoinGecko,-0.038408
+2026-05,price_usd,1.77021,1.86911,revenue.near.org implied,-5.29101
+2026-06,price_usd,2.1302,2.13117,CoinGecko,-0.045501
+2026-06,price_usd,2.1302,2.16514,revenue.near.org implied,-1.61367
+2026-07,price_usd,1.88747,1.8881,CoinGecko,-0.0337628
+2026-07,price_usd,1.88747,1.89195,revenue.near.org implied,-0.23698
+2026-08,price_usd,1.73409,1.73421,CoinGecko,-0.00652526
+2026-08,price_usd,1.73409,1.77333,revenue.near.org implied,-2.21251
+2026-09,price_usd,3.19322,3.19322,CoinGecko,-2.04206e-09
+2026-09,price_usd,3.19322,3.16726,revenue.near.org implied,0.819785
+2026-10,price_usd,4.90167,4.90167,CoinGecko,-4.91111e-09
+2026-10,price_usd,4.90167,4.87947,revenue.near.org implied,0.454909
+2026-11,price_usd,3.79324,3.79324,CoinGecko,-3.89443e-08
+2026-11,price_usd,3.79324,3.71879,revenue.near.org implied,2.00223
+2025-01,l1_gross_fees_usd,809693,679710,DefiLlama,19.1233
+2025-01,l1_gross_fees_usd,809693,680908,NearBlocks,18.9137
+2025-02,l1_gross_fees_usd,463831,386115,DefiLlama,20.1277
+2025-02,l1_gross_fees_usd,463831,390997,NearBlocks,18.6277
+2025-03,l1_gross_fees_usd,413818,347333,DefiLlama,19.1416
+2025-03,l1_gross_fees_usd,413818,349614,NearBlocks,18.3643
+2025-04,l1_gross_fees_usd,327488,275681,DefiLlama,18.7924
+2025-04,l1_gross_fees_usd,327488,276097,NearBlocks,18.6135
+2025-05,l1_gross_fees_usd,359339,303743,DefiLlama,18.3036
+2025-05,l1_gross_fees_usd,359339,303599,NearBlocks,18.3597
+2025-06,l1_gross_fees_usd,276388,232954,DefiLlama,18.6449
+2025-06,l1_gross_fees_usd,276388,233828,NearBlocks,18.2012
+2025-07,l1_gross_fees_usd,318167,270400,DefiLlama,17.6653
+2025-07,l1_gross_fees_usd,318167,269347,NearBlocks,18.1253
+2025-08,l1_gross_fees_usd,335900,282612,DefiLlama,18.8555
+2025-08,l1_gross_fees_usd,335900,283246,NearBlocks,18.5893
+2025-09,l1_gross_fees_usd,323553,274749,DefiLlama,17.7631
+2025-09,l1_gross_fees_usd,323553,273775,NearBlocks,18.182
+2025-10,l1_gross_fees_usd,304480,256071,DefiLlama,18.9045
+2025-10,l1_gross_fees_usd,304480,257987,NearBlocks,18.0216
+2025-11,l1_gross_fees_usd,253715,214880,DefiLlama,18.0729
+2025-11,l1_gross_fees_usd,253715,215826,NearBlocks,17.5553
+2025-12,l1_gross_fees_usd,166022,138999,DefiLlama,19.4411
+2025-12,l1_gross_fees_usd,166022,139852,NearBlocks,18.7122
+2026-01,l1_gross_fees_usd,155642,129803,DefiLlama,19.9063
+2026-01,l1_gross_fees_usd,155642,130745,NearBlocks,19.0421
+2026-02,l1_gross_fees_usd,91928.1,77518,DefiLlama,18.5894
+2026-02,l1_gross_fees_usd,91928.1,77508.4,NearBlocks,18.604
+2026-03,l1_gross_fees_usd,121273,102360,DefiLlama,18.4769
+2026-03,l1_gross_fees_usd,121273,102158,NearBlocks,18.7117
+2026-04,l1_gross_fees_usd,35680,31664,DefiLlama,12.6832
+2026-04,l1_gross_fees_usd,35680,31427.4,NearBlocks,13.5313
+2026-05,l1_gross_fees_usd,54140.1,49584,DefiLlama,9.18865
+2026-05,l1_gross_fees_usd,54140.1,48571.9,NearBlocks,11.4637
+2026-06,l1_gross_fees_usd,66467.3,59181,DefiLlama,12.3119
+2026-06,l1_gross_fees_usd,66467.3,59854.3,NearBlocks,11.0485
+2026-07,l1_gross_fees_usd,53093.8,47072,DefiLlama,12.7927
+2026-07,l1_gross_fees_usd,53093.8,47030.4,NearBlocks,12.8925
+2026-08,l1_gross_fees_usd,52035.5,45928,DefiLlama,13.298
+2026-08,l1_gross_fees_usd,52035.5,45576.8,NearBlocks,14.1711
+2026-09,l1_gross_fees_usd,126951,115406,DefiLlama,10.0038
+2026-09,l1_gross_fees_usd,126951,111231,NearBlocks,14.1331
+2026-10,l1_gross_fees_usd,223611,197685,DefiLlama,13.1148
+2026-10,l1_gross_fees_usd,223611,196208,NearBlocks,13.9665
+2026-11,l1_gross_fees_usd,46740.4,41870,DefiLlama,11.6322
+2026-11,l1_gross_fees_usd,46740.4,42525.6,NearBlocks,9.9111
+2025-09,intents_revenue_usd,28638.8,18,DefiLlama,159004
+2025-10,intents_revenue_usd,295781,18,DefiLlama,1.64313e+06
+2025-11,intents_revenue_usd,657428,768047,DefiLlama,-14.4026
+2025-12,intents_revenue_usd,281334,176629,DefiLlama,59.2796
+2026-01,intents_revenue_usd,526392,359240,DefiLlama,46.5294
+2026-02,intents_revenue_usd,429570,663127,DefiLlama,-35.2206
+2026-03,intents_revenue_usd,395381,563460,DefiLlama,-29.8298
+2026-04,intents_revenue_usd,401247,258740,DefiLlama,55.0771
+2026-05,intents_revenue_usd,823527,619614,DefiLlama,32.9096
+2026-06,intents_revenue_usd,943198,619475,DefiLlama,52.2576
+2026-07,intents_revenue_usd,654117,504864,DefiLlama,29.5631
+2026-08,intents_revenue_usd,871119,723262,DefiLlama,20.4431
+2026-09,intents_revenue_usd,2.19646e+06,1.83951e+06,DefiLlama,19.4042
+2026-10,intents_revenue_usd,2.50247e+06,2.18952e+06,DefiLlama,14.293
+2026-11,intents_revenue_usd,825044,682565,DefiLlama,20.8741
+2025-01,minted_near,5.20769e+06,5.21532e+06,protocol rule (5.0% x supply),-0.146395
+2025-02,minted_near,4.7443e+06,4.73018e+06,protocol rule (5.0% x supply),0.29847
+2025-03,minted_near,5.20001e+06,5.25672e+06,protocol rule (5.0% x supply),-1.07881
+2025-04,minted_near,5.08566e+06,5.10811e+06,protocol rule (5.0% x supply),-0.439358
+2025-05,minted_near,5.34539e+06,5.29955e+06,protocol rule (5.0% x supply),0.865044
+2025-06,minted_near,5.1243e+06,5.15003e+06,protocol rule (5.0% x supply),-0.499703
+2025-07,minted_near,5.31428e+06,5.3431e+06,protocol rule (5.0% x supply),-0.539541
+2025-08,minted_near,5.37754e+06,5.36552e+06,protocol rule (5.0% x supply),0.223965
+2025-09,minted_near,5.21204e+06,5.21395e+06,protocol rule (5.0% x supply),-0.036623
+2025-10,minted_near,5.18024e+06,5.40954e+06,protocol rule (5.0% x supply),-4.23885
+2025-11,minted_near,2.59651e+06,2.62783e+06,protocol rule (2.5% x supply),-1.19163
+2025-12,minted_near,2.69741e+06,2.72082e+06,protocol rule (2.5% x supply),-0.86044
+2026-01,minted_near,2.72592e+06,2.7264e+06,protocol rule (2.5% x supply),-0.0175201
+2026-02,minted_near,2.45176e+06,2.4676e+06,protocol rule (2.5% x supply),-0.642109
+2026-03,minted_near,2.7371e+06,2.73706e+06,protocol rule (2.5% x supply),0.0014145
+2026-04,minted_near,2.6445e+06,2.65426e+06,protocol rule (2.5% x supply),-0.367583
+2026-05,minted_near,2.74862e+06,2.74831e+06,protocol rule (2.5% x supply),0.0113446
+2026-06,minted_near,2.6456e+06,2.66526e+06,protocol rule (2.5% x supply),-0.737673
+2026-07,minted_near,2.74056e+06,2.75967e+06,protocol rule (2.5% x supply),-0.692502
+2026-08,minted_near,2.7528e+06,2.76546e+06,protocol rule (2.5% x supply),-0.457674
+2026-09,minted_near,2.67636e+06,2.68192e+06,protocol rule (2.5% x supply),-0.207452
+2026-10,minted_near,2.7623e+06,2.77688e+06,protocol rule (2.5% x supply),-0.525211
+2026-11,minted_near,1.21461e+06,1.25672e+06,protocol rule (2.5% x supply),-3.35051
+2026-01..2026-11-13,minted_near_ytd,2.80485e+07,2.81085e+07,revenue.near.org emissions,-0.213405

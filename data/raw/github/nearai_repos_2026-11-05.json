@@ -1,0 +1,767 @@
+[
+ {
+  "full_name": "nearai/ironclaw",
+  "description": "IronClaw is an Agent OS focused on privacy, security and extensibility",
+  "stargazers_count": 12713,
+  "forks_count": 1487,
+  "created_at": "2026-02-03T06:57:10Z",
+  "pushed_at": "2026-11-04T10:34:59Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/torchfold",
+  "description": "Tools for PyTorch",
+  "stargazers_count": 225,
+  "forks_count": 30,
+  "created_at": "2017-08-22T22:28:18Z",
+  "pushed_at": "2022-08-10T20:26:14Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/program_synthesis",
+  "description": "Program Synthesis",
+  "stargazers_count": 151,
+  "forks_count": 26,
+  "created_at": "2018-01-22T18:19:48Z",
+  "pushed_at": "2021-03-08T02:08:13Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/nearai",
+  "description": "Deprecated – check out our newest work at https://near.ai",
+  "stargazers_count": 115,
+  "forks_count": 67,
+  "created_at": "2024-05-08T00:22:09Z",
+  "pushed_at": "2025-12-16T02:14:33Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/private-ml-sdk",
+  "description": "Run LLMs and agents on TEEs leveraging NVIDIA GPU TEE and Intel TDX technologies.",
+  "stargazers_count": 105,
+  "forks_count": 33,
+  "created_at": "2025-01-09T16:33:12Z",
+  "pushed_at": "2025-10-20T08:18:57Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/putnambench-deepseek",
+  "description": "An agent that solved all 672 putnambench problems",
+  "stargazers_count": 50,
+  "forks_count": 4,
+  "created_at": "2026-08-17T03:14:25Z",
+  "pushed_at": "2026-08-27T03:15:15Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-mcp",
+  "description": "An MCP server for the NEAR blockchain",
+  "stargazers_count": 31,
+  "forks_count": 16,
+  "created_at": "2025-03-11T15:02:48Z",
+  "pushed_at": "2025-05-04T07:32:50Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/aitp",
+  "description": "AITP: Agent Interaction & Transaction Protocol",
+  "stargazers_count": 26,
+  "forks_count": 4,
+  "created_at": "2024-12-30T13:53:23Z",
+  "pushed_at": "2025-04-01T15:10:47Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/smart-contract-example",
+  "description": "Smart Contract with Autonomous AI Execution",
+  "stargazers_count": 20,
+  "forks_count": 2,
+  "created_at": "2024-12-19T20:21:55Z",
+  "pushed_at": "2024-12-19T20:33:26Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/cloud-api",
+  "description": "OpenAI-compatible API for private, TEE-verifiable AI inference, powering cloud.near.ai",
+  "stargazers_count": 16,
+  "forks_count": 10,
+  "created_at": "2025-09-16T18:01:35Z",
+  "pushed_at": "2026-11-05T21:15:32Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/official-agents",
+  "description": null,
+  "stargazers_count": 12,
+  "forks_count": 2,
+  "created_at": "2024-11-01T18:46:30Z",
+  "pushed_at": "2026-01-23T12:06:14Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/nearai_langchain",
+  "description": "NearAI integration for LangChain",
+  "stargazers_count": 12,
+  "forks_count": 2,
+  "created_at": "2025-01-06T15:31:44Z",
+  "pushed_at": "2025-04-12T03:25:50Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/openclaw-nearai-worker",
+  "description": "Worker for Hosting OpenClaw in NEAR AI Cloud",
+  "stargazers_count": 10,
+  "forks_count": 2,
+  "created_at": "2026-01-26T08:19:03Z",
+  "pushed_at": "2026-11-05T10:07:13Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironhub",
+  "description": "WASM tools and SKILL.md skills for the IronClaw agent runtime.",
+  "stargazers_count": 8,
+  "forks_count": 15,
+  "created_at": "2026-04-27T06:47:01Z",
+  "pushed_at": "2026-10-26T07:38:35Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/private-chat",
+  "description": "Private Chat UI",
+  "stargazers_count": 7,
+  "forks_count": 3,
+  "created_at": "2025-11-04T17:47:46Z",
+  "pushed_at": "2026-11-02T11:42:04Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/nearai-red-sandbox",
+  "description": "NEAR AI Red (near-ai-red): microVM sandbox for agentic security research and red teaming.",
+  "stargazers_count": 7,
+  "forks_count": 1,
+  "created_at": "2026-10-28T20:03:21Z",
+  "pushed_at": "2026-11-04T03:52:30Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-hackathon-prompt-examples",
+  "description": "Sample prompts to kick start a project for the 2026 NEAR Hackathon",
+  "stargazers_count": 5,
+  "forks_count": 1,
+  "created_at": "2026-10-27T20:15:33Z",
+  "pushed_at": "2026-10-30T16:13:23Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near.ai",
+  "description": null,
+  "stargazers_count": 4,
+  "forks_count": 0,
+  "created_at": "2017-06-02T00:40:15Z",
+  "pushed_at": "2018-08-21T18:06:33Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/papers",
+  "description": "Proof of Response",
+  "stargazers_count": 4,
+  "forks_count": 0,
+  "created_at": "2025-02-17T19:38:52Z",
+  "pushed_at": "2025-03-19T00:54:19Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/chat-api",
+  "description": "Private Chat API",
+  "stargazers_count": 4,
+  "forks_count": 4,
+  "created_at": "2025-10-10T16:24:26Z",
+  "pushed_at": "2026-11-05T20:38:51Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/inference-proxy",
+  "description": "vllm proxy written in Rust",
+  "stargazers_count": 4,
+  "forks_count": 3,
+  "created_at": "2026-02-07T20:12:05Z",
+  "pushed_at": "2026-11-05T19:12:38Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-kms",
+  "description": "NEAR KMS for TEE applications",
+  "stargazers_count": 3,
+  "forks_count": 1,
+  "created_at": "2026-01-24T06:00:03Z",
+  "pushed_at": "2026-02-10T14:06:37Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/analytics",
+  "description": null,
+  "stargazers_count": 2,
+  "forks_count": 0,
+  "created_at": "2025-05-09T14:48:09Z",
+  "pushed_at": "2025-08-06T21:14:48Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/docs",
+  "description": "NEAR AI Cloud Documentation",
+  "stargazers_count": 2,
+  "forks_count": 2,
+  "created_at": "2025-09-11T17:22:36Z",
+  "pushed_at": "2026-11-05T10:00:04Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/compose-manager",
+  "description": null,
+  "stargazers_count": 2,
+  "forks_count": 4,
+  "created_at": "2026-02-04T11:49:32Z",
+  "pushed_at": "2026-11-04T04:11:55Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/agents-market-sdk",
+  "description": "SDK for hiring AI agents on the NEAR Agent Marketplace. Node.js backend middleware + React components + embeddable widget for any frontend.",
+  "stargazers_count": 2,
+  "forks_count": 0,
+  "created_at": "2026-04-15T11:08:13Z",
+  "pushed_at": "2026-05-04T18:58:14Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironclaw-desktop-app",
+  "description": "Native macOS desktop client for IronClaw — a NEAR AI Cloud agent in a Tauri v2 shell. One-click sign-in, bundled local sidecar, on-device PDF/Office extraction with offline OCR, app connectors, and downloadable generated work product.",
+  "stargazers_count": 2,
+  "forks_count": 0,
+  "created_at": "2026-06-11T12:30:42Z",
+  "pushed_at": "2026-07-03T15:55:45Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/competition-0.5b-template",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2024-11-09T15:50:46Z",
+  "pushed_at": "2024-11-22T11:50:49Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/pay-per-prompt",
+  "description": "Pay for LLM inference using payment channels",
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2024-12-12T11:19:07Z",
+  "pushed_at": "2025-01-20T11:19:55Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/oaa-2",
+  "description": "Open Agent Alliance Website",
+  "stargazers_count": 1,
+  "forks_count": 1,
+  "created_at": "2025-05-01T11:35:52Z",
+  "pushed_at": "2025-05-30T21:08:31Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/research-agent-example",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 6,
+  "created_at": "2025-07-17T09:02:59Z",
+  "pushed_at": "2025-08-08T15:35:05Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/nearai-cloud-verifier",
+  "description": "NEAR AI Cloud Verifier",
+  "stargazers_count": 1,
+  "forks_count": 1,
+  "created_at": "2025-10-19T14:01:30Z",
+  "pushed_at": "2026-09-02T06:11:33Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/vllm-proxy",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2025-11-05T01:15:32Z",
+  "pushed_at": "2026-02-20T09:28:00Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/opencode",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2025-11-14T17:58:20Z",
+  "pushed_at": "2025-11-14T18:01:52Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/vllm-router",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2025-11-19T22:49:08Z",
+  "pushed_at": "2025-12-12T14:36:08Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/cvm-compose-files",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 1,
+  "created_at": "2026-02-04T12:34:40Z",
+  "pushed_at": "2026-11-04T22:27:18Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironclaw-docs",
+  "description": "Documentation for IronClaw",
+  "stargazers_count": 1,
+  "forks_count": 2,
+  "created_at": "2026-03-13T15:52:10Z",
+  "pushed_at": "2026-04-09T14:13:07Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/mintlify-docs",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2026-03-13T18:27:18Z",
+  "pushed_at": "2026-03-13T18:27:21Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironclaw-dind",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2026-03-24T20:21:52Z",
+  "pushed_at": "2026-06-04T14:46:35Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/house-of-stake-contracts",
+  "description": null,
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2026-04-29T07:54:25Z",
+  "pushed_at": "2026-10-10T04:11:53Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/LibreChat",
+  "description": "Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active",
+  "stargazers_count": 1,
+  "forks_count": 0,
+  "created_at": "2026-10-15T05:02:25Z",
+  "pushed_at": "2026-11-05T07:39:53Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/factory-example",
+  "description": "This is an example of a factory smart contract - a smart contract that deploys another smart contract through a function call.",
+  "stargazers_count": 0,
+  "forks_count": 9,
+  "created_at": "2022-09-26T09:17:39Z",
+  "pushed_at": "2024-04-03T14:08:10Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/vllm",
+  "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-05-14T22:03:41Z",
+  "pushed_at": "2024-05-16T13:05:24Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/Megatron-LM",
+  "description": "Ongoing research training transformer models at scale",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-05-21T13:53:38Z",
+  "pushed_at": "2024-05-20T08:21:00Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/Megatron-LM-for-MegaBlocks",
+  "description": "Ongoing research training transformer models at scale",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-05-21T16:13:56Z",
+  "pushed_at": "2024-01-19T02:38:49Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/NeMo",
+  "description": "A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-06-14T13:03:37Z",
+  "pushed_at": "2024-06-14T09:17:22Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/nearai-auth",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-07-15T14:53:11Z",
+  "pushed_at": "2025-04-10T15:44:27Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/llm.c",
+  "description": "LLM training in simple, raw C/CUDA",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2024-11-09T09:41:15Z",
+  "pushed_at": "2024-10-02T01:25:39Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/payment-channels",
+  "description": "Payment channels on NEAR",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-01-06T16:31:30Z",
+  "pushed_at": "2025-02-12T16:48:19Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/marketing",
+  "description": "The landing and marketing pages for NEAR AI (blogs, RFPs, etc)",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-03-19T15:11:05Z",
+  "pushed_at": "2025-03-21T18:15:29Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/ui",
+  "description": "A React component library that implements the official design system of NEAR AI.",
+  "stargazers_count": 0,
+  "forks_count": 1,
+  "created_at": "2025-03-19T15:12:36Z",
+  "pushed_at": "2025-03-28T17:18:47Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/assessment-technical-ts-scenario1",
+  "description": "Template repo for technical assessments in TypeScript",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-04-17T15:40:53Z",
+  "pushed_at": "2025-04-21T15:14:34Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/assessment-technical-py-scenario1",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-04-21T15:39:57Z",
+  "pushed_at": "2025-04-22T16:40:05Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/oaa",
+  "description": "Open Agent Alliance Website",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-05-29T07:03:08Z",
+  "pushed_at": "2025-05-19T16:43:53Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/pr-focus",
+  "description": "PR Review app for the Age of AI",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-06-19T21:48:57Z",
+  "pushed_at": "2025-06-26T21:14:11Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/dstack-vpc",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-07T08:39:25Z",
+  "pushed_at": "2026-11-04T21:52:26Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/SkyRL",
+  "description": "SkyRL: A Modular Full-stack RL Library for LLMs",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-07T13:23:15Z",
+  "pushed_at": "2025-11-09T05:33:56Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/lm-evaluation-harness",
+  "description": "A framework for few-shot evaluation of language models.",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-10T19:34:10Z",
+  "pushed_at": "2025-10-09T14:49:32Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/gorilla",
+  "description": "Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-14T05:23:50Z",
+  "pushed_at": "2025-10-28T19:34:26Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/inference-sdk",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 1,
+  "created_at": "2025-10-16T03:09:11Z",
+  "pushed_at": "2026-11-04T10:47:04Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/simple-evals",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-24T20:14:30Z",
+  "pushed_at": "2025-07-31T19:49:09Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/dstack-ingress-vpc",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-25T01:16:20Z",
+  "pushed_at": "2026-07-13T05:30:56Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/api.near.ai-retirement",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-10-31T13:18:51Z",
+  "pushed_at": "2025-10-31T13:28:21Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/dstack-vpc-client",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-12-01T22:27:43Z",
+  "pushed_at": "2026-07-21T04:38:36Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/huggingface.js",
+  "description": "Use Hugging Face with JavaScript",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2025-12-16T23:59:28Z",
+  "pushed_at": "2026-03-25T06:51:23Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/openclaw",
+  "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-01-26T08:06:16Z",
+  "pushed_at": "2026-06-29T15:27:46Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/dstack-openssh-installer",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-02-02T20:32:39Z",
+  "pushed_at": "2026-02-20T09:32:11Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/certbot-sync",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-02-08T19:00:16Z",
+  "pushed_at": "2026-02-08T19:00:18Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/tee-attestation-server",
+  "description": "Lightweight TEE attestation sidecar for dstack CVM deployments",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-02-12T15:26:24Z",
+  "pushed_at": "2026-02-12T15:26:55Z",
+  "archived": true
+ },
+ {
+  "full_name": "nearai/near-ironclaw",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 1,
+  "created_at": "2026-02-17T11:53:55Z",
+  "pushed_at": "2026-10-30T23:42:20Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-ai-web",
+  "description": "Near.AI Website & CMS (Blog)",
+  "stargazers_count": 0,
+  "forks_count": 1,
+  "created_at": "2026-03-06T09:37:44Z",
+  "pushed_at": "2026-09-04T18:19:09Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/cvm-ingress",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-03-11T20:52:39Z",
+  "pushed_at": "2026-11-05T15:00:45Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironclaw-e2e-test",
+  "description": "IronClaw is OpenClaw inspired implementation in Rust focused on privacy and security",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-04-21T13:11:04Z",
+  "pushed_at": "2026-04-21T13:10:18Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/models.dev",
+  "description": "An open-source database of AI models.",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-05-13T14:29:10Z",
+  "pushed_at": "2026-10-07T18:11:44Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/private-chat-ios",
+  "description": "NEAR Private Chat native iOS client (SwiftUI, iOS 17+)",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-06-16T17:57:22Z",
+  "pushed_at": "2026-06-24T01:24:39Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/meta-dstack",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-07-02T20:06:50Z",
+  "pushed_at": "2026-08-13T18:50:52Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/pg-backup",
+  "description": "Encrypted PostgreSQL logical backup sidecar and restore-drill driver for the NEAR AI cloud Postgres CVMs",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-07-28T12:31:52Z",
+  "pushed_at": "2026-08-19T01:11:05Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/ironwire",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 2,
+  "created_at": "2026-08-08T06:14:24Z",
+  "pushed_at": "2026-11-05T21:09:59Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/dstack-images",
+  "description": "Measurement tarballs (mr_<os_image_hash>.tar.gz) for the dstack guest images used by NEAR AI CVMs; served to the KMS via GitHub release assets",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-08-28T21:56:49Z",
+  "pushed_at": "2026-08-28T21:57:06Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-ai-os-design-system",
+  "description": "Near AI OS Design System: tokens, components and pattern libraries for NEAR AI products on desktop, web, tablet and phone.",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-14T22:13:41Z",
+  "pushed_at": "2026-11-04T22:29:44Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/open-code-review",
+  "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-16T03:55:42Z",
+  "pushed_at": "2026-11-04T13:48:50Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/cloud-platform-events",
+  "description": "Usage message envelope and payload types shared by cloud-platform producers and consumer",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-21T04:23:47Z",
+  "pushed_at": "2026-10-21T18:00:46Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/inference-widget",
+  "description": "NEAR AI Inference Widget",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-22T03:17:15Z",
+  "pushed_at": "2026-10-27T02:31:32Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/near-api-rs",
+  "description": null,
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-27T07:58:17Z",
+  "pushed_at": "2026-10-27T08:00:32Z",
+  "archived": false
+ },
+ {
+  "full_name": "nearai/homebrew-tap",
+  "description": "Homebrew formulae for NEAR AI tools (rts: NEAR AI Red SandBox)",
+  "stargazers_count": 0,
+  "forks_count": 0,
+  "created_at": "2026-10-30T00:58:43Z",
+  "pushed_at": "2026-11-04T02:24:09Z",
+  "archived": false
+ }
+]

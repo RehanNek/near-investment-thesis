@@ -1,0 +1,43 @@
+[
+ {
+  "product_id": "prod_zANA3GEZ98Ey4R",
+  "validator_id": "nearai.pool.near",
+  "name": "NEAR AI Agents",
+  "description": "Monthly NEAR AI Agents subscription tiers",
+  "status": "Active",
+  "created_ns": "1785381760261077714",
+  "price_ids": [
+   "price_z7NmLkg5FwKnqlXgC4jRNDjc",
+   "price_Odro98i4bk2e3dgN4dD1d1t3",
+   "price_7byljDhwSXWyWYI81CYFzn5W"
+  ],
+  "default_price_id": "price_z7NmLkg5FwKnqlXgC4jRNDjc",
+  "usage_count": 93
+ },
+ {
+  "product_id": "prod_Bx53UGA2PcMpfA",
+  "validator_id": "nearai.pool.near",
+  "name": "NEAR AI Agent One-Off Credits",
+  "description": "One-off NEAR AI agents credits",
+  "status": "Active",
+  "created_ns": "1785381836047409550",
+  "price_ids": [
+   "price_uhEPnonlwiqCF1AkvnCvdC9n"
+  ],
+  "default_price_id": "price_uhEPnonlwiqCF1AkvnCvdC9n",
+  "usage_count": 7
+ },
+ {
+  "product_id": "prod_33Kp14MGUJa2QA",
+  "validator_id": "nearai.pool.near",
+  "name": "NEAR AI Cloud Credits",
+  "description": "Stake $NEAR to earn NEAR AI Cloud credits",
+  "status": "Active",
+  "created_ns": "1785381885002596234",
+  "price_ids": [
+   "price_QzmSvxbZqdbV0XbG6VD6KkbB"
+  ],
+  "default_price_id": null,
+  "usage_count": 371
+ }
+]

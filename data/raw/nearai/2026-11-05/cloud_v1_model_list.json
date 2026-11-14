@@ -1,0 +1,4686 @@
+{
+ "models": [
+  {
+   "modelId": "anthropic/claude-fable-5",
+   "inputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 50000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 1000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Fable 5",
+    "modelDescription": "Anthropic's most capable widely released model for long-running agents, advanced reasoning, coding, and demanding knowledge work.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-fable-5",
+     "fable-5"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-fable-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "anthropic/claude-fable-5-1",
+   "inputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 50000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Fable 5.1",
+    "modelDescription": "Anthropic's most capable model for real-world agents and coding.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-fable-5-1",
+     "fable-5-1"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-fable-5-1"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "anthropic/claude-haiku-4-5",
+   "inputCostPerToken": {
+    "amount": 1000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "Claude Haiku 4.5",
+    "modelDescription": "Anthropic's fastest model with near-frontier intelligence for high-throughput, cost-sensitive workloads.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-haiku-4-5",
+     "haiku-4-5"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-haiku-4-5-20251001"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 64000,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "anthropic/claude-haiku-5-5",
+   "inputCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 100000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.10",
+       "cachedInput": "0.01",
+       "cacheWrite": "0.125",
+       "output": "0.50"
+      },
+      "long": {
+       "uncachedInput": "0.50",
+       "cachedInput": "0.05",
+       "cacheWrite": "0.625",
+       "output": "2.50"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Haiku 5.5",
+    "modelDescription": "Anthropic's fastest and most cost-efficient model for high-volume work such as classification, extraction, routing, and sub-agent tasks, with adaptive reasoning and a 1M-token context window. Prompts over 100K tokens are billed at a higher rate.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-haiku-5-5",
+     "haiku-5-5",
+     "claude-haiku-latest"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-haiku-5-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "anthropic/claude-opus-4-6",
+   "inputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 25000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "Claude Opus 4.6",
+    "modelDescription": "Anthropic's most intelligent model for building agents and coding",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-opus-4-6",
+     "opus-4-6"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-opus-4-6"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 32768,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "anthropic/claude-opus-4-7",
+   "inputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 25000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Opus 4.7",
+    "modelDescription": "Anthropic's most capable model. Next-generation built for long-running agents and complex coding tasks. 1M token context window with 128K max output.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-opus-4-7",
+     "opus-4-7"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-opus-4-7"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 32768,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "anthropic/claude-opus-4-8",
+   "inputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 25000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Opus 4.8",
+    "modelDescription": "Anthropic's most capable model. Next-generation built for long-running agents and complex coding tasks. 1M token context window with 128K max output.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-opus-4-8",
+     "opus-4-8"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-opus-4-8"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    }
+   }
+  },
+  {
+   "modelId": "anthropic/claude-opus-5",
+   "inputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 25000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Opus 5",
+    "modelDescription": "Anthropic model for complex agentic coding and enterprise work, with adaptive reasoning and a 1M-token context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-opus-5",
+     "opus-5"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-opus-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "anthropic/claude-opus-5-5",
+   "inputCostPerToken": {
+    "amount": 4000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 20000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Opus 5.5",
+    "modelDescription": "Anthropic model for long-running agentic coding and knowledge work, with always-on adaptive reasoning and a 1M-token context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-opus-5-5",
+     "opus-5-5",
+     "claude-opus-latest"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-opus-5-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "anthropic/claude-sonnet-4-5",
+   "inputCostPerToken": {
+    "amount": 3000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 15000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "Claude Sonnet 4.5",
+    "modelDescription": "Anthropic's Claude Sonnet 4.5 - a powerful, efficient model balancing intelligence and speed. Excels at complex reasoning, coding, and creative tasks with 200K context window. Anonymized, not TEE-protected.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-sonnet-4-5-20250929"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "anthropic/claude-sonnet-4-6",
+   "inputCostPerToken": {
+    "amount": 3000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 15000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Sonnet 4.6",
+    "modelDescription": "Anthropic's best balance of speed and intelligence. Extended thinking support with 1M token context window and 64K max output. Ideal for most production workloads.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-sonnet-4-6",
+     "sonnet-4-6"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-sonnet-4-6"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "anthropic/claude-sonnet-5",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Sonnet 5",
+    "modelDescription": "Anthropic's best combination of speed and intelligence for coding, agents, and professional workloads, with adaptive reasoning.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-sonnet-5",
+     "sonnet-5"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-sonnet-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "anthropic/claude-sonnet-5-5",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Claude Sonnet 5.5",
+    "modelDescription": "Anthropic's latest Sonnet model, balancing speed and intelligence for everyday coding, agents, and enterprise work, with adaptive reasoning and a 1M-token context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/76263028?v=4",
+    "ownedBy": "anthropic",
+    "aliases": [
+     "claude-sonnet-5-5",
+     "sonnet-5-5",
+     "claude-sonnet-latest"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "anthropic",
+     "base_url": "https://api.anthropic.com/v1",
+     "model_name": "claude-sonnet-5-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "black-forest-labs/FLUX.2-klein-4B",
+   "inputCostPerToken": {
+    "amount": 1000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 12000000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 128000,
+    "modelDisplayName": "FLUX.2-klein-4B",
+    "modelDescription": "The FLUX.2 [klein] model family are our fastest image models to date. FLUX.2 [klein] unifies generation and editing in a single compact architecture, delivering state-of-the-art quality with end-to-end inference in as low as under a second. Built for applications that require real-time image generation without sacrificing quality.",
+    "modelIcon": "https://cdn-avatars.huggingface.co/v1/production/uploads/633f7a8f4be90e06da248e0f/m5YoF33abJ09vcwFxt1Mj.png",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "image"
+     ]
+    },
+    "huggingFaceId": "black-forest-labs/FLUX.2-klein-4B",
+    "quantization": "bf16",
+    "maxOutputLength": 1,
+    "supportedSamplingParameters": [
+     "seed"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+   "inputCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 6,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 1048576,
+    "modelDisplayName": "DeepSeek V4.1 Flash 1017",
+    "modelDescription": "October 17, 2026 snapshot of DeepSeek V4.1 Flash, a reasoning and coding model. Served privately from NEAR AI's attested TEE infrastructure.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/148330874?v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "providerConfig": {},
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "supportedFeatures": [
+     "tools",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "deepseek-ai/DeepSeek-V4.1-Flash-1017-abliterated",
+   "inputCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 6,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 1048576,
+    "modelDisplayName": "DeepSeek V4.1 Flash 1017 Abliterated",
+    "modelDescription": "DeepSeek V4.1 Flash (October 17, 2026 snapshot) with refusal behavior removed (abliterated), for red teaming, security research and evaluations. Reasoning, coding and tool use, text only, 1M context window. Served privately from NEAR AI's attested TEE infrastructure.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/148330874?v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "supportedFeatures": [
+     "tools",
+     "reasoning"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "deepseek/deepseek-v3.2",
+   "inputCostPerToken": {
+    "amount": 1100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 550,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 128000,
+    "modelDisplayName": "deepseek-v3.2",
+    "modelDescription": "Attested model served via Chutes TEE (verified end-to-end by NEAR AI).",
+    "modelIcon": "https://avatars.githubusercontent.com/u/148330874?v=4",
+    "ownedBy": "attested 3p",
+    "providerType": "chutes",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "stop",
+     "seed",
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "deepseek/deepseek-v4.1-flash",
+   "inputCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 6,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1048576,
+    "modelDisplayName": "DeepSeek V4.1 Flash",
+    "modelDescription": "DeepSeek reasoning and coding model with image understanding. Served through OpenRouter using ZDR inference endpoints.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/148330874?v=4",
+    "ownedBy": "deepseek",
+    "aliases": [
+     "deepseek-v4.1-flash"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "deepseek/deepseek-v4.1-flash",
+     "extra_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "novita/fp8"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     },
+     "enforced_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "novita/fp8"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     }
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "deepseek-ai/DeepSeek-V4.1-Flash",
+    "maxOutputLength": 393216,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "frequency_penalty",
+     "presence_penalty",
+     "repetition_penalty",
+     "stop",
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "deepseek/deepseek-v4.1-flash-1017",
+   "inputCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 6,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1048576,
+    "modelDisplayName": "DeepSeek V4.1 Flash 1017",
+    "modelDescription": "October 17, 2026 snapshot of DeepSeek V4.1 Flash, a reasoning and coding model with image understanding. Served through OpenRouter using zero data retention inference endpoints.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/148330874?v=4",
+    "ownedBy": "deepseek",
+    "aliases": [
+     "deepseek-v4.1-flash-1017",
+     "deepseek-flash-latest",
+     "deepseek/deepseek-flash-latest"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "deepseek/deepseek-v4.1-flash-1017",
+     "extra_request_body": {
+      "provider": {
+       "zdr": true,
+       "ignore": [
+        "relace"
+       ],
+       "max_price": {
+        "prompt": 0.3,
+        "completion": 1.2
+       },
+       "data_collection": "deny",
+       "require_parameters": true
+      }
+     },
+     "enforced_request_body": {
+      "provider": {
+       "zdr": true,
+       "max_price": {
+        "prompt": 0.3,
+        "completion": 1.2
+       },
+       "data_collection": "deny"
+      }
+     }
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "maxOutputLength": 393216,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "frequency_penalty",
+     "presence_penalty",
+     "repetition_penalty",
+     "stop",
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "google/gemini-2.5-flash",
+   "inputCostPerToken": {
+    "amount": 300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 2500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Gemini 2.5 Flash",
+    "modelDescription": "Google's fast hybrid reasoning model with 1M token context window. Optimized for speed and cost while maintaining strong performance across tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "aliases": [
+     "gemini-2.5-flash"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-2.5-flash"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "google/gemini-2.5-flash-lite",
+   "inputCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1048576,
+    "modelDisplayName": "Gemini 2.5 Flash Lite",
+    "modelDescription": "Gemini 2.5 Flash-Lite is a lightweight reasoning model in the Gemini 2.5 family, optimized for ultra-low latency and cost efficiency. It offers improved throughput, faster token generation, and better performance...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-2.5-flash-lite"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "google/gemini-2.5-pro",
+   "inputCostPerToken": {
+    "amount": 1250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Gemini 2.5 Pro",
+    "modelDescription": "Google's strongest reasoning model. Excels at coding, math, and complex analysis with 1M token context window. Supports text and image input.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "aliases": [
+     "gemini-2.5-pro"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-2.5-pro"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "google/gemini-3.1-flash-lite",
+   "inputCostPerToken": {
+    "amount": 250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1048576,
+    "modelDisplayName": "Gemini 3.1 Flash Lite",
+    "modelDescription": "Gemini 3.1 Flash Lite is Google’s GA high-efficiency multimodal model optimized for low-latency, high-volume workloads. It supports text, image, video, audio, and PDF inputs, and is designed for lightweight agentic...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-3.1-flash-lite"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "google/gemini-3.5-flash",
+   "inputCostPerToken": {
+    "amount": 1500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 9000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 150,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Gemini 3.5 Flash",
+    "modelDescription": "Google's high-efficiency multimodal model with 1M token context. Strong agentic and coding performance, rivaling larger flagship models on many tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "aliases": [
+     "gemini-3.5-flash"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-3.5-flash"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "google/gemini-3.8-flash",
+   "inputCostPerToken": {
+    "amount": 750,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 3750,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 75,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Gemini 3.8 Flash",
+    "modelDescription": "Google's stable, high-efficiency Gemini 3.8 Flash model for agentic coding, multimodal understanding, and high-throughput workloads, with a 1M-token context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/1342004?v=4",
+    "ownedBy": "google",
+    "aliases": [
+     "gemini-3.8-flash"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "gemini",
+     "base_url": "https://generativelanguage.googleapis.com/v1beta",
+     "model_name": "gemini-3.8-flash"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    }
+   }
+  },
+  {
+   "modelId": "levanto/sage-2",
+   "inputCostPerToken": {
+    "amount": 70,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 32768,
+    "modelDisplayName": "Levanto Sage 2",
+    "modelDescription": "Sage is a decision model: send text and typed questions (yes/no, choice, score) and get calibrated probabilities back instead of generated text. Choice and score distributions sum to 1. Call it through /v1/systemone.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/301166351?s=200&v=4",
+    "ownedBy": "levanto",
+    "aliases": [
+     "levanto/sage-1.4"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "typesafe",
+     "base_url": "https://private.sage.levanto.ai/v1",
+     "model_name": "levanto-sage-2"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "decisions"
+     ]
+    },
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "moonshotai/kimi-k2.6",
+   "inputCostPerToken": {
+    "amount": 810,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 3850,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 410,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 262144,
+    "modelDisplayName": "Kimi K2.6",
+    "modelDescription": "Moonshot AI's frontier MoE model with 256K context window. Excels at complex reasoning, math, coding, and multilingual tasks with native vision support.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/129152888?s=200&v=4",
+    "ownedBy": "attested 3p",
+    "aliases": [
+     "kimi-k2.6"
+    ],
+    "providerType": "chutes",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "moonshotai/kimi-k2.6"
+    },
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "moonshotai/Kimi-K2.6",
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "moonshotai/kimi-k3",
+   "inputCostPerToken": {
+    "amount": 3300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 16500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 330,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 1048576,
+    "modelDisplayName": "Kimi K3",
+    "modelDescription": "Moonshot AI native multimodal agentic model with a 1M-token context window, built for long-horizon coding, knowledge work, and reasoning.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/129152888?s=200&v=4",
+    "ownedBy": "attested 3p",
+    "aliases": [
+     "kimi-k3"
+    ],
+    "providerType": "chutes",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "quantization": "fp4",
+    "maxOutputLength": 65535,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "repetition_penalty",
+     "frequency_penalty",
+     "presence_penalty",
+     "stop",
+     "seed",
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "moonshotai/kimi-k3.1-pro",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Kimi K3.1 Pro",
+    "modelDescription": "Kimi K3.1 Pro is Moonshot AI's flagship open-weight multimodal reasoning model and a post-trained successor to Kimi K3, with a 1M-token context window. It is built for long-horizon coding, 3D creation, financial research, and end-to-end agentic knowledge work, with native image and video understanding.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/129152888?s=200&v=4",
+    "ownedBy": "moonshotai",
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    }
+   }
+  },
+  {
+   "modelId": "openai/gpt-4.1",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 8000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.50",
+       "output": "8.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "3.50",
+       "cachedInput": "0.875",
+       "output": "14.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "OpenAI GPT-4.1",
+    "modelDescription": "OpenAI's flagship production model with 1M token context window. Excels at instruction following, coding, and long-context tasks. 75% cheaper cached input reads.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "gpt-4.1"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-4.1"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-4.1-mini",
+   "inputCostPerToken": {
+    "amount": 400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1600,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.40",
+       "cachedInput": "0.10",
+       "output": "1.60"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "0.70",
+       "cachedInput": "0.175",
+       "output": "2.80"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "OpenAI GPT-4.1 Mini",
+    "modelDescription": "Cost-effective version of GPT-4.1 with the same 1M token context window. Great balance of capability and cost for production workloads.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "gpt-4.1-mini"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-4.1-mini"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5",
+   "inputCostPerToken": {
+    "amount": 1250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 125,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "1.25",
+       "cachedInput": "0.125",
+       "output": "10.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.625",
+       "cachedInput": "0.0625",
+       "output": "5.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "2.50",
+       "cachedInput": "0.25",
+       "output": "20.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "OpenAI GPT-5",
+    "modelDescription": "OpenAI's next-generation model with enhanced reasoning and 400K context window. Strong performance across coding, math, and creative tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "gpt-5"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.1",
+   "inputCostPerToken": {
+    "amount": 1250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 125,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "1.25",
+       "cachedInput": "0.125",
+       "output": "10.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.625",
+       "cachedInput": "0.0625",
+       "output": "5.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "2.50",
+       "cachedInput": "0.25",
+       "output": "20.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "GPT-5.1",
+    "modelDescription": "GPT-5.1 is the latest frontier-grade model in the GPT-5 series, offering stronger general-purpose reasoning, improved instruction adherence, and a more natural conversational style compared to GPT-5. It uses adaptive reasoning...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.1"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.2",
+   "inputCostPerToken": {
+    "amount": 1750,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 14000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 175,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "1.75",
+       "cachedInput": "0.175",
+       "output": "14.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.875",
+       "cachedInput": "0.0875",
+       "output": "7.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "3.50",
+       "cachedInput": "0.35",
+       "output": "28.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "OpenAI GPT-5.2",
+    "modelDescription": "OpenAI GPT-5.2 with 400k context window. Anonymized endpoint optimized for deep reasoning and large-context workflows.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "openai-gpt-5.2",
+     "gpt-5.2",
+     "gpt-5.2-400k"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.2"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.4",
+   "inputCostPerToken": {
+    "amount": 2500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 15000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.50",
+       "cachedInput": "0.25",
+       "output": "15.00"
+      },
+      "long": {
+       "uncachedInput": "5.00",
+       "cachedInput": "0.50",
+       "output": "22.50"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "1.25",
+       "cachedInput": "0.13",
+       "output": "7.50"
+      },
+      "long": {
+       "uncachedInput": "2.50",
+       "cachedInput": "0.25",
+       "output": "11.25"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "5.00",
+       "cachedInput": "0.50",
+       "output": "30.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-5.4",
+    "modelDescription": "GPT-5.4 is OpenAI’s latest frontier model, unifying the Codex and GPT lines into a single system. It features a 1M+ token context window (922K input, 128K output) with support for...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.4"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.4-mini",
+   "inputCostPerToken": {
+    "amount": 750,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 4500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 75,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.75",
+       "cachedInput": "0.075",
+       "output": "4.50"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.375",
+       "cachedInput": "0.0375",
+       "output": "2.25"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "1.50",
+       "cachedInput": "0.15",
+       "output": "9.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "GPT-5.4 Mini",
+    "modelDescription": "GPT-5.4 mini brings the core capabilities of GPT-5.4 to a faster, more efficient model optimized for high-throughput workloads. It supports text and image inputs with strong performance across reasoning, coding,...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.4-mini"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.4-nano",
+   "inputCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 20,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.20",
+       "cachedInput": "0.02",
+       "output": "1.25"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.10",
+       "cachedInput": "0.01",
+       "output": "0.625"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "GPT-5.4 Nano",
+    "modelDescription": "GPT-5.4 nano is the most lightweight and cost-efficient variant of the GPT-5.4 family, optimized for speed-critical and high-volume tasks. It supports text and image inputs and is designed for low-latency...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.4-nano"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.5",
+   "inputCostPerToken": {
+    "amount": 5000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 30000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "5.00",
+       "cachedInput": "0.50",
+       "output": "30.00"
+      },
+      "long": {
+       "uncachedInput": "10.00",
+       "cachedInput": "1.00",
+       "output": "45.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "2.50",
+       "cachedInput": "0.25",
+       "output": "15.00"
+      },
+      "long": {
+       "uncachedInput": "5.00",
+       "cachedInput": "0.50",
+       "output": "22.50"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "12.50",
+       "cachedInput": "1.25",
+       "output": "75.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-5.5",
+    "modelDescription": "GPT-5.5 is OpenAI’s frontier model designed for complex professional workloads, building on GPT-5.4 with stronger reasoning, higher reliability, and improved token efficiency on hard tasks. It features a 1M+ token...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.5"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.6-luna",
+   "inputCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 20,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.20",
+       "cachedInput": "0.02",
+       "cacheWrite": "0.25",
+       "output": "1.20"
+      },
+      "long": {
+       "uncachedInput": "0.40",
+       "cachedInput": "0.04",
+       "cacheWrite": "0.50",
+       "output": "1.80"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.10",
+       "cachedInput": "0.01",
+       "cacheWrite": "0.125",
+       "output": "0.60"
+      },
+      "long": {
+       "uncachedInput": "0.20",
+       "cachedInput": "0.02",
+       "cacheWrite": "0.25",
+       "output": "0.90"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "0.40",
+       "cachedInput": "0.04",
+       "cacheWrite": "0.50",
+       "output": "2.40"
+      },
+      "long": {
+       "uncachedInput": "0.80",
+       "cachedInput": "0.08",
+       "cacheWrite": "1.00",
+       "output": "3.60"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-5.6 Luna",
+    "modelDescription": "OpenAI GPT-5.6 model optimized for cost-sensitive workloads",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "gpt-4.1-nano",
+     "openai/gpt-4.1-nano"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.6-luna"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "stop",
+     "seed",
+     "max_tokens",
+     "logit_bias"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "structured_outputs",
+     "logprobs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "openai/gpt-5.6-sol",
+   "inputCostPerToken": {
+    "amount": 4000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 20000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.40",
+       "cacheWrite": "5.00",
+       "output": "20.00"
+      },
+      "long": {
+       "uncachedInput": "8.00",
+       "cachedInput": "0.80",
+       "cacheWrite": "10.00",
+       "output": "30.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.20",
+       "cacheWrite": "2.50",
+       "output": "10.00"
+      },
+      "long": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.40",
+       "cacheWrite": "5.00",
+       "output": "15.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "8.00",
+       "cachedInput": "0.80",
+       "cacheWrite": "10.00",
+       "output": "40.00"
+      },
+      "long": {
+       "uncachedInput": "16.00",
+       "cachedInput": "1.60",
+       "cacheWrite": "20.00",
+       "output": "60.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-5.6 Sol",
+    "modelDescription": "OpenAI frontier model for complex professional work",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "openai/gpt-5.6"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5.6-sol"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "stop",
+     "seed",
+     "max_tokens",
+     "logit_bias"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "structured_outputs",
+     "logprobs",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "openai/gpt-5-mini",
+   "inputCostPerToken": {
+    "amount": 250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 25,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.25",
+       "cachedInput": "0.025",
+       "output": "2.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.125",
+       "cachedInput": "0.0125",
+       "output": "1.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "0.45",
+       "cachedInput": "0.045",
+       "output": "3.60"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "GPT-5 Mini",
+    "modelDescription": "GPT-5 Mini is a compact version of GPT-5, designed to handle lighter-weight reasoning tasks. It provides the same instruction-following and safety-tuning benefits as GPT-5, but with reduced latency and cost....",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5-mini"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-5-nano",
+   "inputCostPerToken": {
+    "amount": 50,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 5,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.05",
+       "cachedInput": "0.005",
+       "output": "0.40"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.025",
+       "cachedInput": "0.0025",
+       "output": "0.20"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 400000,
+    "modelDisplayName": "GPT-5 Nano",
+    "modelDescription": "GPT-5-Nano is the smallest and fastest variant in the GPT-5 system, optimized for developer tools, rapid interactions, and ultra-low latency environments. While limited in reasoning depth compared to its larger...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-5-nano"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/gpt-6.1-sol",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.10",
+       "cacheWrite": "2.50",
+       "output": "10.00"
+      },
+      "long": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.20",
+       "cacheWrite": "5.00",
+       "output": "15.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "1.00",
+       "cachedInput": "0.05",
+       "cacheWrite": "1.25",
+       "output": "5.00"
+      },
+      "long": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.10",
+       "cacheWrite": "2.50",
+       "output": "7.50"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.20",
+       "cacheWrite": "5.00",
+       "output": "20.00"
+      },
+      "long": {
+       "uncachedInput": "8.00",
+       "cachedInput": "0.40",
+       "cacheWrite": "10.00",
+       "output": "30.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-6.1 Sol",
+    "modelDescription": "OpenAI GPT-6.1 model for complex coding and agentic workflows. Tool calling is not currently advertised through NEAR AI Cloud.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-6.1-sol"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "openai/gpt-6-astra",
+   "inputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 50000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 1000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "10.00",
+       "cachedInput": "1.00",
+       "cacheWrite": "12.50",
+       "output": "50.00"
+      },
+      "long": {
+       "uncachedInput": "20.00",
+       "cachedInput": "2.00",
+       "cacheWrite": "25.00",
+       "output": "75.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "5.00",
+       "cachedInput": "0.50",
+       "cacheWrite": "6.25",
+       "output": "25.00"
+      },
+      "long": {
+       "uncachedInput": "10.00",
+       "cachedInput": "1.00",
+       "cacheWrite": "12.50",
+       "output": "37.50"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "20.00",
+       "cachedInput": "2.00",
+       "cacheWrite": "25.00",
+       "output": "100.00"
+      },
+      "long": {
+       "uncachedInput": "40.00",
+       "cachedInput": "4.00",
+       "cacheWrite": "50.00",
+       "output": "150.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-6 Astra",
+    "modelDescription": "OpenAI model for complex reasoning, coding, research, and document creation. Tool calling is not currently supported through NEAR AI Cloud.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-6-astra"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ]
+   }
+  },
+  {
+   "modelId": "openai/gpt-6-luna",
+   "inputCostPerToken": {
+    "amount": 100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "0.10",
+       "cachedInput": "0.01",
+       "cacheWrite": "0.125",
+       "output": "0.50"
+      },
+      "long": {
+       "uncachedInput": "0.20",
+       "cachedInput": "0.02",
+       "cacheWrite": "0.25",
+       "output": "0.75"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.05",
+       "cachedInput": "0.005",
+       "cacheWrite": "0.0625",
+       "output": "0.25"
+      },
+      "long": {
+       "uncachedInput": "0.10",
+       "cachedInput": "0.01",
+       "cacheWrite": "0.125",
+       "output": "0.375"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "0.20",
+       "cachedInput": "0.02",
+       "cacheWrite": "0.25",
+       "output": "1.00"
+      },
+      "long": {
+       "uncachedInput": "0.40",
+       "cachedInput": "0.04",
+       "cacheWrite": "0.50",
+       "output": "1.50"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-6 Luna",
+    "modelDescription": "OpenAI GPT-6 model optimized for focused, high-volume workloads. Tool calling is not currently advertised through NEAR AI Cloud.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-6-luna"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "openai/gpt-6-sol",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 200,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 272000,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.20",
+       "cacheWrite": "2.50",
+       "output": "10.00"
+      },
+      "long": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.40",
+       "cacheWrite": "5.00",
+       "output": "15.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "1.00",
+       "cachedInput": "0.10",
+       "cacheWrite": "1.25",
+       "output": "5.00"
+      },
+      "long": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.20",
+       "cacheWrite": "2.50",
+       "output": "7.50"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "4.00",
+       "cachedInput": "0.40",
+       "cacheWrite": "5.00",
+       "output": "20.00"
+      },
+      "long": {
+       "uncachedInput": "8.00",
+       "cachedInput": "0.80",
+       "cacheWrite": "10.00",
+       "output": "30.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1050000,
+    "modelDisplayName": "GPT-6 Sol",
+    "modelDescription": "OpenAI GPT-6 model for complex coding and agentic workflows. Tool calling is not currently advertised through NEAR AI Cloud.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "gpt-6-sol"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 128000,
+    "supportedSamplingParameters": [
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "openai/o3",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 8000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.50",
+       "output": "8.00"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "1.00",
+       "cachedInput": "0.25",
+       "output": "4.00"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "3.50",
+       "cachedInput": "0.875",
+       "output": "14.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "OpenAI o3",
+    "modelDescription": "OpenAI's flagship reasoning model. Uses chain-of-thought to solve complex math, coding, and logic problems. 200K context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "o3"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "o3"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 32768,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/o3-mini",
+   "inputCostPerToken": {
+    "amount": 1100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 4400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 550,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "1.10",
+       "cachedInput": "0.55",
+       "output": "4.40"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "o3 Mini",
+    "modelDescription": "OpenAI o3-mini is a cost-efficient language model optimized for STEM reasoning tasks, particularly excelling in science, mathematics, and coding. This model supports the `reasoning_effort` parameter, which can be set to...",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "o3-mini"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 32768,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/o4-mini",
+   "inputCostPerToken": {
+    "amount": 1100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 4400,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 275,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "1.10",
+       "cachedInput": "0.275",
+       "output": "4.40"
+      }
+     },
+     "flex": {
+      "short": {
+       "uncachedInput": "0.55",
+       "cachedInput": "0.138",
+       "output": "2.20"
+      }
+     },
+     "priority": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.50",
+       "output": "8.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 200000,
+    "modelDisplayName": "OpenAI o4 Mini",
+    "modelDescription": "OpenAI's cost-effective reasoning model. Strong performance on math, coding, and scientific reasoning at a fraction of o3's cost. 200K context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "openai",
+    "aliases": [
+     "o4-mini"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "backend": "openai_compatible",
+     "base_url": "https://api.openai.com/v1",
+     "model_name": "o4-mini"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 32768,
+    "supportedSamplingParameters": [
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "openai/privacy-filter",
+   "inputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 128000,
+    "modelDisplayName": "Privacy Filter",
+    "modelDescription": "PII detection (token classification) — returns spans for emails, phones, addresses, names, account numbers, secrets. NEAR AI runs this model in a TEE; prompts are not anonymized by the model itself, the cloud-api wraps it to do redaction.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/29134221?v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 1024,
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "openai/whisper-large-v3",
+   "inputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 448,
+    "modelDisplayName": "Whisper Large v3",
+    "modelDescription": "Whisper is a state-of-the-art model for automatic speech recognition (ASR) and speech translation.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/14957082?s=200&v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "audio"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "openai/whisper-large-v3",
+    "maxOutputLength": 1024,
+    "supportedSamplingParameters": [
+     "temperature"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "qwen/qwen3.5-397b-a17b",
+   "inputCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 3300,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 250,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 128000,
+    "modelDisplayName": "qwen3.5-397b-a17b",
+    "modelDescription": "Attested model served via Chutes TEE (verified end-to-end by NEAR AI).",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?v=4",
+    "ownedBy": "attested 3p",
+    "providerType": "chutes",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "stop",
+     "seed",
+     "max_tokens"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3.6-35B-A3B-FP8",
+   "inputCostPerToken": {
+    "amount": 170,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1100,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 56,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 262144,
+    "modelDisplayName": "Qwen 3.6 35B A3B FP8",
+    "modelDescription": "Qwen 3.6 35B is a fast mixture-of-experts language model with ~3B active parameters per token. Strong at reasoning, coding, and multilingual tasks with 32K context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?s=200&v=4",
+    "ownedBy": "nearai",
+    "aliases": [
+     "qwen3.6-35b-a3b-fp8",
+     "qwen/qwen3.6-35b-a3b-fp8",
+     "Qwen/Qwen3-30B-A3B-Instruct-2507",
+     "qwen/qwen3-30b-a3b-instruct-2507",
+     "qwen3-30b-a3b-instruct-2507"
+    ],
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "Qwen/Qwen3.6-35B-A3B-FP8",
+    "quantization": "fp8",
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "min_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "repetition_penalty",
+     "stop",
+     "seed",
+     "max_tokens",
+     "logit_bias"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "json_mode",
+     "structured_outputs",
+     "logprobs",
+     "reasoning"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ],
+    "isReady": true,
+    "openrouterSlug": "qwen/qwen3.6-35b-a3b"
+   }
+  },
+  {
+   "modelId": "qwen/qwen3.7-max",
+   "inputCostPerToken": {
+    "amount": 2800,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 7500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 1000000,
+    "modelDisplayName": "Qwen3.7 Max",
+    "modelDescription": "Qwen's most capable proprietary model with 1M context window. Strong at reasoning, coding, math, and multilingual tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?s=200&v=4",
+    "ownedBy": "qwen",
+    "aliases": [
+     "qwen3.7-max"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "qwen/qwen3.7-max"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 16384,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "frequency_penalty",
+     "presence_penalty",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode"
+    ],
+    "isReady": false
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3.8-27B",
+   "inputCostPerToken": {
+    "amount": 40,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1350,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 18,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 262144,
+    "modelDisplayName": "Qwen 3.8 27B",
+    "modelDescription": "Qwen 3.8 27B is a dense FP8 multimodal model with reasoning, coding, tool use, vision, and a 262K context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "Qwen/Qwen3.8-27B-FP8",
+    "quantization": "fp8",
+    "maxOutputLength": 65536,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ],
+    "isReady": true,
+    "openrouterSlug": "qwen/qwen3.8-27b"
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3.8-27B-abliterated",
+   "inputCostPerToken": {
+    "amount": 40,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 1350,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 18,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 262144,
+    "modelDisplayName": "Qwen 3.8 27B Abliterated",
+    "modelDescription": "Qwen 3.8 27B with refusal behavior removed (abliterated), for red teaming, security research and evaluations. Reasoning, tool use, vision and a 262K context window. Served privately from NEAR AI's attested TEE infrastructure.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "quantization": "fp8",
+    "maxOutputLength": 65536,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "max_tokens",
+     "stop",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     },
+     {
+      "country_code": "IN"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3-Embedding-0.6B",
+   "inputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 32768,
+    "modelDisplayName": "Qwen3-Embedding-0.6B",
+    "modelDescription": "The Qwen3 Embedding model series is the latest proprietary model of the Qwen family, specifically designed for text embedding tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/223098841?s=200&v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "embedding"
+     ]
+    },
+    "huggingFaceId": "Qwen/Qwen3-Embedding-0.6B",
+    "quantization": "bf16",
+    "maxOutputLength": 1024,
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3-Reranker-0.6B",
+   "inputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 10,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 40960,
+    "modelDisplayName": "Qwen3-Reranker-0.6B",
+    "modelDescription": "The Qwen3 Embedding model series is the latest proprietary model of the Qwen family, specifically designed for text embedding and ranking tasks.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/223098841?s=200&v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "Qwen/Qwen3-Reranker-0.6B",
+    "quantization": "bf16",
+    "maxOutputLength": 1024,
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ]
+   }
+  },
+  {
+   "modelId": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+   "inputCostPerToken": {
+    "amount": 150,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 550,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 30,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 16384,
+    "modelDisplayName": "Qwen3-VL-30B-A3B-Instruct",
+    "modelDescription": "Qwen3-VL-30B-A3B-Instruct is a vision-language model supporting text and image inputs.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/141221163?s=200&v=4",
+    "ownedBy": "nearai",
+    "providerType": "vllm",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "Qwen/Qwen3-VL-30B-A3B-Instruct",
+    "quantization": "fp8",
+    "maxOutputLength": 8192,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "min_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "repetition_penalty",
+     "max_tokens",
+     "stop",
+     "seed",
+     "logit_bias"
+    ],
+    "supportedFeatures": [
+     "structured_outputs",
+     "logprobs"
+    ],
+    "datacenters": [
+     {
+      "country_code": "US"
+     }
+    ],
+    "isReady": true,
+    "openrouterSlug": "qwen/qwen3-vl-30b-a3b-instruct"
+   }
+  },
+  {
+   "modelId": "typesafe/jev-1.13",
+   "inputCostPerToken": {
+    "amount": 42,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 32000,
+    "modelDisplayName": "Jev 1.13",
+    "modelDescription": "Jev is a structured decision model from TypeSafe, and the first of its System One models. System One models make fast, structured decisions for software, returning a typed choice rather than free-form text. It is suited for routing, classification, and other decision points inside an application where a fast, predictable answer matters more than generated prose.\n\nLearn more in TypeSafe's docs: https://docs.typesafe.ai/concepts/system-one",
+    "modelIcon": "https://avatars.githubusercontent.com/u/171090879?s=200&v=4",
+    "ownedBy": "typesafe",
+    "aliases": [
+     "typesafe/jev-latest"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "typesafe",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "typesafe/jev-1.13"
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "decisions"
+     ]
+    }
+   }
+  },
+  {
+   "modelId": "x-ai/grok-4.6",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 6000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 199999,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.50",
+       "output": "6.00"
+      },
+      "long": {
+       "uncachedInput": "4.00",
+       "cachedInput": "1.00",
+       "output": "12.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 500000,
+    "modelDisplayName": "Grok 4.6",
+    "modelDescription": "xAI model for reasoning, coding, knowledge work, and image understanding.",
+    "modelIcon": "https://raw.githubusercontent.com/lobehub/lobe-icons/a94750e3f5f8fc33757b839d85030e742284e43a/packages/static-svg/icons/grok.svg",
+    "ownedBy": "x-ai",
+    "aliases": [
+     "grok-4.6"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "x-ai/grok-4.6",
+     "extra_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "xai/zdr"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     },
+     "enforced_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "xai/zdr"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     }
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 450000,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "max_tokens",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning",
+     "logprobs"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "x-ai/grok-4.7",
+   "inputCostPerToken": {
+    "amount": 2000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 6000,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "textPricing": {
+    "version": 1,
+    "currency": "USD",
+    "unit": "million_tokens",
+    "longContextThreshold": 199999,
+    "tiers": {
+     "default": {
+      "short": {
+       "uncachedInput": "2.00",
+       "cachedInput": "0.50",
+       "output": "6.00"
+      },
+      "long": {
+       "uncachedInput": "4.00",
+       "cachedInput": "1.00",
+       "output": "12.00"
+      }
+     }
+    }
+   },
+   "metadata": {
+    "verifiable": false,
+    "contextLength": 500000,
+    "modelDisplayName": "Grok 4.7",
+    "modelDescription": "xAI frontier model for coding, agentic tasks, knowledge work, and image understanding.",
+    "modelIcon": "https://raw.githubusercontent.com/lobehub/lobe-icons/a94750e3f5f8fc33757b839d85030e742284e43a/packages/static-svg/icons/grok.svg",
+    "ownedBy": "x-ai",
+    "aliases": [
+     "grok-4.7"
+    ],
+    "providerType": "external",
+    "providerConfig": {
+     "api_key": "***",
+     "backend": "openai_compatible",
+     "base_url": "https://openrouter.ai/api/v1",
+     "model_name": "x-ai/grok-4.7",
+     "extra_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "xai/zdr"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     },
+     "enforced_request_body": {
+      "provider": {
+       "zdr": true,
+       "only": [
+        "xai/zdr"
+       ],
+       "allow_fallbacks": false,
+       "data_collection": "deny"
+      }
+     }
+    },
+    "attestationSupported": false,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "maxOutputLength": 450000,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "max_tokens",
+     "seed"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "json_mode",
+     "reasoning"
+    ],
+    "isReady": true
+   }
+  },
+  {
+   "modelId": "z-ai/glm-5.3",
+   "inputCostPerToken": {
+    "amount": 1800,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 5750,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 450,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 1048576,
+    "modelDisplayName": "GLM 5.3",
+    "modelDescription": "GLM-5.3 is a large-scale reasoning model from Z.ai, built for complex software engineering and long-horizon agent tasks, with a 1M-token context window.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/223098841?v=4",
+    "ownedBy": "attested 3p",
+    "providerType": "tinfoil",
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "max_tokens",
+     "stop",
+     "seed",
+     "frequency_penalty",
+     "presence_penalty"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "reasoning"
+    ],
+    "openrouterSlug": "z-ai/glm-5.3"
+   }
+  },
+  {
+   "modelId": "z-ai/glm-5.3-flash",
+   "inputCostPerToken": {
+    "amount": 80,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "outputCostPerToken": {
+    "amount": 500,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "costPerImage": {
+    "amount": 0,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "cacheReadCostPerToken": {
+    "amount": 12,
+    "scale": 9,
+    "currency": "USD"
+   },
+   "metadata": {
+    "verifiable": true,
+    "contextLength": 1048576,
+    "modelDisplayName": "GLM 5.3 Flash",
+    "modelDescription": "GLM-5.3-Flash is a native multimodal mixture-of-experts model for coding, agentic workflows, reasoning, tool use, and visual understanding.",
+    "modelIcon": "https://avatars.githubusercontent.com/u/223098841?v=4",
+    "ownedBy": "nearai",
+    "aliases": [
+     "zai-org/GLM-5.3-Flash",
+     "GLM-5.3-Flash",
+     "glm-5.3-flash",
+     "zai-org/GLM-5.1-FP8",
+     "zai-org/GLM-5-FP8",
+     "glm-latest",
+     "zai-org/GLM-latest",
+     "GLM-5",
+     "zai-org/GLM-4.7",
+     "glm",
+     "GLM-5.1",
+     "zai-org/GLM-5.1",
+     "z-ai/glm-5.2",
+     "deepseek-ai/DeepSeek-V4-Flash"
+    ],
+    "providerType": "vllm",
+    "providerConfig": {
+     "long_context": {
+      "inference_url": "https://glm-5-3-flash-long.completions.near.ai",
+      "max_context_tokens": 1048576,
+      "base_max_context_tokens": 100000
+     }
+    },
+    "attestationSupported": true,
+    "architecture": {
+     "inputModalities": [
+      "text",
+      "image"
+     ],
+     "outputModalities": [
+      "text"
+     ]
+    },
+    "huggingFaceId": "zai-org/GLM-5.3-Flash",
+    "quantization": "fp8",
+    "maxOutputLength": 1048576,
+    "supportedSamplingParameters": [
+     "temperature",
+     "top_p",
+     "top_k",
+     "min_p",
+     "frequency_penalty",
+     "presence_penalty",
+     "repetition_penalty",
+     "max_tokens",
+     "stop",
+     "seed",
+     "logit_bias"
+    ],
+    "supportedFeatures": [
+     "tools",
+     "structured_outputs",
+     "reasoning",
+     "json_mode"
+    ],
+    "isReady": true,
+    "openrouterSlug": "z-ai/glm-5.3-flash"
+   }
+  }
+ ],
+ "limit": 100,
+ "offset": 0,
+ "total": 64
+}

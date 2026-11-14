@@ -1,0 +1,23 @@
+# Secrets: never commit
+.env
+.env.*
+!.env.example
+
+# The raw Explorer API pages (2.6 GB) and the table consolidated from them. What is committed instead is
+# data/raw/explorer/swaps/: one row per swap with the fields the analysis uses (about 100 MB).
+data/raw/explorer/pages/
+data/raw/explorer/swaps.parquet
+data/raw/explorer/*.log
+data/raw/revenue_tracker/*/page.html.gz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# OS and local editor settings (launch.json holds a path on the author's machine)
+.DS_Store
+.claude/launch.json
+
+# Display copies of each version's THESIS.md, for viewing in a browser only
+preview/

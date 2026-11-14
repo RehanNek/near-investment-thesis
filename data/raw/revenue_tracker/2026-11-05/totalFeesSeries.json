@@ -1,0 +1,5432 @@
+[
+ {
+  "date_at": "2025-05-06",
+  "total_fees_near": 0.01113793103448276,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.01113793103448276,
+  "fees_usd": 0.025840000000000002,
+  "cumulative_fees_usd": 0.025840000000000002
+ },
+ {
+  "date_at": "2025-05-08",
+  "total_fees_near": 0.024104502183406113,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.03524243321788888,
+  "fees_usd": 0.05519931,
+  "cumulative_fees_usd": 0.08103931
+ },
+ {
+  "date_at": "2025-05-09",
+  "total_fees_near": 0.0029466192170818505,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.03818905243497073,
+  "fees_usd": 0.00828,
+  "cumulative_fees_usd": 0.08931931
+ },
+ {
+  "date_at": "2025-05-13",
+  "total_fees_near": 0.032670871069182386,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.07085992350415311,
+  "fees_usd": 0.10389337,
+  "cumulative_fees_usd": 0.19321268
+ },
+ {
+  "date_at": "2025-05-14",
+  "total_fees_near": 0.05307894720496894,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.12393887070912205,
+  "fees_usd": 0.17091420999999998,
+  "cumulative_fees_usd": 0.36412689
+ },
+ {
+  "date_at": "2025-05-15",
+  "total_fees_near": 0.011267469262295084,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.13520633997141712,
+  "fees_usd": 0.032991150000000004,
+  "cumulative_fees_usd": 0.39711804
+ },
+ {
+  "date_at": "2025-05-16",
+  "total_fees_near": 0.022841459735437455,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.15804779970685456,
+  "fees_usd": 0.06561589999999999,
+  "cumulative_fees_usd": 0.46273394
+ },
+ {
+  "date_at": "2025-05-19",
+  "total_fees_near": 0.01733247252747253,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.1753802722343271,
+  "fees_usd": 0.04731765,
+  "cumulative_fees_usd": 0.51005159
+ },
+ {
+  "date_at": "2025-05-20",
+  "total_fees_near": 0.04100573782338489,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.21638601005771196,
+  "fees_usd": 0.11348748,
+  "cumulative_fees_usd": 0.62353907
+ },
+ {
+  "date_at": "2025-05-21",
+  "total_fees_near": 0.06690124662594116,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.2832872566836531,
+  "fees_usd": 0.18836714999999996,
+  "cumulative_fees_usd": 0.8119062199999999
+ },
+ {
+  "date_at": "2025-05-22",
+  "total_fees_near": 0.054121524618678085,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 0.3374087813023312,
+  "fees_usd": 0.16180171,
+  "cumulative_fees_usd": 0.9737079299999999
+ },
+ {
+  "date_at": "2025-05-23",
+  "total_fees_near": 6.400127758574848,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6.737536539877179,
+  "fees_usd": 19.2567044,
+  "cumulative_fees_usd": 20.23041233
+ },
+ {
+  "date_at": "2025-05-24",
+  "total_fees_near": 0.053372705279635696,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6.790909245156815,
+  "fees_usd": 0.15002000000000001,
+  "cumulative_fees_usd": 20.38043233
+ },
+ {
+  "date_at": "2025-05-25",
+  "total_fees_near": 2.5419091209760403,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9.332818366132855,
+  "fees_usd": 6.917043100000001,
+  "cumulative_fees_usd": 27.297475430000002
+ },
+ {
+  "date_at": "2025-05-26",
+  "total_fees_near": 1.4295089604455233,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10.76232732657838,
+  "fees_usd": 4.0043405,
+  "cumulative_fees_usd": 31.301815930000004
+ },
+ {
+  "date_at": "2025-05-27",
+  "total_fees_near": 0.28853135138947666,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11.050858677967856,
+  "fees_usd": 0.8181595,
+  "cumulative_fees_usd": 32.119975430000004
+ },
+ {
+  "date_at": "2025-05-28",
+  "total_fees_near": 5.192388689210267,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16.24324736717812,
+  "fees_usd": 14.648766970000002,
+  "cumulative_fees_usd": 46.76874240000001
+ },
+ {
+  "date_at": "2025-05-29",
+  "total_fees_near": 3.24187590265241,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19.48512326983053,
+  "fees_usd": 9.33789935,
+  "cumulative_fees_usd": 56.10664175000001
+ },
+ {
+  "date_at": "2025-05-30",
+  "total_fees_near": 0.3536489431765967,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19.83877221300713,
+  "fees_usd": 0.9235895799999999,
+  "cumulative_fees_usd": 57.03023133000001
+ },
+ {
+  "date_at": "2025-05-31",
+  "total_fees_near": 0.015274439741035857,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19.854046652748163,
+  "fees_usd": 0.036805290000000004,
+  "cumulative_fees_usd": 57.06703662
+ },
+ {
+  "date_at": "2025-06-01",
+  "total_fees_near": 0.004844846128391793,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19.858891498876556,
+  "fees_usd": 0.011712899999999998,
+  "cumulative_fees_usd": 57.07874952
+ },
+ {
+  "date_at": "2025-06-02",
+  "total_fees_near": 2.0373743322341302,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21.896265831110686,
+  "fees_usd": 4.94267013,
+  "cumulative_fees_usd": 62.02141965
+ },
+ {
+  "date_at": "2025-06-03",
+  "total_fees_near": 0.3263978889943074,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22.222663720104993,
+  "fees_usd": 0.8256561,
+  "cumulative_fees_usd": 62.84707575
+ },
+ {
+  "date_at": "2025-06-04",
+  "total_fees_near": 8.335639525628782,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30.558303245733775,
+  "fees_usd": 20.945795,
+  "cumulative_fees_usd": 83.79287075
+ },
+ {
+  "date_at": "2025-06-05",
+  "total_fees_near": 17.7472926446281,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 48.30559589036187,
+  "fees_usd": 42.9484482,
+  "cumulative_fees_usd": 126.74131895000001
+ },
+ {
+  "date_at": "2025-06-06",
+  "total_fees_near": 37.1661787419691,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 85.47177463233098,
+  "fees_usd": 85.61600935000001,
+  "cumulative_fees_usd": 212.3573283
+ },
+ {
+  "date_at": "2025-06-07",
+  "total_fees_near": 0.6043887728785358,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 86.07616340520951,
+  "fees_usd": 1.45295061,
+  "cumulative_fees_usd": 213.81027891
+ },
+ {
+  "date_at": "2025-06-08",
+  "total_fees_near": 0.4595374400132385,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 86.53570084522275,
+  "fees_usd": 1.1107939,
+  "cumulative_fees_usd": 214.92107281
+ },
+ {
+  "date_at": "2025-06-09",
+  "total_fees_near": 9.052138484203635,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 95.58783932942639,
+  "fees_usd": 22.119805600000003,
+  "cumulative_fees_usd": 237.04087841
+ },
+ {
+  "date_at": "2025-06-10",
+  "total_fees_near": 3.9563226929660757,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 99.54416202239247,
+  "fees_usd": 10.16933185,
+  "cumulative_fees_usd": 247.21021026
+ },
+ {
+  "date_at": "2025-06-11",
+  "total_fees_near": 518.6320152480655,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 618.176177270458,
+  "fees_usd": 1367.321445,
+  "cumulative_fees_usd": 1614.53165526
+ },
+ {
+  "date_at": "2025-06-12",
+  "total_fees_near": 1320.14943808261,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1938.3256153530679,
+  "fees_usd": 3285.5879215,
+  "cumulative_fees_usd": 4900.11957676
+ },
+ {
+  "date_at": "2025-06-13",
+  "total_fees_near": 1627.6509173823579,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3565.9765327354257,
+  "fees_usd": 3638.7763908999996,
+  "cumulative_fees_usd": 8538.895967659999
+ },
+ {
+  "date_at": "2025-06-14",
+  "total_fees_near": 1040.5564154963895,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4606.532948231816,
+  "fees_usd": 2305.873016739999,
+  "cumulative_fees_usd": 10844.768984399998
+ },
+ {
+  "date_at": "2025-06-15",
+  "total_fees_near": 631.6159031862305,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5238.148851418046,
+  "fees_usd": 1405.4717077700002,
+  "cumulative_fees_usd": 12250.240692169999
+ },
+ {
+  "date_at": "2025-06-16",
+  "total_fees_near": 1079.815260303791,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6317.964111721838,
+  "fees_usd": 2495.2371035100005,
+  "cumulative_fees_usd": 14745.477795679999
+ },
+ {
+  "date_at": "2025-06-17",
+  "total_fees_near": 5662.946628449682,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11980.91074017152,
+  "fees_usd": 12492.460262359999,
+  "cumulative_fees_usd": 27237.938058039996
+ },
+ {
+  "date_at": "2025-06-18",
+  "total_fees_near": 3766.744615016794,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15747.655355188313,
+  "fees_usd": 8074.393756749999,
+  "cumulative_fees_usd": 35312.33181478999
+ },
+ {
+  "date_at": "2025-06-19",
+  "total_fees_near": 2481.88063041682,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18229.535985605133,
+  "fees_usd": 5406.5287653000005,
+  "cumulative_fees_usd": 40718.86058008999
+ },
+ {
+  "date_at": "2025-06-20",
+  "total_fees_near": 6567.601521348526,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24797.13750695366,
+  "fees_usd": 14065.175418120003,
+  "cumulative_fees_usd": 54784.03599820999
+ },
+ {
+  "date_at": "2025-06-21",
+  "total_fees_near": 1397.3214001461133,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26194.45890709977,
+  "fees_usd": 2868.9802987800003,
+  "cumulative_fees_usd": 57653.01629698999
+ },
+ {
+  "date_at": "2025-06-22",
+  "total_fees_near": 3013.755473684211,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29208.214380783982,
+  "fees_usd": 5749.039941600001,
+  "cumulative_fees_usd": 63402.05623858999
+ },
+ {
+  "date_at": "2025-06-23",
+  "total_fees_near": 1733.6950786646792,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30941.90945944866,
+  "fees_usd": 3373.0771450499997,
+  "cumulative_fees_usd": 66775.13338363999
+ },
+ {
+  "date_at": "2025-06-24",
+  "total_fees_near": 936.6672429861752,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 31878.576702434835,
+  "fees_usd": 2032.56791728,
+  "cumulative_fees_usd": 68807.70130091999
+ },
+ {
+  "date_at": "2025-06-25",
+  "total_fees_near": 879.5433145252169,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 32758.120016960052,
+  "fees_usd": 1904.3871846099996,
+  "cumulative_fees_usd": 70712.08848552998
+ },
+ {
+  "date_at": "2025-06-26",
+  "total_fees_near": 2181.5674037658046,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 34939.68742072586,
+  "fees_usd": 4578.774354749999,
+  "cumulative_fees_usd": 75290.86284027998
+ },
+ {
+  "date_at": "2025-06-27",
+  "total_fees_near": 601.9053565707405,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 35541.5927772966,
+  "fees_usd": 1249.70599658,
+  "cumulative_fees_usd": 76540.56883685998
+ },
+ {
+  "date_at": "2025-06-28",
+  "total_fees_near": 433.9188567787009,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 35975.5116340753,
+  "fees_usd": 919.2137061999999,
+  "cumulative_fees_usd": 77459.78254305998
+ },
+ {
+  "date_at": "2025-06-29",
+  "total_fees_near": 5355.004946912722,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 41330.51658098802,
+  "fees_usd": 11534.680655650001,
+  "cumulative_fees_usd": 88994.46319870997
+ },
+ {
+  "date_at": "2025-06-30",
+  "total_fees_near": 2890.353125599817,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 44220.86970658784,
+  "fees_usd": 6312.5312263099995,
+  "cumulative_fees_usd": 95306.99442501998
+ },
+ {
+  "date_at": "2025-07-01",
+  "total_fees_near": 157.0560382664757,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 44377.925744854314,
+  "fees_usd": 328.8753441300001,
+  "cumulative_fees_usd": 95635.86976914998
+ },
+ {
+  "date_at": "2025-07-02",
+  "total_fees_near": 1469.8746040607475,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 45847.80034891506,
+  "fees_usd": 3145.53165269,
+  "cumulative_fees_usd": 98781.40142183998
+ },
+ {
+  "date_at": "2025-07-03",
+  "total_fees_near": 2191.551724973726,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 48039.35207388878,
+  "fees_usd": 5004.62751915,
+  "cumulative_fees_usd": 103786.02894098999
+ },
+ {
+  "date_at": "2025-07-04",
+  "total_fees_near": 754.735973006948,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 48794.08804689573,
+  "fees_usd": 1651.0604145499995,
+  "cumulative_fees_usd": 105437.08935553998
+ },
+ {
+  "date_at": "2025-07-05",
+  "total_fees_near": 3137.6850984587613,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 51931.77314535449,
+  "fees_usd": 6686.8896656,
+  "cumulative_fees_usd": 112123.97902113998
+ },
+ {
+  "date_at": "2025-07-06",
+  "total_fees_near": 2341.284445113306,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 54273.0575904678,
+  "fees_usd": 5036.68816255,
+  "cumulative_fees_usd": 117160.66718368998
+ },
+ {
+  "date_at": "2025-07-07",
+  "total_fees_near": 940.9577079822695,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 55214.01529845007,
+  "fees_usd": 2041.1544127,
+  "cumulative_fees_usd": 119201.82159638997
+ },
+ {
+  "date_at": "2025-07-08",
+  "total_fees_near": 144.41643174544785,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 55358.431730195516,
+  "fees_usd": 314.07685576000006,
+  "cumulative_fees_usd": 119515.89845214997
+ },
+ {
+  "date_at": "2025-07-09",
+  "total_fees_near": 3017.418696375088,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 58375.85042657061,
+  "fees_usd": 6850.747408249998,
+  "cumulative_fees_usd": 126366.64586039996
+ },
+ {
+  "date_at": "2025-07-10",
+  "total_fees_near": 2203.9010579580413,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 60579.75148452865,
+  "fees_usd": 5252.6308548,
+  "cumulative_fees_usd": 131619.27671519996
+ },
+ {
+  "date_at": "2025-07-11",
+  "total_fees_near": 1851.888055516542,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 62431.639540045195,
+  "fees_usd": 4746.7594639,
+  "cumulative_fees_usd": 136366.03617909996
+ },
+ {
+  "date_at": "2025-07-12",
+  "total_fees_near": 1836.1841436888144,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 64267.82368373401,
+  "fees_usd": 4576.505359730001,
+  "cumulative_fees_usd": 140942.54153882997
+ },
+ {
+  "date_at": "2025-07-13",
+  "total_fees_near": 860.1469788629157,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 65127.97066259693,
+  "fees_usd": 2171.0109746499998,
+  "cumulative_fees_usd": 143113.55251347998
+ },
+ {
+  "date_at": "2025-07-14",
+  "total_fees_near": 2683.1058470372072,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 67811.07650963413,
+  "fees_usd": 7009.345714800001,
+  "cumulative_fees_usd": 150122.89822827998
+ },
+ {
+  "date_at": "2025-07-15",
+  "total_fees_near": 1879.6218871383894,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 69690.69839677252,
+  "fees_usd": 4808.0727873,
+  "cumulative_fees_usd": 154930.97101558
+ },
+ {
+  "date_at": "2025-07-16",
+  "total_fees_near": 1717.9528649866484,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 71408.65126175918,
+  "fees_usd": 4632.288105149999,
+  "cumulative_fees_usd": 159563.25912072998
+ },
+ {
+  "date_at": "2025-07-17",
+  "total_fees_near": 2272.1187895526164,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 73680.77005131179,
+  "fees_usd": 6287.407114450001,
+  "cumulative_fees_usd": 165850.66623518
+ },
+ {
+  "date_at": "2025-07-18",
+  "total_fees_near": 1750.2635579352414,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 75431.03360924702,
+  "fees_usd": 5075.116072250002,
+  "cumulative_fees_usd": 170925.78230743
+ },
+ {
+  "date_at": "2025-07-19",
+  "total_fees_near": 2220.7096625168338,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 77651.74327176386,
+  "fees_usd": 6348.453747719999,
+  "cumulative_fees_usd": 177274.23605515
+ },
+ {
+  "date_at": "2025-07-20",
+  "total_fees_near": 5840.040444420049,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 83491.78371618391,
+  "fees_usd": 17378.98702252,
+  "cumulative_fees_usd": 194653.22307766997
+ },
+ {
+  "date_at": "2025-07-21",
+  "total_fees_near": 7768.131682433342,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 91259.91539861726,
+  "fees_usd": 23378.83964259001,
+  "cumulative_fees_usd": 218032.06272025997
+ },
+ {
+  "date_at": "2025-07-22",
+  "total_fees_near": 3125.6411125680465,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 94385.5565111853,
+  "fees_usd": 9244.08359042,
+  "cumulative_fees_usd": 227276.14631067996
+ },
+ {
+  "date_at": "2025-07-23",
+  "total_fees_near": 3335.420025771231,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 97720.97653695654,
+  "fees_usd": 9622.686774350002,
+  "cumulative_fees_usd": 236898.83308502997
+ },
+ {
+  "date_at": "2025-07-24",
+  "total_fees_near": 2255.59364226539,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 99976.57017922193,
+  "fees_usd": 6183.14607186,
+  "cumulative_fees_usd": 243081.97915688998
+ },
+ {
+  "date_at": "2025-07-25",
+  "total_fees_near": 1607.647075065729,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 101584.21725428767,
+  "fees_usd": 4382.177985449999,
+  "cumulative_fees_usd": 247464.15714233997
+ },
+ {
+  "date_at": "2025-07-26",
+  "total_fees_near": 4017.7381439339993,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 105601.95539822166,
+  "fees_usd": 11566.06368185,
+  "cumulative_fees_usd": 259030.22082418998
+ },
+ {
+  "date_at": "2025-07-27",
+  "total_fees_near": 4046.253040302536,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 109648.20843852419,
+  "fees_usd": 11769.538530980004,
+  "cumulative_fees_usd": 270799.75935516995
+ },
+ {
+  "date_at": "2025-07-28",
+  "total_fees_near": 2364.7824519718442,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 112012.99089049603,
+  "fees_usd": 6858.854436740002,
+  "cumulative_fees_usd": 277658.61379190994
+ },
+ {
+  "date_at": "2025-07-29",
+  "total_fees_near": 5106.01394166763,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 117119.00483216366,
+  "fees_usd": 13967.07563627,
+  "cumulative_fees_usd": 291625.68942817993
+ },
+ {
+  "date_at": "2025-07-30",
+  "total_fees_near": 4307.101326631283,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 121426.10615879494,
+  "fees_usd": 11496.371291,
+  "cumulative_fees_usd": 303122.0607191799
+ },
+ {
+  "date_at": "2025-07-31",
+  "total_fees_near": 3731.5531559399437,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 125157.65931473488,
+  "fees_usd": 9941.47953295,
+  "cumulative_fees_usd": 313063.5402521299
+ },
+ {
+  "date_at": "2025-08-01",
+  "total_fees_near": 6706.81048369884,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 131864.4697984337,
+  "fees_usd": 16590.972434050007,
+  "cumulative_fees_usd": 329654.5126861799
+ },
+ {
+  "date_at": "2025-08-02",
+  "total_fees_near": 9934.875539204462,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 141799.34533763817,
+  "fees_usd": 23727.794412799994,
+  "cumulative_fees_usd": 353382.3070989799
+ },
+ {
+  "date_at": "2025-08-03",
+  "total_fees_near": 8380.335426330515,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 150179.68076396867,
+  "fees_usd": 20221.051022450003,
+  "cumulative_fees_usd": 373603.3581214299
+ },
+ {
+  "date_at": "2025-08-04",
+  "total_fees_near": 3316.6436539292868,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 153496.32441789797,
+  "fees_usd": 8286.081395400002,
+  "cumulative_fees_usd": 381889.4395168299
+ },
+ {
+  "date_at": "2025-08-05",
+  "total_fees_near": 1902.017220915033,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 155398.341638813,
+  "fees_usd": 4728.890315500002,
+  "cumulative_fees_usd": 386618.32983232994
+ },
+ {
+  "date_at": "2025-08-06",
+  "total_fees_near": 792.8326708431824,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 156191.17430965617,
+  "fees_usd": 1954.1601787000004,
+  "cumulative_fees_usd": 388572.49001102993
+ },
+ {
+  "date_at": "2025-08-07",
+  "total_fees_near": 1842.266013344246,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 158033.44032300042,
+  "fees_usd": 4689.334614799999,
+  "cumulative_fees_usd": 393261.82462582993
+ },
+ {
+  "date_at": "2025-08-08",
+  "total_fees_near": 11312.36189885804,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 169345.80222185847,
+  "fees_usd": 30213.433238200014,
+  "cumulative_fees_usd": 423475.25786402996
+ },
+ {
+  "date_at": "2025-08-09",
+  "total_fees_near": 7487.160098424166,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 176832.96232028262,
+  "fees_usd": 20905.453109599996,
+  "cumulative_fees_usd": 444380.71097362996
+ },
+ {
+  "date_at": "2025-08-10",
+  "total_fees_near": 13437.059895634886,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 190270.0222159175,
+  "fees_usd": 37170.26693630001,
+  "cumulative_fees_usd": 481550.97790993
+ },
+ {
+  "date_at": "2025-08-11",
+  "total_fees_near": 10874.608129559445,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 201144.63034547694,
+  "fees_usd": 29497.374551429995,
+  "cumulative_fees_usd": 511048.35246136
+ },
+ {
+  "date_at": "2025-08-12",
+  "total_fees_near": 2537.7359748350123,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 203682.36632031194,
+  "fees_usd": 6787.892050949998,
+  "cumulative_fees_usd": 517836.24451230996
+ },
+ {
+  "date_at": "2025-08-13",
+  "total_fees_near": 4944.21663828002,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 208626.58295859196,
+  "fees_usd": 14257.884730640006,
+  "cumulative_fees_usd": 532094.12924295
+ },
+ {
+  "date_at": "2025-08-14",
+  "total_fees_near": 3732.890003404744,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 212359.4729619967,
+  "fees_usd": 10817.604155699999,
+  "cumulative_fees_usd": 542911.73339865
+ },
+ {
+  "date_at": "2025-08-15",
+  "total_fees_near": 3037.882625110065,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 215397.35558710678,
+  "fees_usd": 8337.7220215,
+  "cumulative_fees_usd": 551249.45542015
+ },
+ {
+  "date_at": "2025-08-16",
+  "total_fees_near": 1423.8384653213247,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 216821.1940524281,
+  "fees_usd": 3886.4857442999996,
+  "cumulative_fees_usd": 555135.9411644499
+ },
+ {
+  "date_at": "2025-08-17",
+  "total_fees_near": 2766.9148529336962,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 219588.1089053618,
+  "fees_usd": 7615.933132699999,
+  "cumulative_fees_usd": 562751.87429715
+ },
+ {
+  "date_at": "2025-08-18",
+  "total_fees_near": 2062.3952856867463,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 221650.50419104853,
+  "fees_usd": 5349.337772249999,
+  "cumulative_fees_usd": 568101.2120693999
+ },
+ {
+  "date_at": "2025-08-19",
+  "total_fees_near": 8047.71147595812,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 229698.21566700665,
+  "fees_usd": 20176.283312850002,
+  "cumulative_fees_usd": 588277.4953822499
+ },
+ {
+  "date_at": "2025-08-20",
+  "total_fees_near": 4334.010085127519,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 234032.22575213417,
+  "fees_usd": 10762.791711400007,
+  "cumulative_fees_usd": 599040.28709365
+ },
+ {
+  "date_at": "2025-08-21",
+  "total_fees_near": 3942.3839924636723,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 237974.60974459784,
+  "fees_usd": 9834.605401200004,
+  "cumulative_fees_usd": 608874.89249485
+ },
+ {
+  "date_at": "2025-08-22",
+  "total_fees_near": 6265.481800589457,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 244240.0915451873,
+  "fees_usd": 15802.067224569993,
+  "cumulative_fees_usd": 624676.95971942
+ },
+ {
+  "date_at": "2025-08-23",
+  "total_fees_near": 6550.473183662411,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 250790.56472884968,
+  "fees_usd": 17527.97449395,
+  "cumulative_fees_usd": 642204.93421337
+ },
+ {
+  "date_at": "2025-08-24",
+  "total_fees_near": 4877.642911816928,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 255668.2076406666,
+  "fees_usd": 12966.40074058,
+  "cumulative_fees_usd": 655171.33495395
+ },
+ {
+  "date_at": "2025-08-25",
+  "total_fees_near": 4841.306847459103,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 260509.51448812571,
+  "fees_usd": 12232.368634579998,
+  "cumulative_fees_usd": 667403.7035885301
+ },
+ {
+  "date_at": "2025-08-26",
+  "total_fees_near": 4097.144029687502,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 264606.6585178132,
+  "fees_usd": 10051.660019500003,
+  "cumulative_fees_usd": 677455.36360803
+ },
+ {
+  "date_at": "2025-08-27",
+  "total_fees_near": 5132.248821569168,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 269738.90733938233,
+  "fees_usd": 12984.589518569996,
+  "cumulative_fees_usd": 690439.9531266
+ },
+ {
+  "date_at": "2025-08-28",
+  "total_fees_near": 5118.563546038076,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 274857.4708854204,
+  "fees_usd": 12883.850992340007,
+  "cumulative_fees_usd": 703323.80411894
+ },
+ {
+  "date_at": "2025-08-29",
+  "total_fees_near": 7590.160709125703,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 282447.6315945461,
+  "fees_usd": 18643.332241790005,
+  "cumulative_fees_usd": 721967.13636073
+ },
+ {
+  "date_at": "2025-08-30",
+  "total_fees_near": 2519.0234162219554,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 284966.65501076804,
+  "fees_usd": 6128.57405305,
+  "cumulative_fees_usd": 728095.7104137801
+ },
+ {
+  "date_at": "2025-08-31",
+  "total_fees_near": 1697.5669723904439,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 286664.2219831585,
+  "fees_usd": 4144.892690920001,
+  "cumulative_fees_usd": 732240.6031047001
+ },
+ {
+  "date_at": "2025-09-01",
+  "total_fees_near": 4099.567862170866,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 290763.78984532936,
+  "fees_usd": 9697.186147310003,
+  "cumulative_fees_usd": 741937.78925201
+ },
+ {
+  "date_at": "2025-09-02",
+  "total_fees_near": 8804.173947080848,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 299567.9637924102,
+  "fees_usd": 20689.808775639995,
+  "cumulative_fees_usd": 762627.59802765
+ },
+ {
+  "date_at": "2025-09-03",
+  "total_fees_near": 6485.306460834426,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 306053.2702532446,
+  "fees_usd": 15699.846057270008,
+  "cumulative_fees_usd": 778327.44408492
+ },
+ {
+  "date_at": "2025-09-04",
+  "total_fees_near": 4753.184736389701,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 310806.45498963434,
+  "fees_usd": 11465.077682899995,
+  "cumulative_fees_usd": 789792.52176782
+ },
+ {
+  "date_at": "2025-09-05",
+  "total_fees_near": 8298.95543915607,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 319105.41042879043,
+  "fees_usd": 19962.44572927,
+  "cumulative_fees_usd": 809754.96749709
+ },
+ {
+  "date_at": "2025-09-06",
+  "total_fees_near": 5935.34659032898,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 325040.7570191194,
+  "fees_usd": 14207.735900599997,
+  "cumulative_fees_usd": 823962.70339769
+ },
+ {
+  "date_at": "2025-09-07",
+  "total_fees_near": 3492.8233419181997,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 328533.5803610376,
+  "fees_usd": 8539.953070989997,
+  "cumulative_fees_usd": 832502.65646868
+ },
+ {
+  "date_at": "2025-09-08",
+  "total_fees_near": 7094.736530328596,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 335628.31689136615,
+  "fees_usd": 17884.648336870003,
+  "cumulative_fees_usd": 850387.30480555
+ },
+ {
+  "date_at": "2025-09-09",
+  "total_fees_near": 6283.402289230091,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 341911.71918059624,
+  "fees_usd": 16741.16922974,
+  "cumulative_fees_usd": 867128.4740352901
+ },
+ {
+  "date_at": "2025-09-10",
+  "total_fees_near": 7936.433660432685,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 349848.15284102893,
+  "fees_usd": 21246.494278449998,
+  "cumulative_fees_usd": 888374.9683137401
+ },
+ {
+  "date_at": "2025-09-11",
+  "total_fees_near": 6519.633949081558,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 356367.78679011046,
+  "fees_usd": 17746.443609400005,
+  "cumulative_fees_usd": 906121.41192314
+ },
+ {
+  "date_at": "2025-09-12",
+  "total_fees_near": 11851.325321533568,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 368219.112111644,
+  "fees_usd": 32586.206582000006,
+  "cumulative_fees_usd": 938707.6185051401
+ },
+ {
+  "date_at": "2025-09-13",
+  "total_fees_near": 11360.173657813186,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 379579.2857694572,
+  "fees_usd": 32078.290366249985,
+  "cumulative_fees_usd": 970785.90887139
+ },
+ {
+  "date_at": "2025-09-14",
+  "total_fees_near": 10113.07917332522,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 389692.3649427824,
+  "fees_usd": 27714.050717899994,
+  "cumulative_fees_usd": 998499.9595892901
+ },
+ {
+  "date_at": "2025-09-15",
+  "total_fees_near": 10798.259261258821,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 400490.6242040412,
+  "fees_usd": 28664.879063949982,
+  "cumulative_fees_usd": 1027164.8386532401
+ },
+ {
+  "date_at": "2025-09-16",
+  "total_fees_near": 8490.728487655591,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 408981.3526916968,
+  "fees_usd": 22680.858472649994,
+  "cumulative_fees_usd": 1049845.69712589
+ },
+ {
+  "date_at": "2025-09-17",
+  "total_fees_near": 8475.426287106751,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 417456.77897880354,
+  "fees_usd": 23056.690928549993,
+  "cumulative_fees_usd": 1072902.38805444
+ },
+ {
+  "date_at": "2025-09-18",
+  "total_fees_near": 11281.638376469926,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 428738.41735527344,
+  "fees_usd": 33529.969391399994,
+  "cumulative_fees_usd": 1106432.35744584
+ },
+ {
+  "date_at": "2025-09-19",
+  "total_fees_near": 5832.050011689091,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 434570.4673669625,
+  "fees_usd": 18601.809516449997,
+  "cumulative_fees_usd": 1125034.16696229
+ },
+ {
+  "date_at": "2025-09-20",
+  "total_fees_near": 4205.908474900398,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 438776.37584186293,
+  "fees_usd": 13196.037839999999,
+  "cumulative_fees_usd": 1138230.2048022898
+ },
+ {
+  "date_at": "2025-09-21",
+  "total_fees_near": 8142.200329001866,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 446918.5761708648,
+  "fees_usd": 25437.590861189994,
+  "cumulative_fees_usd": 1163667.7956634797
+ },
+ {
+  "date_at": "2025-09-22",
+  "total_fees_near": 10437.483754558498,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 457356.0599254233,
+  "fees_usd": 30555.73369147,
+  "cumulative_fees_usd": 1194223.5293549497
+ },
+ {
+  "date_at": "2025-09-23",
+  "total_fees_near": 5281.852062348692,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 462637.911987772,
+  "fees_usd": 15715.710657180003,
+  "cumulative_fees_usd": 1209939.2400121298
+ },
+ {
+  "date_at": "2025-09-24",
+  "total_fees_near": 4795.168876825798,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 467433.08086459775,
+  "fees_usd": 14497.393904269997,
+  "cumulative_fees_usd": 1224436.6339163997
+ },
+ {
+  "date_at": "2025-09-25",
+  "total_fees_near": 14357.67652912925,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 481790.757393727,
+  "fees_usd": 41194.566908160006,
+  "cumulative_fees_usd": 1265631.2008245597
+ },
+ {
+  "date_at": "2025-09-26",
+  "total_fees_near": 13712.757667270504,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 495503.5150609975,
+  "fees_usd": 37344.41004720001,
+  "cumulative_fees_usd": 1302975.6108717597
+ },
+ {
+  "date_at": "2025-09-27",
+  "total_fees_near": 11262.692034539119,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 506766.20709553664,
+  "fees_usd": 30709.60694751,
+  "cumulative_fees_usd": 1333685.2178192697
+ },
+ {
+  "date_at": "2025-09-28",
+  "total_fees_near": 13168.272711003232,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 519934.4798065399,
+  "fees_usd": 35581.77022118998,
+  "cumulative_fees_usd": 1369266.9880404598
+ },
+ {
+  "date_at": "2025-09-29",
+  "total_fees_near": 13713.451814951937,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 533647.9316214918,
+  "fees_usd": 38163.39361335999,
+  "cumulative_fees_usd": 1407430.3816538197
+ },
+ {
+  "date_at": "2025-09-30",
+  "total_fees_near": 14001.465430391476,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 547649.3970518833,
+  "fees_usd": 37255.56593269999,
+  "cumulative_fees_usd": 1444685.9475865196
+ },
+ {
+  "date_at": "2025-10-01",
+  "total_fees_near": 26218.024502683853,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 573867.4215545672,
+  "fees_usd": 72044.946498,
+  "cumulative_fees_usd": 1516730.8940845197
+ },
+ {
+  "date_at": "2025-10-02",
+  "total_fees_near": 37412.68494859604,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 611280.1065031632,
+  "fees_usd": 108590.3180633,
+  "cumulative_fees_usd": 1625321.2121478198
+ },
+ {
+  "date_at": "2025-10-03",
+  "total_fees_near": 34382.70037427944,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 645662.8068774426,
+  "fees_usd": 102116.62011160994,
+  "cumulative_fees_usd": 1727437.8322594299
+ },
+ {
+  "date_at": "2025-10-04",
+  "total_fees_near": 20973.021652150528,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 666635.8285295932,
+  "fees_usd": 62001.495259170006,
+  "cumulative_fees_usd": 1789439.3275185998
+ },
+ {
+  "date_at": "2025-10-05",
+  "total_fees_near": 20259.315108351922,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 686895.1436379451,
+  "fees_usd": 61309.752346650006,
+  "cumulative_fees_usd": 1850749.0798652498
+ },
+ {
+  "date_at": "2025-10-06",
+  "total_fees_near": 19576.7919538359,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 706471.9355917809,
+  "fees_usd": 58754.846851449984,
+  "cumulative_fees_usd": 1909503.9267166997
+ },
+ {
+  "date_at": "2025-10-07",
+  "total_fees_near": 23626.27913900807,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 730098.214730789,
+  "fees_usd": 70741.01745538,
+  "cumulative_fees_usd": 1980244.9441720797
+ },
+ {
+  "date_at": "2025-10-08",
+  "total_fees_near": 24117.45918942387,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 754215.6739202128,
+  "fees_usd": 71337.43449405002,
+  "cumulative_fees_usd": 2051582.3786661297
+ },
+ {
+  "date_at": "2025-10-09",
+  "total_fees_near": 25398.73083065165,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 779614.4047508645,
+  "fees_usd": 73275.33844643,
+  "cumulative_fees_usd": 2124857.71711256
+ },
+ {
+  "date_at": "2025-10-10",
+  "total_fees_near": 25425.84149339242,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 805040.2462442569,
+  "fees_usd": 75535.93743661998,
+  "cumulative_fees_usd": 2200393.6545491796
+ },
+ {
+  "date_at": "2025-10-11",
+  "total_fees_near": 32633.550255297712,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 837673.7964995545,
+  "fees_usd": 78374.90986314001,
+  "cumulative_fees_usd": 2278768.5644123196
+ },
+ {
+  "date_at": "2025-10-12",
+  "total_fees_near": 31711.269963193765,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 869385.0664627483,
+  "fees_usd": 74468.63229690002,
+  "cumulative_fees_usd": 2353237.1967092194
+ },
+ {
+  "date_at": "2025-10-13",
+  "total_fees_near": 27028.415270028996,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 896413.4817327773,
+  "fees_usd": 68336.84327438998,
+  "cumulative_fees_usd": 2421574.039983609
+ },
+ {
+  "date_at": "2025-10-14",
+  "total_fees_near": 16352.610817772085,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 912766.0925505494,
+  "fees_usd": 40418.20307126,
+  "cumulative_fees_usd": 2461992.243054869
+ },
+ {
+  "date_at": "2025-10-15",
+  "total_fees_near": 21026.796024295116,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 933792.8885748446,
+  "fees_usd": 50586.96676844999,
+  "cumulative_fees_usd": 2512579.209823319
+ },
+ {
+  "date_at": "2025-10-16",
+  "total_fees_near": 32227.593890450753,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 966020.4824652954,
+  "fees_usd": 74298.03208161,
+  "cumulative_fees_usd": 2586877.2419049293
+ },
+ {
+  "date_at": "2025-10-17",
+  "total_fees_near": 37834.631322734975,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1003855.1137880303,
+  "fees_usd": 81848.91909485,
+  "cumulative_fees_usd": 2668726.160999779
+ },
+ {
+  "date_at": "2025-10-18",
+  "total_fees_near": 15066.863090398147,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1018921.9768784285,
+  "fees_usd": 32481.64567905,
+  "cumulative_fees_usd": 2701207.8066788292
+ },
+ {
+  "date_at": "2025-10-19",
+  "total_fees_near": 17788.083438105976,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1036710.0603165345,
+  "fees_usd": 39445.075024000005,
+  "cumulative_fees_usd": 2740652.881702829
+ },
+ {
+  "date_at": "2025-10-20",
+  "total_fees_near": 40115.11884481048,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1076825.179161345,
+  "fees_usd": 91813.47825605999,
+  "cumulative_fees_usd": 2832466.359958889
+ },
+ {
+  "date_at": "2025-10-21",
+  "total_fees_near": 33121.95123639615,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1109947.130397741,
+  "fees_usd": 74413.98377777,
+  "cumulative_fees_usd": 2906880.343736659
+ },
+ {
+  "date_at": "2025-10-22",
+  "total_fees_near": 36667.83832025174,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1146614.9687179928,
+  "fees_usd": 80592.85297472,
+  "cumulative_fees_usd": 2987473.1967113786
+ },
+ {
+  "date_at": "2025-10-23",
+  "total_fees_near": 29349.06161680382,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1175964.0303347965,
+  "fees_usd": 64139.92840839002,
+  "cumulative_fees_usd": 3051613.1251197685
+ },
+ {
+  "date_at": "2025-10-24",
+  "total_fees_near": 46700.59155535455,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1222664.6218901512,
+  "fees_usd": 104550.94934455,
+  "cumulative_fees_usd": 3156164.0744643183
+ },
+ {
+  "date_at": "2025-10-25",
+  "total_fees_near": 21548.078598220098,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1244212.7004883713,
+  "fees_usd": 48707.63599806001,
+  "cumulative_fees_usd": 3204871.7104623783
+ },
+ {
+  "date_at": "2025-10-26",
+  "total_fees_near": 42141.44569964853,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1286354.1461880198,
+  "fees_usd": 97715.47721606001,
+  "cumulative_fees_usd": 3302587.187678438
+ },
+ {
+  "date_at": "2025-10-27",
+  "total_fees_near": 52283.35801415285,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1338637.5042021726,
+  "fees_usd": 123976.91269105994,
+  "cumulative_fees_usd": 3426564.100369498
+ },
+ {
+  "date_at": "2025-10-28",
+  "total_fees_near": 39163.35044489218,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1377800.8546470648,
+  "fees_usd": 90646.83821724002,
+  "cumulative_fees_usd": 3517210.938586738
+ },
+ {
+  "date_at": "2025-10-29",
+  "total_fees_near": 52572.14404238419,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1430372.998689449,
+  "fees_usd": 119733.05805653002,
+  "cumulative_fees_usd": 3636943.996643268
+ },
+ {
+  "date_at": "2025-10-30",
+  "total_fees_near": 78578.38013502641,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1508951.3788244752,
+  "fees_usd": 171104.42274402,
+  "cumulative_fees_usd": 3808048.419387288
+ },
+ {
+  "date_at": "2025-10-31",
+  "total_fees_near": 62310.35896994673,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1571261.7377944218,
+  "fees_usd": 131552.74537530003,
+  "cumulative_fees_usd": 3939601.1647625878
+ },
+ {
+  "date_at": "2025-11-01",
+  "total_fees_near": 68390.66372967292,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1639652.4015240949,
+  "fees_usd": 146356.02038150004,
+  "cumulative_fees_usd": 4085957.1851440878
+ },
+ {
+  "date_at": "2025-11-02",
+  "total_fees_near": 59540.94706825997,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1699193.348592355,
+  "fees_usd": 128261.12347621002,
+  "cumulative_fees_usd": 4214218.308620297
+ },
+ {
+  "date_at": "2025-11-03",
+  "total_fees_near": 90309.98657347381,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 1789503.3351658287,
+  "fees_usd": 181485.44385161006,
+  "cumulative_fees_usd": 4395703.752471907
+ },
+ {
+  "date_at": "2025-11-04",
+  "total_fees_near": 222586.9887856292,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2012090.3239514579,
+  "fees_usd": 416701.39192242996,
+  "cumulative_fees_usd": 4812405.144394337
+ },
+ {
+  "date_at": "2025-11-05",
+  "total_fees_near": 127254.17642099936,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2139344.5003724573,
+  "fees_usd": 239184.82909797004,
+  "cumulative_fees_usd": 5051589.973492308
+ },
+ {
+  "date_at": "2025-11-06",
+  "total_fees_near": 164898.27527287495,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2304242.7756453324,
+  "fees_usd": 323544.15760832,
+  "cumulative_fees_usd": 5375134.131100628
+ },
+ {
+  "date_at": "2025-11-07",
+  "total_fees_near": 140139.29680993868,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2444382.072455271,
+  "fees_usd": 336859.83470689005,
+  "cumulative_fees_usd": 5711993.965807518
+ },
+ {
+  "date_at": "2025-11-08",
+  "total_fees_near": 55260.973693841894,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2499643.046149113,
+  "fees_usd": 154661.65012564,
+  "cumulative_fees_usd": 5866655.615933158
+ },
+ {
+  "date_at": "2025-11-09",
+  "total_fees_near": 63422.38788584124,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2563065.4340349543,
+  "fees_usd": 180780.23146959997,
+  "cumulative_fees_usd": 6047435.847402758
+ },
+ {
+  "date_at": "2025-11-10",
+  "total_fees_near": 60530.233936780794,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2623595.667971735,
+  "fees_usd": 176496.07378732998,
+  "cumulative_fees_usd": 6223931.921190088
+ },
+ {
+  "date_at": "2025-11-11",
+  "total_fees_near": 65317.16656057079,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2688912.8345323056,
+  "fees_usd": 175839.25547826994,
+  "cumulative_fees_usd": 6399771.176668358
+ },
+ {
+  "date_at": "2025-11-12",
+  "total_fees_near": 84421.66580762976,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2773334.5003399355,
+  "fees_usd": 217350.61376056008,
+  "cumulative_fees_usd": 6617121.790428918
+ },
+ {
+  "date_at": "2025-11-13",
+  "total_fees_near": 94519.7207345213,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 2867854.221074457,
+  "fees_usd": 237992.78016613005,
+  "cumulative_fees_usd": 6855114.570595048
+ },
+ {
+  "date_at": "2025-11-14",
+  "total_fees_near": 163209.99139803438,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3031064.212472491,
+  "fees_usd": 391363.95853987,
+  "cumulative_fees_usd": 7246478.529134918
+ },
+ {
+  "date_at": "2025-11-15",
+  "total_fees_near": 93498.639165492,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3124562.8516379828,
+  "fees_usd": 231136.42757036,
+  "cumulative_fees_usd": 7477614.956705278
+ },
+ {
+  "date_at": "2025-11-16",
+  "total_fees_near": 115004.2102921628,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3239567.0619301456,
+  "fees_usd": 275626.75733355014,
+  "cumulative_fees_usd": 7753241.714038828
+ },
+ {
+  "date_at": "2025-11-17",
+  "total_fees_near": 142007.70584756735,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3381574.767777713,
+  "fees_usd": 323836.73920989,
+  "cumulative_fees_usd": 8077078.453248719
+ },
+ {
+  "date_at": "2025-11-18",
+  "total_fees_near": 128882.27651823548,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3510457.0442959485,
+  "fees_usd": 293090.0133730601,
+  "cumulative_fees_usd": 8370168.466621779
+ },
+ {
+  "date_at": "2025-11-19",
+  "total_fees_near": 146519.06128079383,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3656976.1055767424,
+  "fees_usd": 329789.9870995201,
+  "cumulative_fees_usd": 8699958.4537213
+ },
+ {
+  "date_at": "2025-11-20",
+  "total_fees_near": 183470.2564178459,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 3840446.3619945883,
+  "fees_usd": 419972.7024958402,
+  "cumulative_fees_usd": 9119931.15621714
+ },
+ {
+  "date_at": "2025-11-21",
+  "total_fees_near": 301744.182853077,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4142190.5448476654,
+  "fees_usd": 589784.1507349102,
+  "cumulative_fees_usd": 9709715.30695205
+ },
+ {
+  "date_at": "2025-11-22",
+  "total_fees_near": 237356.98029931655,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4379547.525146982,
+  "fees_usd": 435846.75507462,
+  "cumulative_fees_usd": 10145562.06202667
+ },
+ {
+  "date_at": "2025-11-23",
+  "total_fees_near": 251365.2807969132,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4630912.805943895,
+  "fees_usd": 467958.36441692006,
+  "cumulative_fees_usd": 10613520.42644359
+ },
+ {
+  "date_at": "2025-11-24",
+  "total_fees_near": 101954.01462724143,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4732866.820571137,
+  "fees_usd": 191970.91337521,
+  "cumulative_fees_usd": 10805491.3398188
+ },
+ {
+  "date_at": "2025-11-25",
+  "total_fees_near": 88691.2437234344,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4821558.064294571,
+  "fees_usd": 166998.22099425003,
+  "cumulative_fees_usd": 10972489.56081305
+ },
+ {
+  "date_at": "2025-11-26",
+  "total_fees_near": 81643.23253382584,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 4903201.296828397,
+  "fees_usd": 154713.92565159997,
+  "cumulative_fees_usd": 11127203.486464651
+ },
+ {
+  "date_at": "2025-11-27",
+  "total_fees_near": 96804.08446877306,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5000005.381297169,
+  "fees_usd": 186589.87281356007,
+  "cumulative_fees_usd": 11313793.359278211
+ },
+ {
+  "date_at": "2025-11-28",
+  "total_fees_near": 100511.99906413695,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5100517.3803613065,
+  "fees_usd": 190889.03822264008,
+  "cumulative_fees_usd": 11504682.397500852
+ },
+ {
+  "date_at": "2025-11-29",
+  "total_fees_near": 51766.678305844944,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5152284.058667151,
+  "fees_usd": 96803.68843193004,
+  "cumulative_fees_usd": 11601486.085932782
+ },
+ {
+  "date_at": "2025-11-30",
+  "total_fees_near": 49946.144629368726,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5202230.20329652,
+  "fees_usd": 92504.42203230999,
+  "cumulative_fees_usd": 11693990.507965092
+ },
+ {
+  "date_at": "2025-12-01",
+  "total_fees_near": 154936.8267217827,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5357167.030018303,
+  "fees_usd": 256097.66316888,
+  "cumulative_fees_usd": 11950088.17113397
+ },
+ {
+  "date_at": "2025-12-02",
+  "total_fees_near": 187351.80189359837,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5544518.831911901,
+  "fees_usd": 322947.6685140902,
+  "cumulative_fees_usd": 12273035.83964806
+ },
+ {
+  "date_at": "2025-12-03",
+  "total_fees_near": 195407.63815296468,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5739926.470064865,
+  "fees_usd": 354257.4163513601,
+  "cumulative_fees_usd": 12627293.25599942
+ },
+ {
+  "date_at": "2025-12-04",
+  "total_fees_near": 62699.49469207326,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5802625.964756939,
+  "fees_usd": 115549.94375960002,
+  "cumulative_fees_usd": 12742843.19975902
+ },
+ {
+  "date_at": "2025-12-05",
+  "total_fees_near": 87578.60101920688,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5890204.565776145,
+  "fees_usd": 152569.22119220998,
+  "cumulative_fees_usd": 12895412.420951229
+ },
+ {
+  "date_at": "2025-12-06",
+  "total_fees_near": 51561.68653318972,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5941766.252309334,
+  "fees_usd": 87762.28728670001,
+  "cumulative_fees_usd": 12983174.70823793
+ },
+ {
+  "date_at": "2025-12-07",
+  "total_fees_near": 48316.78187387122,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 5990083.034183206,
+  "fees_usd": 82541.16903453,
+  "cumulative_fees_usd": 13065715.877272459
+ },
+ {
+  "date_at": "2025-12-08",
+  "total_fees_near": 61367.79962149109,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6051450.833804697,
+  "fees_usd": 107623.77858618999,
+  "cumulative_fees_usd": 13173339.655858649
+ },
+ {
+  "date_at": "2025-12-09",
+  "total_fees_near": 102208.83509676279,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6153659.668901459,
+  "fees_usd": 180441.18096040998,
+  "cumulative_fees_usd": 13353780.836819058
+ },
+ {
+  "date_at": "2025-12-10",
+  "total_fees_near": 70680.4617980426,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6224340.130699502,
+  "fees_usd": 125781.77180809998,
+  "cumulative_fees_usd": 13479562.60862716
+ },
+ {
+  "date_at": "2025-12-11",
+  "total_fees_near": 79623.02273849292,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6303963.153437995,
+  "fees_usd": 133401.73934645,
+  "cumulative_fees_usd": 13612964.34797361
+ },
+ {
+  "date_at": "2025-12-12",
+  "total_fees_near": 68462.0153643627,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6372425.168802358,
+  "fees_usd": 114188.93645980996,
+  "cumulative_fees_usd": 13727153.284433419
+ },
+ {
+  "date_at": "2025-12-13",
+  "total_fees_near": 57741.45683867606,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6430166.625641034,
+  "fees_usd": 95513.99318730996,
+  "cumulative_fees_usd": 13822667.277620729
+ },
+ {
+  "date_at": "2025-12-14",
+  "total_fees_near": 77449.8645124434,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6507616.4901534775,
+  "fees_usd": 125759.21750207996,
+  "cumulative_fees_usd": 13948426.495122809
+ },
+ {
+  "date_at": "2025-12-15",
+  "total_fees_near": 107749.68756979643,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6615366.177723274,
+  "fees_usd": 171142.42042336,
+  "cumulative_fees_usd": 14119568.91554617
+ },
+ {
+  "date_at": "2025-12-16",
+  "total_fees_near": 91429.99228610971,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6706796.170009383,
+  "fees_usd": 141716.48804347005,
+  "cumulative_fees_usd": 14261285.40358964
+ },
+ {
+  "date_at": "2025-12-17",
+  "total_fees_near": 98762.66225819806,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6805558.8322675815,
+  "fees_usd": 151271.47769214003,
+  "cumulative_fees_usd": 14412556.88128178
+ },
+ {
+  "date_at": "2025-12-18",
+  "total_fees_near": 93073.26487675004,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 6898632.097144332,
+  "fees_usd": 137942.33465274997,
+  "cumulative_fees_usd": 14550499.21593453
+ },
+ {
+  "date_at": "2025-12-19",
+  "total_fees_near": 102031.56745782093,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7000663.664602153,
+  "fees_usd": 152409.65389012,
+  "cumulative_fees_usd": 14702908.86982465
+ },
+ {
+  "date_at": "2025-12-20",
+  "total_fees_near": 60255.54429245954,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7060919.208894612,
+  "fees_usd": 91563.32084774997,
+  "cumulative_fees_usd": 14794472.1906724
+ },
+ {
+  "date_at": "2025-12-21",
+  "total_fees_near": 38435.10236807786,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7099354.31126269,
+  "fees_usd": 57588.59504816999,
+  "cumulative_fees_usd": 14852060.78572057
+ },
+ {
+  "date_at": "2025-12-22",
+  "total_fees_near": 76109.51799553145,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7175463.829258222,
+  "fees_usd": 116954.9593198,
+  "cumulative_fees_usd": 14969015.74504037
+ },
+ {
+  "date_at": "2025-12-23",
+  "total_fees_near": 63673.859737332226,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7239137.688995554,
+  "fees_usd": 95112.82798264001,
+  "cumulative_fees_usd": 15064128.57302301
+ },
+ {
+  "date_at": "2025-12-24",
+  "total_fees_near": 73436.38900199656,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7312574.07799755,
+  "fees_usd": 107155.93095207999,
+  "cumulative_fees_usd": 15171284.50397509
+ },
+ {
+  "date_at": "2025-12-25",
+  "total_fees_near": 51421.6396205352,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7363995.717618085,
+  "fees_usd": 76382.56051966999,
+  "cumulative_fees_usd": 15247667.064494759
+ },
+ {
+  "date_at": "2025-12-26",
+  "total_fees_near": 60950.66802639648,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7424946.3856444815,
+  "fees_usd": 92238.67761328,
+  "cumulative_fees_usd": 15339905.74210804
+ },
+ {
+  "date_at": "2025-12-27",
+  "total_fees_near": 43267.455376739934,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7468213.841021221,
+  "fees_usd": 66271.31915204001,
+  "cumulative_fees_usd": 15406177.06126008
+ },
+ {
+  "date_at": "2025-12-28",
+  "total_fees_near": 39854.95276768479,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7508068.793788906,
+  "fees_usd": 63219.91882774,
+  "cumulative_fees_usd": 15469396.98008782
+ },
+ {
+  "date_at": "2025-12-29",
+  "total_fees_near": 78258.16516932151,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7586326.958958228,
+  "fees_usd": 121397.97871890999,
+  "cumulative_fees_usd": 15590794.95880673
+ },
+ {
+  "date_at": "2025-12-30",
+  "total_fees_near": 68704.84220718718,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7655031.801165415,
+  "fees_usd": 105089.78155941004,
+  "cumulative_fees_usd": 15695884.74036614
+ },
+ {
+  "date_at": "2025-12-31",
+  "total_fees_near": 75076.10272528324,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7730107.903890698,
+  "fees_usd": 113302.35169623997,
+  "cumulative_fees_usd": 15809187.09206238
+ },
+ {
+  "date_at": "2026-01-01",
+  "total_fees_near": 38104.49012105185,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7768212.39401175,
+  "fees_usd": 58807.929753490025,
+  "cumulative_fees_usd": 15867995.02181587
+ },
+ {
+  "date_at": "2026-01-02",
+  "total_fees_near": 72056.31851557846,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7840268.712527328,
+  "fees_usd": 118802.85515256,
+  "cumulative_fees_usd": 15986797.87696843
+ },
+ {
+  "date_at": "2026-01-03",
+  "total_fees_near": 56983.507358906136,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7897252.219886234,
+  "fees_usd": 96373.35682075,
+  "cumulative_fees_usd": 16083171.23378918
+ },
+ {
+  "date_at": "2026-01-04",
+  "total_fees_near": 62737.42172448045,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 7959989.641610715,
+  "fees_usd": 107725.38121940997,
+  "cumulative_fees_usd": 16190896.615008589
+ },
+ {
+  "date_at": "2026-01-05",
+  "total_fees_near": 114940.05896032194,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8074929.700571037,
+  "fees_usd": 201097.21148932996,
+  "cumulative_fees_usd": 16391993.826497918
+ },
+ {
+  "date_at": "2026-01-06",
+  "total_fees_near": 92968.07125225256,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8167897.77182329,
+  "fees_usd": 165638.11361442998,
+  "cumulative_fees_usd": 16557631.940112349
+ },
+ {
+  "date_at": "2026-01-07",
+  "total_fees_near": 91773.84256501851,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8259671.6143883085,
+  "fees_usd": 160986.61549946998,
+  "cumulative_fees_usd": 16718618.555611819
+ },
+ {
+  "date_at": "2026-01-08",
+  "total_fees_near": 104528.75666273807,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8364200.371051047,
+  "fees_usd": 177263.34984055997,
+  "cumulative_fees_usd": 16895881.905452378
+ },
+ {
+  "date_at": "2026-01-09",
+  "total_fees_near": 90145.33571083011,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8454345.706761878,
+  "fees_usd": 152570.98069057998,
+  "cumulative_fees_usd": 17048452.886142958
+ },
+ {
+  "date_at": "2026-01-10",
+  "total_fees_near": 57727.52996958037,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8512073.236731458,
+  "fees_usd": 98016.53526085,
+  "cumulative_fees_usd": 17146469.421403807
+ },
+ {
+  "date_at": "2026-01-11",
+  "total_fees_near": 45561.5584664002,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8557634.79519786,
+  "fees_usd": 77321.76151402,
+  "cumulative_fees_usd": 17223791.182917826
+ },
+ {
+  "date_at": "2026-01-12",
+  "total_fees_near": 80750.40490451043,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8638385.20010237,
+  "fees_usd": 137107.45832745,
+  "cumulative_fees_usd": 17360898.641245276
+ },
+ {
+  "date_at": "2026-01-13",
+  "total_fees_near": 106666.71438040488,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8745051.914482774,
+  "fees_usd": 188400.08427439013,
+  "cumulative_fees_usd": 17549298.725519665
+ },
+ {
+  "date_at": "2026-01-14",
+  "total_fees_near": 122881.25321445195,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8867933.167697227,
+  "fees_usd": 225691.9017372101,
+  "cumulative_fees_usd": 17774990.627256874
+ },
+ {
+  "date_at": "2026-01-15",
+  "total_fees_near": 72950.57797352446,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 8940883.74567075,
+  "fees_usd": 128484.20545586996,
+  "cumulative_fees_usd": 17903474.832712743
+ },
+ {
+  "date_at": "2026-01-16",
+  "total_fees_near": 81744.6037470298,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9022628.349417781,
+  "fees_usd": 140566.65819333002,
+  "cumulative_fees_usd": 18044041.490906075
+ },
+ {
+  "date_at": "2026-01-17",
+  "total_fees_near": 45946.61064513476,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9068574.960062915,
+  "fees_usd": 80980.90126205001,
+  "cumulative_fees_usd": 18125022.392168123
+ },
+ {
+  "date_at": "2026-01-18",
+  "total_fees_near": 52206.36068880059,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9120781.320751715,
+  "fees_usd": 89773.18773445001,
+  "cumulative_fees_usd": 18214795.579902574
+ },
+ {
+  "date_at": "2026-01-19",
+  "total_fees_near": 110057.92950949165,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9230839.250261206,
+  "fees_usd": 173753.95621310998,
+  "cumulative_fees_usd": 18388549.536115684
+ },
+ {
+  "date_at": "2026-01-20",
+  "total_fees_near": 144142.57987325272,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9374981.830134459,
+  "fees_usd": 223240.8205787001,
+  "cumulative_fees_usd": 18611790.356694385
+ },
+ {
+  "date_at": "2026-01-21",
+  "total_fees_near": 124206.57329643791,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9499188.403430896,
+  "fees_usd": 190036.05714355,
+  "cumulative_fees_usd": 18801826.413837936
+ },
+ {
+  "date_at": "2026-01-22",
+  "total_fees_near": 79470.864456111,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9578659.267887007,
+  "fees_usd": 121755.98691880006,
+  "cumulative_fees_usd": 18923582.400756735
+ },
+ {
+  "date_at": "2026-01-23",
+  "total_fees_near": 76110.41931822343,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9654769.68720523,
+  "fees_usd": 115529.27399011998,
+  "cumulative_fees_usd": 19039111.674746856
+ },
+ {
+  "date_at": "2026-01-24",
+  "total_fees_near": 54378.625415827126,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9709148.312621057,
+  "fees_usd": 81794.51572963997,
+  "cumulative_fees_usd": 19120906.190476496
+ },
+ {
+  "date_at": "2026-01-25",
+  "total_fees_near": 130796.46267339599,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9839944.775294453,
+  "fees_usd": 193633.26328274,
+  "cumulative_fees_usd": 19314539.453759234
+ },
+ {
+  "date_at": "2026-01-26",
+  "total_fees_near": 122636.66288499915,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 9962581.438179452,
+  "fees_usd": 178589.64032628,
+  "cumulative_fees_usd": 19493129.094085515
+ },
+ {
+  "date_at": "2026-01-27",
+  "total_fees_near": 97927.81819569234,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10060509.256375145,
+  "fees_usd": 143749.87645976004,
+  "cumulative_fees_usd": 19636878.970545273
+ },
+ {
+  "date_at": "2026-01-28",
+  "total_fees_near": 73332.29967663264,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10133841.556051778,
+  "fees_usd": 108379.02789709,
+  "cumulative_fees_usd": 19745257.998442363
+ },
+ {
+  "date_at": "2026-01-29",
+  "total_fees_near": 78420.02327011885,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10212261.579321897,
+  "fees_usd": 111127.70797569757,
+  "cumulative_fees_usd": 19856385.70641806
+ },
+ {
+  "date_at": "2026-01-30",
+  "total_fees_near": 116495.45860729304,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10328757.03792919,
+  "fees_usd": 154890.42017328006,
+  "cumulative_fees_usd": 20011276.12659134
+ },
+ {
+  "date_at": "2026-01-31",
+  "total_fees_near": 162978.55152569278,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10491735.589454884,
+  "fees_usd": 205556.69811178005,
+  "cumulative_fees_usd": 20216832.82470312
+ },
+ {
+  "date_at": "2026-02-01",
+  "total_fees_near": 117404.98435046269,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10609140.573805347,
+  "fees_usd": 139760.85012052997,
+  "cumulative_fees_usd": 20356593.67482365
+ },
+ {
+  "date_at": "2026-02-02",
+  "total_fees_near": 194199.02429030513,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10803339.598095652,
+  "fees_usd": 231663.25272630987,
+  "cumulative_fees_usd": 20588256.92754996
+ },
+ {
+  "date_at": "2026-02-03",
+  "total_fees_near": 134242.41088427923,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 10937582.008979931,
+  "fees_usd": 159468.79726295001,
+  "cumulative_fees_usd": 20747725.72481291
+ },
+ {
+  "date_at": "2026-02-04",
+  "total_fees_near": 198268.90474987144,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11135850.913729804,
+  "fees_usd": 232552.90286287002,
+  "cumulative_fees_usd": 20980278.62767578
+ },
+ {
+  "date_at": "2026-02-05",
+  "total_fees_near": 317692.7523388157,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11453543.66606862,
+  "fees_usd": 347216.1516088301,
+  "cumulative_fees_usd": 21327494.779284608
+ },
+ {
+  "date_at": "2026-02-06",
+  "total_fees_near": 248097.7061472594,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11701641.372215878,
+  "fees_usd": 253587.27105453995,
+  "cumulative_fees_usd": 21581082.050339147
+ },
+ {
+  "date_at": "2026-02-07",
+  "total_fees_near": 120345.56827709929,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11821986.940492978,
+  "fees_usd": 129236.09713357002,
+  "cumulative_fees_usd": 21710318.147472717
+ },
+ {
+  "date_at": "2026-02-08",
+  "total_fees_near": 82343.22201936095,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 11904330.16251234,
+  "fees_usd": 87074.52631789005,
+  "cumulative_fees_usd": 21797392.673790608
+ },
+ {
+  "date_at": "2026-02-09",
+  "total_fees_near": 132384.13148956708,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12036714.294001907,
+  "fees_usd": 135623.89663144003,
+  "cumulative_fees_usd": 21933016.570422046
+ },
+ {
+  "date_at": "2026-02-10",
+  "total_fees_near": 109863.56762137942,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12146577.861623287,
+  "fees_usd": 110037.49538187,
+  "cumulative_fees_usd": 22043054.065803915
+ },
+ {
+  "date_at": "2026-02-11",
+  "total_fees_near": 165233.52642652093,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12311811.388049807,
+  "fees_usd": 160631.41864369996,
+  "cumulative_fees_usd": 22203685.484447613
+ },
+ {
+  "date_at": "2026-02-12",
+  "total_fees_near": 134456.31523268897,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12446267.703282496,
+  "fees_usd": 130138.28428306998,
+  "cumulative_fees_usd": 22333823.768730685
+ },
+ {
+  "date_at": "2026-02-13",
+  "total_fees_near": 128608.28740249896,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12574875.990684995,
+  "fees_usd": 127279.13682823005,
+  "cumulative_fees_usd": 22461102.905558914
+ },
+ {
+  "date_at": "2026-02-14",
+  "total_fees_near": 104332.2495934823,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12679208.240278477,
+  "fees_usd": 109544.51489609001,
+  "cumulative_fees_usd": 22570647.420455005
+ },
+ {
+  "date_at": "2026-02-15",
+  "total_fees_near": 138769.47893772402,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12817977.719216201,
+  "fees_usd": 147702.76414434,
+  "cumulative_fees_usd": 22718350.184599344
+ },
+ {
+  "date_at": "2026-02-16",
+  "total_fees_near": 70151.2720136193,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12888128.991229821,
+  "fees_usd": 73606.22216029004,
+  "cumulative_fees_usd": 22791956.406759635
+ },
+ {
+  "date_at": "2026-02-17",
+  "total_fees_near": 65990.57636192383,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 12954119.567591745,
+  "fees_usd": 69290.10518002001,
+  "cumulative_fees_usd": 22861246.511939656
+ },
+ {
+  "date_at": "2026-02-18",
+  "total_fees_near": 110239.60685372677,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13064359.174445473,
+  "fees_usd": 114575.69805664003,
+  "cumulative_fees_usd": 22975822.209996294
+ },
+ {
+  "date_at": "2026-02-19",
+  "total_fees_near": 107559.13465332327,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13171918.309098795,
+  "fees_usd": 108123.06271468004,
+  "cumulative_fees_usd": 23083945.272710975
+ },
+ {
+  "date_at": "2026-02-20",
+  "total_fees_near": 112426.74386762844,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13284345.052966423,
+  "fees_usd": 115078.14124384,
+  "cumulative_fees_usd": 23199023.413954817
+ },
+ {
+  "date_at": "2026-02-21",
+  "total_fees_near": 67792.87935383868,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13352137.932320261,
+  "fees_usd": 72142.92244570999,
+  "cumulative_fees_usd": 23271166.336400528
+ },
+ {
+  "date_at": "2026-02-22",
+  "total_fees_near": 68919.25831932662,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13421057.190639587,
+  "fees_usd": 70616.39505544002,
+  "cumulative_fees_usd": 23341782.731455967
+ },
+ {
+  "date_at": "2026-02-23",
+  "total_fees_near": 153341.48919954328,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13574398.67983913,
+  "fees_usd": 152452.28746059,
+  "cumulative_fees_usd": 23494235.01891656
+ },
+ {
+  "date_at": "2026-02-24",
+  "total_fees_near": 195482.4137981799,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 13769881.09363731,
+  "fees_usd": 190643.30366031002,
+  "cumulative_fees_usd": 23684878.32257687
+ },
+ {
+  "date_at": "2026-02-25",
+  "total_fees_near": 257865.8740230992,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14027746.967660408,
+  "fees_usd": 274633.3661044,
+  "cumulative_fees_usd": 23959511.68868127
+ },
+ {
+  "date_at": "2026-02-26",
+  "total_fees_near": 134094.7087621299,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14161841.676422538,
+  "fees_usd": 152046.63789766005,
+  "cumulative_fees_usd": 24111558.32657893
+ },
+ {
+  "date_at": "2026-02-27",
+  "total_fees_near": 100191.99336764861,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14262033.669790186,
+  "fees_usd": 111868.53526137001,
+  "cumulative_fees_usd": 24223426.8618403
+ },
+ {
+  "date_at": "2026-02-28",
+  "total_fees_near": 119403.96616617513,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14381437.635956362,
+  "fees_usd": 129359.27184527997,
+  "cumulative_fees_usd": 24352786.13368558
+ },
+ {
+  "date_at": "2026-03-01",
+  "total_fees_near": 94871.41011127796,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14476309.04606764,
+  "fees_usd": 109497.41917009997,
+  "cumulative_fees_usd": 24462283.55285568
+ },
+ {
+  "date_at": "2026-03-02",
+  "total_fees_near": 126345.66439126054,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14602654.7104589,
+  "fees_usd": 157195.06411346,
+  "cumulative_fees_usd": 24619478.616969142
+ },
+ {
+  "date_at": "2026-03-03",
+  "total_fees_near": 97798.82651030611,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14700453.536969207,
+  "fees_usd": 133373.14965342998,
+  "cumulative_fees_usd": 24752851.766622573
+ },
+ {
+  "date_at": "2026-03-04",
+  "total_fees_near": 192036.34504732778,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14892489.882016536,
+  "fees_usd": 259969.20210782,
+  "cumulative_fees_usd": 25012820.968730394
+ },
+ {
+  "date_at": "2026-03-05",
+  "total_fees_near": 106557.66421977157,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 14999047.546236308,
+  "fees_usd": 136837.80046889,
+  "cumulative_fees_usd": 25149658.769199282
+ },
+ {
+  "date_at": "2026-03-06",
+  "total_fees_near": 91282.5671866498,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15090330.113422958,
+  "fees_usd": 114597.65622223994,
+  "cumulative_fees_usd": 25264256.42542152
+ },
+ {
+  "date_at": "2026-03-07",
+  "total_fees_near": 73910.57481258546,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15164240.688235544,
+  "fees_usd": 90478.86199974004,
+  "cumulative_fees_usd": 25354735.28742126
+ },
+ {
+  "date_at": "2026-03-08",
+  "total_fees_near": 47417.42021657672,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15211658.10845212,
+  "fees_usd": 57829.49540580002,
+  "cumulative_fees_usd": 25412564.78282706
+ },
+ {
+  "date_at": "2026-03-09",
+  "total_fees_near": 83386.66062797043,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15295044.769080091,
+  "fees_usd": 103468.94806253997,
+  "cumulative_fees_usd": 25516033.7308896
+ },
+ {
+  "date_at": "2026-03-10",
+  "total_fees_near": 87968.05447375725,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15383012.823553849,
+  "fees_usd": 112635.76308244,
+  "cumulative_fees_usd": 25628669.49397204
+ },
+ {
+  "date_at": "2026-03-11",
+  "total_fees_near": 72276.67752485587,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15455289.501078704,
+  "fees_usd": 93176.68344246001,
+  "cumulative_fees_usd": 25721846.1774145
+ },
+ {
+  "date_at": "2026-03-12",
+  "total_fees_near": 56033.53576970018,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15511323.036848405,
+  "fees_usd": 73824.18337658,
+  "cumulative_fees_usd": 25795670.36079108
+ },
+ {
+  "date_at": "2026-03-13",
+  "total_fees_near": 103288.02138903213,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15614611.058237437,
+  "fees_usd": 140256.5257111899,
+  "cumulative_fees_usd": 25935926.88650227
+ },
+ {
+  "date_at": "2026-03-14",
+  "total_fees_near": 47389.1913150779,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15662000.249552514,
+  "fees_usd": 62356.27757209001,
+  "cumulative_fees_usd": 25998283.16407436
+ },
+ {
+  "date_at": "2026-03-15",
+  "total_fees_near": 64460.61419185143,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15726460.863744365,
+  "fees_usd": 86780.10185578,
+  "cumulative_fees_usd": 26085063.265930142
+ },
+ {
+  "date_at": "2026-03-16",
+  "total_fees_near": 162938.18037000354,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15889399.044114368,
+  "fees_usd": 229607.05250473,
+  "cumulative_fees_usd": 26314670.31843487
+ },
+ {
+  "date_at": "2026-03-17",
+  "total_fees_near": 10753.535742583523,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15900152.57985695,
+  "fees_usd": 15664.317065029998,
+  "cumulative_fees_usd": 26330334.635499902
+ },
+ {
+  "date_at": "2026-03-18",
+  "total_fees_near": 72398.84284071859,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 15972551.422697669,
+  "fees_usd": 103108.01867899005,
+  "cumulative_fees_usd": 26433442.65417889
+ },
+ {
+  "date_at": "2026-03-19",
+  "total_fees_near": 86121.3463850742,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16058672.769082744,
+  "fees_usd": 116515.00488013998,
+  "cumulative_fees_usd": 26549957.659059033
+ },
+ {
+  "date_at": "2026-03-20",
+  "total_fees_near": 62059.737603797024,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16120732.50668654,
+  "fees_usd": 83055.46700088998,
+  "cumulative_fees_usd": 26633013.126059923
+ },
+ {
+  "date_at": "2026-03-21",
+  "total_fees_near": 58488.04330501234,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16179220.549991552,
+  "fees_usd": 77033.62703631,
+  "cumulative_fees_usd": 26710046.753096234
+ },
+ {
+  "date_at": "2026-03-22",
+  "total_fees_near": 99846.05335189903,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16279066.603343451,
+  "fees_usd": 128634.99873502992,
+  "cumulative_fees_usd": 26838681.751831263
+ },
+ {
+  "date_at": "2026-03-23",
+  "total_fees_near": 113094.08597209414,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16392160.689315546,
+  "fees_usd": 146126.98358310998,
+  "cumulative_fees_usd": 26984808.735414375
+ },
+ {
+  "date_at": "2026-03-24",
+  "total_fees_near": 98298.59483747855,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16490459.284153026,
+  "fees_usd": 127870.08878442,
+  "cumulative_fees_usd": 27112678.824198794
+ },
+ {
+  "date_at": "2026-03-25",
+  "total_fees_near": 116813.37505133705,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16607272.659204362,
+  "fees_usd": 150640.58157662005,
+  "cumulative_fees_usd": 27263319.405775413
+ },
+ {
+  "date_at": "2026-03-26",
+  "total_fees_near": 84013.69034888274,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16691286.349553244,
+  "fees_usd": 103581.87905931001,
+  "cumulative_fees_usd": 27366901.284834724
+ },
+ {
+  "date_at": "2026-03-27",
+  "total_fees_near": 121440.8444593331,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16812727.19401258,
+  "fees_usd": 145982.01511049,
+  "cumulative_fees_usd": 27512883.299945213
+ },
+ {
+  "date_at": "2026-03-28",
+  "total_fees_near": 93222.2858344759,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16905949.479847055,
+  "fees_usd": 109691.55633189998,
+  "cumulative_fees_usd": 27622574.856277112
+ },
+ {
+  "date_at": "2026-03-29",
+  "total_fees_near": 52309.12828935008,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 16958258.608136404,
+  "fees_usd": 60831.15710649003,
+  "cumulative_fees_usd": 27683406.0133836
+ },
+ {
+  "date_at": "2026-03-30",
+  "total_fees_near": 95223.28239236915,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17053481.890528772,
+  "fees_usd": 112641.20779664,
+  "cumulative_fees_usd": 27796047.22118024
+ },
+ {
+  "date_at": "2026-03-31",
+  "total_fees_near": 122923.47208911179,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17176405.362617884,
+  "fees_usd": 144844.82461167002,
+  "cumulative_fees_usd": 27940892.045791913
+ },
+ {
+  "date_at": "2026-04-01",
+  "total_fees_near": 159485.66558989603,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17335891.02820778,
+  "fees_usd": 191781.51287185,
+  "cumulative_fees_usd": 28132673.558663763
+ },
+ {
+  "date_at": "2026-04-02",
+  "total_fees_near": 93888.14023399068,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17429779.16844177,
+  "fees_usd": 108949.36272985999,
+  "cumulative_fees_usd": 28241622.92139362
+ },
+ {
+  "date_at": "2026-04-03",
+  "total_fees_near": 77689.8671757915,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17507469.03561756,
+  "fees_usd": 93163.09905496998,
+  "cumulative_fees_usd": 28334786.02044859
+ },
+ {
+  "date_at": "2026-04-04",
+  "total_fees_near": 38706.79940479033,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17546175.83502235,
+  "fees_usd": 47996.43126194001,
+  "cumulative_fees_usd": 28382782.451710533
+ },
+ {
+  "date_at": "2026-04-05",
+  "total_fees_near": 73666.33119569083,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17619842.16621804,
+  "fees_usd": 91745.27664329996,
+  "cumulative_fees_usd": 28474527.728353832
+ },
+ {
+  "date_at": "2026-04-06",
+  "total_fees_near": 94621.14480245025,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17714463.31102049,
+  "fees_usd": 120484.25771511997,
+  "cumulative_fees_usd": 28595011.986068953
+ },
+ {
+  "date_at": "2026-04-07",
+  "total_fees_near": 115523.82205501597,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17829987.133075505,
+  "fees_usd": 144173.72992465994,
+  "cumulative_fees_usd": 28739185.715993613
+ },
+ {
+  "date_at": "2026-04-08",
+  "total_fees_near": 112228.65712309706,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 17942215.7901986,
+  "fees_usd": 150386.40054495007,
+  "cumulative_fees_usd": 28889572.116538562
+ },
+ {
+  "date_at": "2026-04-09",
+  "total_fees_near": 100421.31743719874,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18042637.1076358,
+  "fees_usd": 135150.35638423,
+  "cumulative_fees_usd": 29024722.47292279
+ },
+ {
+  "date_at": "2026-04-10",
+  "total_fees_near": 114268.36764322287,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18156905.475279022,
+  "fees_usd": 156357.21639180998,
+  "cumulative_fees_usd": 29181079.6893146
+ },
+ {
+  "date_at": "2026-04-11",
+  "total_fees_near": 50890.707155158554,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18207796.18243418,
+  "fees_usd": 69550.63311205003,
+  "cumulative_fees_usd": 29250630.32242665
+ },
+ {
+  "date_at": "2026-04-12",
+  "total_fees_near": 87627.7407849051,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18295423.923219085,
+  "fees_usd": 118114.89226631999,
+  "cumulative_fees_usd": 29368745.21469297
+ },
+ {
+  "date_at": "2026-04-13",
+  "total_fees_near": 83642.53572268998,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18379066.458941776,
+  "fees_usd": 115670.65669317,
+  "cumulative_fees_usd": 29484415.87138614
+ },
+ {
+  "date_at": "2026-04-14",
+  "total_fees_near": 108440.20672495083,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18487506.665666725,
+  "fees_usd": 151500.00547865007,
+  "cumulative_fees_usd": 29635915.87686479
+ },
+ {
+  "date_at": "2026-04-15",
+  "total_fees_near": 68963.80589097014,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18556470.471557695,
+  "fees_usd": 95198.78704866004,
+  "cumulative_fees_usd": 29731114.66391345
+ },
+ {
+  "date_at": "2026-04-16",
+  "total_fees_near": 30257.67992529977,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18586728.151482996,
+  "fees_usd": 43066.764427010006,
+  "cumulative_fees_usd": 29774181.42834046
+ },
+ {
+  "date_at": "2026-04-17",
+  "total_fees_near": 83276.19512694806,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18670004.346609943,
+  "fees_usd": 108189.65683576002,
+  "cumulative_fees_usd": 29882371.085176222
+ },
+ {
+  "date_at": "2026-04-18",
+  "total_fees_near": 67974.07811379083,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18737978.424723733,
+  "fees_usd": 94257.38831778997,
+  "cumulative_fees_usd": 29976628.473494012
+ },
+ {
+  "date_at": "2026-04-19",
+  "total_fees_near": 66563.4852181798,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18804541.90994191,
+  "fees_usd": 89777.50068802002,
+  "cumulative_fees_usd": 30066405.974182032
+ },
+ {
+  "date_at": "2026-04-20",
+  "total_fees_near": 92402.53066747886,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18896944.44060939,
+  "fees_usd": 125012.92378220997,
+  "cumulative_fees_usd": 30191418.897964243
+ },
+ {
+  "date_at": "2026-04-21",
+  "total_fees_near": 79402.3937146026,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 18976346.834323995,
+  "fees_usd": 108814.36371971997,
+  "cumulative_fees_usd": 30300233.261683963
+ },
+ {
+  "date_at": "2026-04-22",
+  "total_fees_near": 96767.90816837813,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19073114.742492374,
+  "fees_usd": 136483.07047914996,
+  "cumulative_fees_usd": 30436716.332163114
+ },
+ {
+  "date_at": "2026-04-23",
+  "total_fees_near": 88310.7698611499,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19161425.512353525,
+  "fees_usd": 123009.54318576005,
+  "cumulative_fees_usd": 30559725.875348873
+ },
+ {
+  "date_at": "2026-04-24",
+  "total_fees_near": 62311.60802252787,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19223737.120376054,
+  "fees_usd": 88041.10950183,
+  "cumulative_fees_usd": 30647766.984850705
+ },
+ {
+  "date_at": "2026-04-25",
+  "total_fees_near": 26796.36964925156,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19250533.490025304,
+  "fees_usd": 37682.39481926001,
+  "cumulative_fees_usd": 30685449.379669964
+ },
+ {
+  "date_at": "2026-04-26",
+  "total_fees_near": 53130.717344744866,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19303664.20737005,
+  "fees_usd": 74183.7640926,
+  "cumulative_fees_usd": 30759633.143762566
+ },
+ {
+  "date_at": "2026-04-27",
+  "total_fees_near": 82527.88125706247,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19386192.08862711,
+  "fees_usd": 113407.06349408002,
+  "cumulative_fees_usd": 30873040.207256645
+ },
+ {
+  "date_at": "2026-04-28",
+  "total_fees_near": 74115.7143877805,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19460307.803014893,
+  "fees_usd": 100179.74061415,
+  "cumulative_fees_usd": 30973219.947870795
+ },
+ {
+  "date_at": "2026-04-29",
+  "total_fees_near": 68343.13915722417,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19528650.942172118,
+  "fees_usd": 91836.09324252,
+  "cumulative_fees_usd": 31065056.041113313
+ },
+ {
+  "date_at": "2026-04-30",
+  "total_fees_near": 101804.19720098638,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19630455.139373105,
+  "fees_usd": 134169.44822779996,
+  "cumulative_fees_usd": 31199225.489341114
+ },
+ {
+  "date_at": "2026-05-01",
+  "total_fees_near": 79457.39592814891,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19709912.535301253,
+  "fees_usd": 103162.18571338001,
+  "cumulative_fees_usd": 31302387.675054494
+ },
+ {
+  "date_at": "2026-05-02",
+  "total_fees_near": 38427.795119070666,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19748340.330420323,
+  "fees_usd": 49619.8904475,
+  "cumulative_fees_usd": 31352007.565501995
+ },
+ {
+  "date_at": "2026-05-03",
+  "total_fees_near": 46307.25420476092,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19794647.584625084,
+  "fees_usd": 59234.69600359001,
+  "cumulative_fees_usd": 31411242.261505585
+ },
+ {
+  "date_at": "2026-05-04",
+  "total_fees_near": 101480.46413714885,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 19896128.048762232,
+  "fees_usd": 129556.72588176002,
+  "cumulative_fees_usd": 31540798.987387344
+ },
+ {
+  "date_at": "2026-05-05",
+  "total_fees_near": 129538.85892517587,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20025666.907687407,
+  "fees_usd": 165431.91775236002,
+  "cumulative_fees_usd": 31706230.905139703
+ },
+ {
+  "date_at": "2026-05-06",
+  "total_fees_near": 110392.75971948841,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20136059.667406894,
+  "fees_usd": 156803.71578489,
+  "cumulative_fees_usd": 31863034.620924592
+ },
+ {
+  "date_at": "2026-05-07",
+  "total_fees_near": 68941.19537469705,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20205000.86278159,
+  "fees_usd": 102119.14564877,
+  "cumulative_fees_usd": 31965153.766573362
+ },
+ {
+  "date_at": "2026-05-08",
+  "total_fees_near": 56080.84487471742,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20261081.70765631,
+  "fees_usd": 85990.62880790005,
+  "cumulative_fees_usd": 32051144.39538126
+ },
+ {
+  "date_at": "2026-05-09",
+  "total_fees_near": 55304.478634793035,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20316386.186291102,
+  "fees_usd": 87058.46678427004,
+  "cumulative_fees_usd": 32138202.86216553
+ },
+ {
+  "date_at": "2026-05-10",
+  "total_fees_near": 53410.1489072866,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20369796.335198388,
+  "fees_usd": 83853.93378443997,
+  "cumulative_fees_usd": 32222056.79594997
+ },
+ {
+  "date_at": "2026-05-11",
+  "total_fees_near": 73798.8770414095,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20443595.2122398,
+  "fees_usd": 113827.38794867002,
+  "cumulative_fees_usd": 32335884.18389864
+ },
+ {
+  "date_at": "2026-05-12",
+  "total_fees_near": 69720.3725663747,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20513315.584806174,
+  "fees_usd": 108975.97364179001,
+  "cumulative_fees_usd": 32444860.15754043
+ },
+ {
+  "date_at": "2026-05-13",
+  "total_fees_near": 59232.75106437077,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20572548.335870545,
+  "fees_usd": 95315.36858774997,
+  "cumulative_fees_usd": 32540175.52612818
+ },
+ {
+  "date_at": "2026-05-14",
+  "total_fees_near": 69644.84983844643,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20642193.185708992,
+  "fees_usd": 109980.82536988,
+  "cumulative_fees_usd": 32650156.35149806
+ },
+ {
+  "date_at": "2026-05-15",
+  "total_fees_near": 67748.66844982665,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20709941.85415882,
+  "fees_usd": 105208.03638020999,
+  "cumulative_fees_usd": 32755364.38787827
+ },
+ {
+  "date_at": "2026-05-16",
+  "total_fees_near": 43440.34808005308,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20753382.202238873,
+  "fees_usd": 65486.32473068001,
+  "cumulative_fees_usd": 32820850.71260895
+ },
+ {
+  "date_at": "2026-05-17",
+  "total_fees_near": 41384.23558220351,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20794766.437821075,
+  "fees_usd": 63041.98553689002,
+  "cumulative_fees_usd": 32883892.698145837
+ },
+ {
+  "date_at": "2026-05-18",
+  "total_fees_near": 80983.77574813472,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20875750.21356921,
+  "fees_usd": 123196.56885684995,
+  "cumulative_fees_usd": 33007089.267002687
+ },
+ {
+  "date_at": "2026-05-19",
+  "total_fees_near": 51610.83919183364,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 20927361.052761044,
+  "fees_usd": 83760.09110508002,
+  "cumulative_fees_usd": 33090849.358107768
+ },
+ {
+  "date_at": "2026-05-20",
+  "total_fees_near": 76778.74523331446,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21004139.79799436,
+  "fees_usd": 126556.96505958002,
+  "cumulative_fees_usd": 33217406.323167346
+ },
+ {
+  "date_at": "2026-05-21",
+  "total_fees_near": 56744.734931040235,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21060884.5329254,
+  "fees_usd": 101100.20273547003,
+  "cumulative_fees_usd": 33318506.525902815
+ },
+ {
+  "date_at": "2026-05-22",
+  "total_fees_near": 53075.24232375636,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21113959.775249157,
+  "fees_usd": 114730.98215652,
+  "cumulative_fees_usd": 33433237.508059334
+ },
+ {
+  "date_at": "2026-05-23",
+  "total_fees_near": 51909.81438539657,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21165869.589634553,
+  "fees_usd": 113120.13718151001,
+  "cumulative_fees_usd": 33546357.645240843
+ },
+ {
+  "date_at": "2026-05-24",
+  "total_fees_near": 26984.530888351917,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21192854.120522905,
+  "fees_usd": 64920.28389556,
+  "cumulative_fees_usd": 33611277.9291364
+ },
+ {
+  "date_at": "2026-05-25",
+  "total_fees_near": 44954.25330467696,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21237808.37382758,
+  "fees_usd": 113996.49400511,
+  "cumulative_fees_usd": 33725274.42314151
+ },
+ {
+  "date_at": "2026-05-26",
+  "total_fees_near": 43611.27555470565,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21281419.649382286,
+  "fees_usd": 119276.83864211997,
+  "cumulative_fees_usd": 33844551.26178363
+ },
+ {
+  "date_at": "2026-05-27",
+  "total_fees_near": 49639.85325039696,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21331059.50263268,
+  "fees_usd": 125981.81089506997,
+  "cumulative_fees_usd": 33970533.0726787
+ },
+ {
+  "date_at": "2026-05-28",
+  "total_fees_near": 44036.689087294086,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21375096.191719975,
+  "fees_usd": 105049.52181774004,
+  "cumulative_fees_usd": 34075582.59449644
+ },
+ {
+  "date_at": "2026-05-29",
+  "total_fees_near": 29512.340152053235,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21404608.53187203,
+  "fees_usd": 73474.79648225995,
+  "cumulative_fees_usd": 34149057.390978694
+ },
+ {
+  "date_at": "2026-05-30",
+  "total_fees_near": 23745.269383510862,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21428353.801255543,
+  "fees_usd": 55989.36643386999,
+  "cumulative_fees_usd": 34205046.75741256
+ },
+ {
+  "date_at": "2026-05-31",
+  "total_fees_near": 32482.805775833232,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21460836.607031375,
+  "fees_usd": 74020.19366167998,
+  "cumulative_fees_usd": 34279066.95107424
+ },
+ {
+  "date_at": "2026-06-01",
+  "total_fees_near": 65438.480925771495,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21526275.087957148,
+  "fees_usd": 157979.39936830002,
+  "cumulative_fees_usd": 34437046.35044254
+ },
+ {
+  "date_at": "2026-06-02",
+  "total_fees_near": 61671.13203062017,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21587946.21998777,
+  "fees_usd": 162092.29202048,
+  "cumulative_fees_usd": 34599138.64246302
+ },
+ {
+  "date_at": "2026-06-03",
+  "total_fees_near": 53755.11279442743,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21641701.332782198,
+  "fees_usd": 152798.90811815995,
+  "cumulative_fees_usd": 34751937.55058118
+ },
+ {
+  "date_at": "2026-06-04",
+  "total_fees_near": 59532.900644524416,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21701234.233426724,
+  "fees_usd": 146624.57321240992,
+  "cumulative_fees_usd": 34898562.12379359
+ },
+ {
+  "date_at": "2026-06-05",
+  "total_fees_near": 135555.2570211765,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21836789.4904479,
+  "fees_usd": 279413.2735349001,
+  "cumulative_fees_usd": 35177975.39732849
+ },
+ {
+  "date_at": "2026-06-06",
+  "total_fees_near": 49975.70787607601,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21886765.198323976,
+  "fees_usd": 95349.48598523003,
+  "cumulative_fees_usd": 35273324.883313715
+ },
+ {
+  "date_at": "2026-06-07",
+  "total_fees_near": 42051.71899987621,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21928816.917323854,
+  "fees_usd": 81527.77021101,
+  "cumulative_fees_usd": 35354852.65352473
+ },
+ {
+  "date_at": "2026-06-08",
+  "total_fees_near": 53990.27622945099,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 21982807.193553306,
+  "fees_usd": 115224.24785301997,
+  "cumulative_fees_usd": 35470076.901377745
+ },
+ {
+  "date_at": "2026-06-09",
+  "total_fees_near": 43343.201684004685,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22026150.39523731,
+  "fees_usd": 92646.09359956003,
+  "cumulative_fees_usd": 35562722.9949773
+ },
+ {
+  "date_at": "2026-06-10",
+  "total_fees_near": 38904.34636643404,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22065054.741603747,
+  "fees_usd": 80742.72885466999,
+  "cumulative_fees_usd": 35643465.723831974
+ },
+ {
+  "date_at": "2026-06-11",
+  "total_fees_near": 45453.68989758685,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22110508.431501333,
+  "fees_usd": 92138.4172299,
+  "cumulative_fees_usd": 35735604.14106187
+ },
+ {
+  "date_at": "2026-06-12",
+  "total_fees_near": 59021.390359004065,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22169529.821860336,
+  "fees_usd": 121682.43312348006,
+  "cumulative_fees_usd": 35857286.57418535
+ },
+ {
+  "date_at": "2026-06-13",
+  "total_fees_near": 20499.07068334884,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22190028.892543685,
+  "fees_usd": 42236.62688715001,
+  "cumulative_fees_usd": 35899523.2010725
+ },
+ {
+  "date_at": "2026-06-14",
+  "total_fees_near": 30358.67545846771,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22220387.568002153,
+  "fees_usd": 64259.19638708999,
+  "cumulative_fees_usd": 35963782.39745959
+ },
+ {
+  "date_at": "2026-06-15",
+  "total_fees_near": 61187.68133598335,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22281575.249338135,
+  "fees_usd": 147003.4044097,
+  "cumulative_fees_usd": 36110785.80186929
+ },
+ {
+  "date_at": "2026-06-16",
+  "total_fees_near": 42600.31983825011,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22324175.569176387,
+  "fees_usd": 101761.51401361995,
+  "cumulative_fees_usd": 36212547.31588291
+ },
+ {
+  "date_at": "2026-06-17",
+  "total_fees_near": 34612.165486693426,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22358787.73466308,
+  "fees_usd": 79737.77623996999,
+  "cumulative_fees_usd": 36292285.092122875
+ },
+ {
+  "date_at": "2026-06-18",
+  "total_fees_near": 49670.17600712636,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22408457.910670206,
+  "fees_usd": 109729.69716241,
+  "cumulative_fees_usd": 36402014.78928529
+ },
+ {
+  "date_at": "2026-06-19",
+  "total_fees_near": 29628.277911837988,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22438086.188582044,
+  "fees_usd": 63687.91565049001,
+  "cumulative_fees_usd": 36465702.704935774
+ },
+ {
+  "date_at": "2026-06-20",
+  "total_fees_near": 22049.60015788562,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22460135.78873993,
+  "fees_usd": 47553.63767384,
+  "cumulative_fees_usd": 36513256.342609614
+ },
+ {
+  "date_at": "2026-06-21",
+  "total_fees_near": 29878.46729245356,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22490014.256032385,
+  "fees_usd": 65545.88762282,
+  "cumulative_fees_usd": 36578802.23023243
+ },
+ {
+  "date_at": "2026-06-22",
+  "total_fees_near": 40536.74062624361,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22530550.996658627,
+  "fees_usd": 86664.17339718998,
+  "cumulative_fees_usd": 36665466.40362962
+ },
+ {
+  "date_at": "2026-06-23",
+  "total_fees_near": 54745.95707754261,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22585296.95373617,
+  "fees_usd": 109788.4547559219,
+  "cumulative_fees_usd": 36775254.85838555
+ },
+ {
+  "date_at": "2026-06-24",
+  "total_fees_near": 80317.69209015233,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22665614.645826325,
+  "fees_usd": 156485.6367556468,
+  "cumulative_fees_usd": 36931740.49514119
+ },
+ {
+  "date_at": "2026-06-25",
+  "total_fees_near": 58559.311482987294,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22724173.957309313,
+  "fees_usd": 111311.49124391169,
+  "cumulative_fees_usd": 37043051.98638511
+ },
+ {
+  "date_at": "2026-06-26",
+  "total_fees_near": 54992.80028712291,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22779166.757596437,
+  "fees_usd": 99284.91818504316,
+  "cumulative_fees_usd": 37142336.90457015
+ },
+ {
+  "date_at": "2026-06-27",
+  "total_fees_near": 37023.93527824868,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22816190.692874685,
+  "fees_usd": 67985.20115468415,
+  "cumulative_fees_usd": 37210322.105724834
+ },
+ {
+  "date_at": "2026-06-28",
+  "total_fees_near": 37709.158461430554,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22853899.851336114,
+  "fees_usd": 70233.3076344144,
+  "cumulative_fees_usd": 37280555.41335925
+ },
+ {
+  "date_at": "2026-06-29",
+  "total_fees_near": 65262.06679018858,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 22919161.918126304,
+  "fees_usd": 121142.71147928757,
+  "cumulative_fees_usd": 37401698.12483853
+ },
+ {
+  "date_at": "2026-06-30",
+  "total_fees_near": 81215.45311654065,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23000377.371242844,
+  "fees_usd": 148015.1633048953,
+  "cumulative_fees_usd": 37549713.288143426
+ },
+ {
+  "date_at": "2026-07-01",
+  "total_fees_near": 78529.32750525052,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23078906.698748093,
+  "fees_usd": 142399.84720952096,
+  "cumulative_fees_usd": 37692113.13535295
+ },
+ {
+  "date_at": "2026-07-02",
+  "total_fees_near": 99606.62201349661,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23178513.32076159,
+  "fees_usd": 190580.67011915686,
+  "cumulative_fees_usd": 37882693.805472106
+ },
+ {
+  "date_at": "2026-07-03",
+  "total_fees_near": 64823.12676875044,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23243336.44753034,
+  "fees_usd": 129295.12826750346,
+  "cumulative_fees_usd": 38011988.93373961
+ },
+ {
+  "date_at": "2026-07-04",
+  "total_fees_near": 55285.841723220714,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23298622.289253563,
+  "fees_usd": 110525.61191167205,
+  "cumulative_fees_usd": 38122514.54565128
+ },
+ {
+  "date_at": "2026-07-05",
+  "total_fees_near": 38717.3021611561,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23337339.59141472,
+  "fees_usd": 76418.27514058184,
+  "cumulative_fees_usd": 38198932.82079186
+ },
+ {
+  "date_at": "2026-07-06",
+  "total_fees_near": 82768.02979094899,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23420107.62120567,
+  "fees_usd": 167191.42017771694,
+  "cumulative_fees_usd": 38366124.24096958
+ },
+ {
+  "date_at": "2026-07-07",
+  "total_fees_near": 55182.70736086099,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23475290.32856653,
+  "fees_usd": 111859.94637941198,
+  "cumulative_fees_usd": 38477984.187349
+ },
+ {
+  "date_at": "2026-07-08",
+  "total_fees_near": 72344.67241326599,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23547635.000979796,
+  "fees_usd": 137213.72867716115,
+  "cumulative_fees_usd": 38615197.91602616
+ },
+ {
+  "date_at": "2026-07-09",
+  "total_fees_near": 59950.203294659055,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23607585.204274457,
+  "fees_usd": 114754.68080652654,
+  "cumulative_fees_usd": 38729952.596832685
+ },
+ {
+  "date_at": "2026-07-10",
+  "total_fees_near": 50303.393377091634,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23657888.59765155,
+  "fees_usd": 96414.8373060923,
+  "cumulative_fees_usd": 38826367.434138775
+ },
+ {
+  "date_at": "2026-07-11",
+  "total_fees_near": 40936.54505410842,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23698825.142705657,
+  "fees_usd": 77762.37870903345,
+  "cumulative_fees_usd": 38904129.81284781
+ },
+ {
+  "date_at": "2026-07-12",
+  "total_fees_near": 29937.820480009075,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23728762.963185664,
+  "fees_usd": 56619.90298281716,
+  "cumulative_fees_usd": 38960749.715830624
+ },
+ {
+  "date_at": "2026-07-13",
+  "total_fees_near": 45683.03584759753,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23774445.99903326,
+  "fees_usd": 87026.18328967328,
+  "cumulative_fees_usd": 39047775.8991203
+ },
+ {
+  "date_at": "2026-07-14",
+  "total_fees_near": 78816.6048329177,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23853262.60386618,
+  "fees_usd": 157370.48764972566,
+  "cumulative_fees_usd": 39205146.386770025
+ },
+ {
+  "date_at": "2026-07-15",
+  "total_fees_near": 74607.44209992896,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23927870.045966107,
+  "fees_usd": 152510.0462259381,
+  "cumulative_fees_usd": 39357656.43299596
+ },
+ {
+  "date_at": "2026-07-16",
+  "total_fees_near": 49859.542623128174,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 23977729.588589236,
+  "fees_usd": 101941.98985487083,
+  "cumulative_fees_usd": 39459598.42285083
+ },
+ {
+  "date_at": "2026-07-17",
+  "total_fees_near": 42586.55366082411,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24020316.14225006,
+  "fees_usd": 82447.56788735547,
+  "cumulative_fees_usd": 39542045.99073819
+ },
+ {
+  "date_at": "2026-07-18",
+  "total_fees_near": 28445.93684111736,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24048762.07909118,
+  "fees_usd": 54616.19873494533,
+  "cumulative_fees_usd": 39596662.18947314
+ },
+ {
+  "date_at": "2026-07-19",
+  "total_fees_near": 28060.17327180217,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24076822.25236298,
+  "fees_usd": 53936.533058538,
+  "cumulative_fees_usd": 39650598.72253168
+ },
+ {
+  "date_at": "2026-07-20",
+  "total_fees_near": 48904.97084135704,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24125727.223204337,
+  "fees_usd": 95018.28293051996,
+  "cumulative_fees_usd": 39745617.0054622
+ },
+ {
+  "date_at": "2026-07-21",
+  "total_fees_near": 114195.80232007374,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24239923.02552441,
+  "fees_usd": 226345.59651524614,
+  "cumulative_fees_usd": 39971962.601977445
+ },
+ {
+  "date_at": "2026-07-22",
+  "total_fees_near": 82561.54282210491,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24322484.568346515,
+  "fees_usd": 156488.52429073135,
+  "cumulative_fees_usd": 40128451.12626818
+ },
+ {
+  "date_at": "2026-07-23",
+  "total_fees_near": 46505.44371208599,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24368990.0120586,
+  "fees_usd": 87546.49778800187,
+  "cumulative_fees_usd": 40215997.62405618
+ },
+ {
+  "date_at": "2026-07-24",
+  "total_fees_near": 38430.42659245328,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24407420.438651055,
+  "fees_usd": 71704.77095041907,
+  "cumulative_fees_usd": 40287702.395006604
+ },
+ {
+  "date_at": "2026-07-25",
+  "total_fees_near": 37011.959065943585,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24444432.397717,
+  "fees_usd": 66606.10466908764,
+  "cumulative_fees_usd": 40354308.49967569
+ },
+ {
+  "date_at": "2026-07-26",
+  "total_fees_near": 43421.876109484896,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24487854.273826484,
+  "fees_usd": 78322.20903248338,
+  "cumulative_fees_usd": 40432630.708708175
+ },
+ {
+  "date_at": "2026-07-27",
+  "total_fees_near": 47952.987921377,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24535807.26174786,
+  "fees_usd": 87134.57513546878,
+  "cumulative_fees_usd": 40519765.283843644
+ },
+ {
+  "date_at": "2026-07-28",
+  "total_fees_near": 57739.43924752964,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24593546.70099539,
+  "fees_usd": 96930.08363679037,
+  "cumulative_fees_usd": 40616695.367480434
+ },
+ {
+  "date_at": "2026-07-29",
+  "total_fees_near": 47312.674225283874,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24640859.375220675,
+  "fees_usd": 76331.11441679133,
+  "cumulative_fees_usd": 40693026.48189723
+ },
+ {
+  "date_at": "2026-07-30",
+  "total_fees_near": 63449.62376887614,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24704308.998989552,
+  "fees_usd": 103528.63611621624,
+  "cumulative_fees_usd": 40796555.11801344
+ },
+ {
+  "date_at": "2026-07-31",
+  "total_fees_near": 58313.25683563877,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24762622.25582519,
+  "fees_usd": 95536.55244905484,
+  "cumulative_fees_usd": 40892091.6704625
+ },
+ {
+  "date_at": "2026-08-01",
+  "total_fees_near": 42752.57654437243,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24805374.832369566,
+  "fees_usd": 70969.27706365823,
+  "cumulative_fees_usd": 40963060.94752616
+ },
+ {
+  "date_at": "2026-08-02",
+  "total_fees_near": 29769.523471350014,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24835144.355840918,
+  "fees_usd": 50446.9383158252,
+  "cumulative_fees_usd": 41013507.88584198
+ },
+ {
+  "date_at": "2026-08-03",
+  "total_fees_near": 55809.396020924076,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24890953.75186184,
+  "fees_usd": 96620.01686122481,
+  "cumulative_fees_usd": 41110127.9027032
+ },
+ {
+  "date_at": "2026-08-04",
+  "total_fees_near": 43410.88368014742,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24934364.635541987,
+  "fees_usd": 75770.0798900573,
+  "cumulative_fees_usd": 41185897.98259326
+ },
+ {
+  "date_at": "2026-08-05",
+  "total_fees_near": 50303.828797215894,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 24984668.464339204,
+  "fees_usd": 85788.98802791862,
+  "cumulative_fees_usd": 41271686.970621176
+ },
+ {
+  "date_at": "2026-08-06",
+  "total_fees_near": 43814.32695769884,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25028482.791296903,
+  "fees_usd": 73991.44464981392,
+  "cumulative_fees_usd": 41345678.41527099
+ },
+ {
+  "date_at": "2026-08-07",
+  "total_fees_near": 59341.4970618752,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25087824.288358778,
+  "fees_usd": 97221.1526863722,
+  "cumulative_fees_usd": 41442899.567957364
+ },
+ {
+  "date_at": "2026-08-08",
+  "total_fees_near": 55585.59811348933,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25143409.886472266,
+  "fees_usd": 88682.18965689611,
+  "cumulative_fees_usd": 41531581.75761426
+ },
+ {
+  "date_at": "2026-08-09",
+  "total_fees_near": 31065.419340700453,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25174475.305812966,
+  "fees_usd": 50636.63352534174,
+  "cumulative_fees_usd": 41582218.391139604
+ },
+ {
+  "date_at": "2026-08-10",
+  "total_fees_near": 63717.556052044405,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25238192.86186501,
+  "fees_usd": 103471.77037147211,
+  "cumulative_fees_usd": 41685690.16151108
+ },
+ {
+  "date_at": "2026-08-11",
+  "total_fees_near": 57294.3839415985,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25295487.24580661,
+  "fees_usd": 90430.1742641852,
+  "cumulative_fees_usd": 41776120.33577526
+ },
+ {
+  "date_at": "2026-08-12",
+  "total_fees_near": 55975.7757418624,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25351463.021548472,
+  "fees_usd": 91916.88841611655,
+  "cumulative_fees_usd": 41868037.22419138
+ },
+ {
+  "date_at": "2026-08-13",
+  "total_fees_near": 41161.79293282213,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25392624.814481296,
+  "fees_usd": 67796.90310976912,
+  "cumulative_fees_usd": 41935834.12730115
+ },
+ {
+  "date_at": "2026-08-14",
+  "total_fees_near": 51898.85354843504,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25444523.66802973,
+  "fees_usd": 83276.03542292639,
+  "cumulative_fees_usd": 42019110.16272408
+ },
+ {
+  "date_at": "2026-08-15",
+  "total_fees_near": 19114.902401983458,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25463638.570431713,
+  "fees_usd": 31356.404481920363,
+  "cumulative_fees_usd": 42050466.567205995
+ },
+ {
+  "date_at": "2026-08-16",
+  "total_fees_near": 30668.321430013326,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25494306.891861726,
+  "fees_usd": 49273.76976422141,
+  "cumulative_fees_usd": 42099740.33697022
+ },
+ {
+  "date_at": "2026-08-17",
+  "total_fees_near": 58874.179584118625,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25553181.071445845,
+  "fees_usd": 95719.60364051285,
+  "cumulative_fees_usd": 42195459.94061073
+ },
+ {
+  "date_at": "2026-08-18",
+  "total_fees_near": 50576.1189394323,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25603757.19038528,
+  "fees_usd": 82122.9731279032,
+  "cumulative_fees_usd": 42277582.91373863
+ },
+ {
+  "date_at": "2026-08-19",
+  "total_fees_near": 130547.64814105332,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25734304.83852633,
+  "fees_usd": 213808.03706656955,
+  "cumulative_fees_usd": 42491390.9508052
+ },
+ {
+  "date_at": "2026-08-20",
+  "total_fees_near": 152918.94067961653,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 25887223.779205948,
+  "fees_usd": 265843.6968737949,
+  "cumulative_fees_usd": 42757234.64767899
+ },
+ {
+  "date_at": "2026-08-21",
+  "total_fees_near": 172867.47609768665,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26060091.255303636,
+  "fees_usd": 323766.37710795895,
+  "cumulative_fees_usd": 43081001.02478695
+ },
+ {
+  "date_at": "2026-08-22",
+  "total_fees_near": 143220.3933256331,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26203311.64862927,
+  "fees_usd": 279876.51862384134,
+  "cumulative_fees_usd": 43360877.54341079
+ },
+ {
+  "date_at": "2026-08-23",
+  "total_fees_near": 108918.95484762751,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26312230.603476897,
+  "fees_usd": 209351.3077967107,
+  "cumulative_fees_usd": 43570228.8512075
+ },
+ {
+  "date_at": "2026-08-24",
+  "total_fees_near": 98952.89488922086,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26411183.498366117,
+  "fees_usd": 196085.05651248002,
+  "cumulative_fees_usd": 43766313.907719985
+ },
+ {
+  "date_at": "2026-08-25",
+  "total_fees_near": 103680.93363687705,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26514864.432002995,
+  "fees_usd": 199456.19608394222,
+  "cumulative_fees_usd": 43965770.103803925
+ },
+ {
+  "date_at": "2026-08-26",
+  "total_fees_near": 85980.68479916098,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26600845.116802156,
+  "fees_usd": 159631.25836158614,
+  "cumulative_fees_usd": 44125401.36216551
+ },
+ {
+  "date_at": "2026-08-27",
+  "total_fees_near": 105651.09673906158,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26706496.213541217,
+  "fees_usd": 200929.17670737894,
+  "cumulative_fees_usd": 44326330.53887289
+ },
+ {
+  "date_at": "2026-08-28",
+  "total_fees_near": 97112.13816541503,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26803608.35170663,
+  "fees_usd": 180911.82072398777,
+  "cumulative_fees_usd": 44507242.35959688
+ },
+ {
+  "date_at": "2026-08-29",
+  "total_fees_near": 59845.78964577629,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26863454.141352408,
+  "fees_usd": 109019.0801380558,
+  "cumulative_fees_usd": 44616261.439734936
+ },
+ {
+  "date_at": "2026-08-30",
+  "total_fees_near": 64962.044961300446,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 26928416.186313707,
+  "fees_usd": 122182.77956471259,
+  "cumulative_fees_usd": 44738444.21929965
+ },
+ {
+  "date_at": "2026-08-31",
+  "total_fees_near": 75029.68947257231,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27003445.87578628,
+  "fees_usd": 139195.07990951615,
+  "cumulative_fees_usd": 44877639.29920917
+ },
+ {
+  "date_at": "2026-09-01",
+  "total_fees_near": 61136.2946845934,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27064582.17047087,
+  "fees_usd": 119733.45953843197,
+  "cumulative_fees_usd": 44997372.7587476
+ },
+ {
+  "date_at": "2026-09-02",
+  "total_fees_near": 102820.95306078155,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27167403.12353165,
+  "fees_usd": 191161.28856550303,
+  "cumulative_fees_usd": 45188534.0473131
+ },
+ {
+  "date_at": "2026-09-03",
+  "total_fees_near": 111262.91197822378,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27278666.035509873,
+  "fees_usd": 214042.02691810802,
+  "cumulative_fees_usd": 45402576.07423121
+ },
+ {
+  "date_at": "2026-09-04",
+  "total_fees_near": 108802.4516112803,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27387468.487121154,
+  "fees_usd": 216743.55048063796,
+  "cumulative_fees_usd": 45619319.62471185
+ },
+ {
+  "date_at": "2026-09-05",
+  "total_fees_near": 63190.624245583065,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27450659.111366738,
+  "fees_usd": 140204.19754488746,
+  "cumulative_fees_usd": 45759523.82225674
+ },
+ {
+  "date_at": "2026-09-06",
+  "total_fees_near": 87563.0826210834,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27538222.19398782,
+  "fees_usd": 204605.73639126492,
+  "cumulative_fees_usd": 45964129.558648
+ },
+ {
+  "date_at": "2026-09-07",
+  "total_fees_near": 64015.49095845735,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27602237.684946276,
+  "fees_usd": 150703.13496470166,
+  "cumulative_fees_usd": 46114832.6936127
+ },
+ {
+  "date_at": "2026-09-08",
+  "total_fees_near": 53816.57643628233,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27656054.261382557,
+  "fees_usd": 124809.61018514479,
+  "cumulative_fees_usd": 46239642.30379785
+ },
+ {
+  "date_at": "2026-09-09",
+  "total_fees_near": 129886.43471375576,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27785940.696096312,
+  "fees_usd": 320224.1809172053,
+  "cumulative_fees_usd": 46559866.48471505
+ },
+ {
+  "date_at": "2026-09-10",
+  "total_fees_near": 85293.12662787431,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27871233.822724186,
+  "fees_usd": 210283.09594047183,
+  "cumulative_fees_usd": 46770149.58065552
+ },
+ {
+  "date_at": "2026-09-11",
+  "total_fees_near": 84434.80894084155,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 27955668.63166503,
+  "fees_usd": 210875.93532975175,
+  "cumulative_fees_usd": 46981025.51598527
+ },
+ {
+  "date_at": "2026-09-12",
+  "total_fees_near": 50626.12027367331,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28006294.7519387,
+  "fees_usd": 119709.68023045668,
+  "cumulative_fees_usd": 47100735.19621573
+ },
+ {
+  "date_at": "2026-09-13",
+  "total_fees_near": 41836.16558196844,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28048130.91752067,
+  "fees_usd": 97373.67539203157,
+  "cumulative_fees_usd": 47198108.87160776
+ },
+ {
+  "date_at": "2026-09-14",
+  "total_fees_near": 75515.19412604554,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28123646.111646716,
+  "fees_usd": 183344.59840519473,
+  "cumulative_fees_usd": 47381453.470012955
+ },
+ {
+  "date_at": "2026-09-15",
+  "total_fees_near": 82872.55758464598,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28206518.669231363,
+  "fees_usd": 197927.29169799617,
+  "cumulative_fees_usd": 47579380.76171095
+ },
+ {
+  "date_at": "2026-09-16",
+  "total_fees_near": 99363.30281748099,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28305881.972048845,
+  "fees_usd": 241204.41758943518,
+  "cumulative_fees_usd": 47820585.17930038
+ },
+ {
+  "date_at": "2026-09-17",
+  "total_fees_near": 196614.92236096878,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28502496.894409813,
+  "fees_usd": 556174.4616285904,
+  "cumulative_fees_usd": 48376759.640928976
+ },
+ {
+  "date_at": "2026-09-18",
+  "total_fees_near": 116912.49029568488,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28619409.3847055,
+  "fees_usd": 414211.21041008685,
+  "cumulative_fees_usd": 48790970.851339065
+ },
+ {
+  "date_at": "2026-09-19",
+  "total_fees_near": 68047.47941473805,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28687456.864120238,
+  "fees_usd": 249110.4808907868,
+  "cumulative_fees_usd": 49040081.33222985
+ },
+ {
+  "date_at": "2026-09-20",
+  "total_fees_near": 48193.55068987021,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28735650.414810106,
+  "fees_usd": 180083.23441114838,
+  "cumulative_fees_usd": 49220164.566641
+ },
+ {
+  "date_at": "2026-09-21",
+  "total_fees_near": 137117.65576810302,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28872768.07057821,
+  "fees_usd": 576003.8483506473,
+  "cumulative_fees_usd": 49796168.41499165
+ },
+ {
+  "date_at": "2026-09-22",
+  "total_fees_near": 93072.71981528308,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 28965840.790393494,
+  "fees_usd": 410062.8913861679,
+  "cumulative_fees_usd": 50206231.30637781
+ },
+ {
+  "date_at": "2026-09-23",
+  "total_fees_near": 79727.75295382386,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29045568.543347318,
+  "fees_usd": 355452.8985857981,
+  "cumulative_fees_usd": 50561684.20496361
+ },
+ {
+  "date_at": "2026-09-24",
+  "total_fees_near": 61366.869290233844,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29106935.41263755,
+  "fees_usd": 272801.30352396035,
+  "cumulative_fees_usd": 50834485.50848757
+ },
+ {
+  "date_at": "2026-09-25",
+  "total_fees_near": 55202.05814064154,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29162137.470778193,
+  "fees_usd": 266096.9210954508,
+  "cumulative_fees_usd": 51100582.42958302
+ },
+ {
+  "date_at": "2026-09-26",
+  "total_fees_near": 30755.40557142785,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29192892.87634962,
+  "fees_usd": 150137.6381978536,
+  "cumulative_fees_usd": 51250720.067780875
+ },
+ {
+  "date_at": "2026-09-27",
+  "total_fees_near": 42081.09722858337,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29234973.973578203,
+  "fees_usd": 221651.99874094306,
+  "cumulative_fees_usd": 51472372.066521816
+ },
+ {
+  "date_at": "2026-09-28",
+  "total_fees_near": 57317.648501910066,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29292291.622080114,
+  "fees_usd": 290696.0073188537,
+  "cumulative_fees_usd": 51763068.07384067
+ },
+ {
+  "date_at": "2026-09-29",
+  "total_fees_near": 73588.16501965644,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29365879.78709977,
+  "fees_usd": 355316.66345669504,
+  "cumulative_fees_usd": 52118384.73729736
+ },
+ {
+  "date_at": "2026-09-30",
+  "total_fees_near": 54877.27146315372,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29420757.058562923,
+  "fees_usd": 283917.2040851064,
+  "cumulative_fees_usd": 52402301.94138247
+ },
+ {
+  "date_at": "2026-10-01",
+  "total_fees_near": 40529.7766676798,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29461286.835230604,
+  "fees_usd": 206519.47701016237,
+  "cumulative_fees_usd": 52608821.41839263
+ },
+ {
+  "date_at": "2026-10-02",
+  "total_fees_near": 46521.994519755186,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29507808.82975036,
+  "fees_usd": 225495.9842701301,
+  "cumulative_fees_usd": 52834317.40266276
+ },
+ {
+  "date_at": "2026-10-03",
+  "total_fees_near": 25139.128868738968,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29532947.9586191,
+  "fees_usd": 117912.98903141443,
+  "cumulative_fees_usd": 52952230.39169417
+ },
+ {
+  "date_at": "2026-10-04",
+  "total_fees_near": 49361.12797871597,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29582309.086597815,
+  "fees_usd": 240660.16171500663,
+  "cumulative_fees_usd": 53192890.55340918
+ },
+ {
+  "date_at": "2026-10-05",
+  "total_fees_near": 41067.340729234005,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29623376.427327048,
+  "fees_usd": 207030.731451251,
+  "cumulative_fees_usd": 53399921.28486043
+ },
+ {
+  "date_at": "2026-10-06",
+  "total_fees_near": 43032.65601483469,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29666409.08334188,
+  "fees_usd": 225162.04426585563,
+  "cumulative_fees_usd": 53625083.32912629
+ },
+ {
+  "date_at": "2026-10-07",
+  "total_fees_near": 46203.25315030837,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29712612.33649219,
+  "fees_usd": 238870.81878709426,
+  "cumulative_fees_usd": 53863954.14791339
+ },
+ {
+  "date_at": "2026-10-08",
+  "total_fees_near": 79706.97785806879,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29792319.31435026,
+  "fees_usd": 401324.63351537636,
+  "cumulative_fees_usd": 54265278.78142876
+ },
+ {
+  "date_at": "2026-10-09",
+  "total_fees_near": 71459.46027487969,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29863778.774625137,
+  "fees_usd": 339551.5354061367,
+  "cumulative_fees_usd": 54604830.3168349
+ },
+ {
+  "date_at": "2026-10-10",
+  "total_fees_near": 41995.87926779776,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29905774.653892934,
+  "fees_usd": 219638.44857058235,
+  "cumulative_fees_usd": 54824468.765405476
+ },
+ {
+  "date_at": "2026-10-11",
+  "total_fees_near": 29893.557865532955,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29935668.21175847,
+  "fees_usd": 162359.38615717585,
+  "cumulative_fees_usd": 54986828.15156265
+ },
+ {
+  "date_at": "2026-10-12",
+  "total_fees_near": 35869.7988380292,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 29971538.0105965,
+  "fees_usd": 202529.85168922239,
+  "cumulative_fees_usd": 55189358.00325187
+ },
+ {
+  "date_at": "2026-10-13",
+  "total_fees_near": 39262.250092965594,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30010800.260689463,
+  "fees_usd": 200630.09797505414,
+  "cumulative_fees_usd": 55389988.101226926
+ },
+ {
+  "date_at": "2026-10-14",
+  "total_fees_near": 46155.42088669985,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30056955.681576163,
+  "fees_usd": 229757.83888891796,
+  "cumulative_fees_usd": 55619745.94011585
+ },
+ {
+  "date_at": "2026-10-15",
+  "total_fees_near": 34904.61527570761,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30091860.29685187,
+  "fees_usd": 170741.74305700304,
+  "cumulative_fees_usd": 55790487.68317285
+ },
+ {
+  "date_at": "2026-10-16",
+  "total_fees_near": 27698.910156092796,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30119559.207007963,
+  "fees_usd": 143411.10733317045,
+  "cumulative_fees_usd": 55933898.79050602
+ },
+ {
+  "date_at": "2026-10-17",
+  "total_fees_near": 42532.03777779106,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30162091.244785756,
+  "fees_usd": 213705.7681509927,
+  "cumulative_fees_usd": 56147604.55865701
+ },
+ {
+  "date_at": "2026-10-18",
+  "total_fees_near": 51724.54077727519,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30213815.78556303,
+  "fees_usd": 251984.72115329237,
+  "cumulative_fees_usd": 56399589.2798103
+ },
+ {
+  "date_at": "2026-10-19",
+  "total_fees_near": 30178.631250324263,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30243994.416813355,
+  "fees_usd": 150578.79550943035,
+  "cumulative_fees_usd": 56550168.07531973
+ },
+ {
+  "date_at": "2026-10-20",
+  "total_fees_near": 45056.089638847356,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30289050.506452203,
+  "fees_usd": 218617.41942037595,
+  "cumulative_fees_usd": 56768785.494740106
+ },
+ {
+  "date_at": "2026-10-21",
+  "total_fees_near": 41302.017364918815,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30330352.523817122,
+  "fees_usd": 214116.54168929995,
+  "cumulative_fees_usd": 56982902.036429405
+ },
+ {
+  "date_at": "2026-10-22",
+  "total_fees_near": 32055.029523774232,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30362407.553340897,
+  "fees_usd": 160422.06650418843,
+  "cumulative_fees_usd": 57143324.10293359
+ },
+ {
+  "date_at": "2026-10-23",
+  "total_fees_near": 30290.42071485339,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30392697.974055752,
+  "fees_usd": 147905.6001489029,
+  "cumulative_fees_usd": 57291229.703082494
+ },
+ {
+  "date_at": "2026-10-24",
+  "total_fees_near": 36471.19521377092,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30429169.169269525,
+  "fees_usd": 164804.21337222742,
+  "cumulative_fees_usd": 57456033.916454725
+ },
+ {
+  "date_at": "2026-10-25",
+  "total_fees_near": 28244.398552801693,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30457413.567822326,
+  "fees_usd": 127017.4139918286,
+  "cumulative_fees_usd": 57583051.330446556
+ },
+ {
+  "date_at": "2026-10-26",
+  "total_fees_near": 42171.9243673147,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30499585.492189642,
+  "fees_usd": 190283.23707235447,
+  "cumulative_fees_usd": 57773334.56751891
+ },
+ {
+  "date_at": "2026-10-27",
+  "total_fees_near": 34928.3237705588,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30534513.815960202,
+  "fees_usd": 157992.4511888277,
+  "cumulative_fees_usd": 57931327.01870774
+ },
+ {
+  "date_at": "2026-10-28",
+  "total_fees_near": 30896.780230015345,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30565410.596190218,
+  "fees_usd": 144455.3212337509,
+  "cumulative_fees_usd": 58075782.33994149
+ },
+ {
+  "date_at": "2026-10-29",
+  "total_fees_near": 44970.549435078945,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30610381.145625297,
+  "fees_usd": 199125.84535274334,
+  "cumulative_fees_usd": 58274908.18529423
+ },
+ {
+  "date_at": "2026-10-30",
+  "total_fees_near": 91244.86320682587,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30701626.008832123,
+  "fees_usd": 387600.57516399573,
+  "cumulative_fees_usd": 58662508.76045823
+ },
+ {
+  "date_at": "2026-10-31",
+  "total_fees_near": 28553.404108613926,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30730179.412940737,
+  "fees_usd": 125254.26602311968,
+  "cumulative_fees_usd": 58787763.02648135
+ },
+ {
+  "date_at": "2026-11-01",
+  "total_fees_near": 33939.32407801826,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30764118.737018757,
+  "fees_usd": 148102.72544545215,
+  "cumulative_fees_usd": 58935865.7519268
+ },
+ {
+  "date_at": "2026-11-02",
+  "total_fees_near": 39956.571599075345,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30804075.30861783,
+  "fees_usd": 163861.90012780795,
+  "cumulative_fees_usd": 59099727.65205461
+ },
+ {
+  "date_at": "2026-11-03",
+  "total_fees_near": 43041.26096444439,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30847116.569582276,
+  "fees_usd": 164919.76492876277,
+  "cumulative_fees_usd": 59264647.41698337
+ },
+ {
+  "date_at": "2026-11-04",
+  "total_fees_near": 64575.115254279546,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30911691.684836555,
+  "fees_usd": 257008.95871203265,
+  "cumulative_fees_usd": 59521656.37569541
+ },
+ {
+  "date_at": "2026-11-05",
+  "total_fees_near": 2361.705850416921,
+  "protocol_fee_near": 0,
+  "intents_revenue_near": 0,
+  "burn_revenue_near": 0,
+  "cumulative_fees_near": 30914053.390686974,
+  "fees_usd": 9416.260149485817,
+  "cumulative_fees_usd": 59531072.635844894
+ }
+]

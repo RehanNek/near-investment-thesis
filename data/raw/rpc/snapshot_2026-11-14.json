@@ -1,0 +1,70 @@
+{
+ "fetched_at": "2026-11-14T14:49:19Z",
+ "block_height": 224528777,
+ "block_timestamp_ns": 1794667743419093599,
+ "protocol_version": 88,
+ "max_inflation_rate": "1/40",
+ "max_inflation_rate_pct": 2.5,
+ "protocol_reward_rate": [
+  0,
+  1
+ ],
+ "epoch_length_blocks": 43200,
+ "num_blocks_per_year": 31536000,
+ "total_supply_near": 1311701819.4782286,
+ "validators": 355,
+ "total_stake_near": 589770742.8857261,
+ "staked_share_of_supply_pct": 44.96225698004493,
+ "revenue_wallets": {
+  "fefundsadmin.sputnik-dao.near": {
+   "balance_near": 2016572.5605151746,
+   "locked_near": 0.0
+  },
+  "buybacks.multisignature.near": {
+   "balance_near": 2282273.111386581,
+   "locked_near": 0.0
+  },
+  "1csfundsadmin.sputnik-dao.near": {
+   "balance_near": 270.87589141242086,
+   "locked_near": 0.0
+  }
+ },
+ "nearai_pool": {
+  "pool": "nearai.pool.near",
+  "owner": "jasnah-treasury.sputnik-dao.near",
+  "total_staked_near": 1458977.4925635408,
+  "delegators": 6,
+  "accounts": [
+   {
+    "account_id": "stake.dao",
+    "staked_near": 1437240.4007504613,
+    "unstaked_near": 21.475069513634278
+   },
+   {
+    "account_id": "jasnah-treasury.sputnik-dao.near",
+    "staked_near": 21682.090813079627,
+    "unstaked_near": 0.0
+   },
+   {
+    "account_id": "stake-dao.near",
+    "staked_near": 50.0,
+    "unstaked_near": 0.0
+   },
+   {
+    "account_id": "probe.ref-dev-team.near",
+    "staked_near": 1.0,
+    "unstaked_near": 0.0
+   },
+   {
+    "account_id": "apy-tracer.eco.linear-protocol.near",
+    "staked_near": 0.001,
+    "unstaked_near": 0.0
+   },
+   {
+    "account_id": "zavodil.near",
+    "staked_near": 0.0,
+    "unstaked_near": 1.0
+   }
+  ]
+ }
+}

@@ -1,0 +1,198 @@
+{
+ "explorer": {
+  "fetched_at": "2026-11-14T15:14:00Z",
+  "endpoint": "https://explorer.near-intents.org/api/v0/transactions",
+  "statuses": "SUCCESS",
+  "rows": 6662196,
+  "oldest": "2025-03-27T08:56:14Z",
+  "newest": "2026-11-05T18:42:05Z",
+  "complete": true
+ },
+ "revenue_tracker": {
+  "fetched_at": "2026-11-14T14:48:58Z",
+  "url": "https://revenue.near.org/",
+  "snapshot": "data/raw/revenue_tracker/2026-11-14",
+  "series": {
+   "monthly_revenue_chart": 16,
+   "headline_stats": 4,
+   "tvlChartSeries": 267,
+   "emissionsMonthly": 16,
+   "absoluteRevEmissions": 317,
+   "daily_revenue_and_volume": 552,
+   "revenueSeries": 16,
+   "intentVolumeSeries": 675,
+   "totalFeesSeries": 552,
+   "revenue_wallets": 3,
+   "faq": 6
+  }
+ },
+ "rpc": {
+  "fetched_at": "2026-11-14T14:49:32Z",
+  "url": "https://rpc.mainnet.near.org",
+  "block_height": 224528777,
+  "file": "snapshot_2026-11-14.json"
+ },
+ "defillama": {
+  "fetched_at": "2026-11-14T14:49:38Z",
+  "base": "https://api.llama.fi",
+  "endpoints": {
+   "near_intents_fees": "/summary/fees/near-intents?dataType=dailyFees",
+   "near_intents_revenue": "/summary/fees/near-intents?dataType=dailyRevenue",
+   "near_intents_volume": "/summary/dexs/near-intents",
+   "near_chain_fees": "/summary/fees/near?dataType=dailyFees",
+   "bridge_aggregators_overview": "/overview/bridge-aggregators",
+   "dexs_overview": "/overview/dexs"
+  },
+  "summary": {
+   "near_intents_fees": {
+    "points": 553,
+    "span": "2025-05-10..2026-11-13"
+   },
+   "near_intents_revenue": {
+    "points": 553,
+    "span": "2025-05-10..2026-11-13"
+   },
+   "near_intents_volume": {
+    "points": 704,
+    "span": "2024-12-10..2026-11-13"
+   },
+   "near_chain_fees": {
+    "points": 2222,
+    "span": "2020-10-14..2026-11-13"
+   },
+   "bridge_aggregators_overview": {
+    "points": 2054,
+    "span": "2021-04-01..2026-11-14"
+   },
+   "dexs_overview": {
+    "points": 4654,
+    "span": "2014-02-17..2026-11-14"
+   }
+  }
+ },
+ "nearblocks": {
+  "fetched_at": "2026-11-14T14:49:39Z",
+  "url": "https://api.nearblocks.io/v1/charts",
+  "rows": 2307,
+  "first": "2020-07-21",
+  "last": "2026-11-13"
+ },
+ "coingecko": {
+  "fetched_at": "2026-11-14T14:49:40Z",
+  "url": "https://api.coingecko.com/api/v3/coins/near/market_chart",
+  "days": 365,
+  "points": 366
+ },
+ "agent_market": {
+  "fetched_at": "2026-11-14T14:49:59Z",
+  "url": "https://market.near.ai/v1/platform/stats",
+  "rows": 3,
+  "agents_url": "https://market.near.ai/v1/agents",
+  "agents": 718
+ },
+ "bigquery": {
+  "fetched_at": "2026-11-14T14:56:47Z",
+  "dataset": "bigquery-public-data.crypto_near_mainnet_us",
+  "queries": [
+   "blocks_daily",
+   "circulating_supply",
+   "l1_activity",
+   "l1_app_split_daily",
+   "l1_drop_mar_apr_2026",
+   "nearai_pool_stake",
+   "nearai_staking_activity_daily",
+   "revenue_wallet_balances",
+   "supply_flows_daily"
+  ]
+ },
+ "oneclick_tokens": {
+  "fetched_at": "2026-11-14T14:49:59Z",
+  "url": "https://1click.chaindefuser.com/v0/tokens",
+  "tokens": 231,
+  "chains": 39
+ },
+ "nearai": {
+  "fetched_at": "2026-11-14T14:53:09Z",
+  "contract": "stake.dao",
+  "cloud": "https://cloud-api.near.ai",
+  "snapshot": "data/raw/nearai/2026-11-14",
+  "counts": {
+   "products": 3,
+   "validators": 1,
+   "locks": 87,
+   "subscriptions": 84,
+   "purchases": 7,
+   "accounts": 283,
+   "prices": 5,
+   "farm_pools": 1,
+   "farm_positions": 218,
+   "validator_revenue": 1
+  }
+ },
+ "openrouter": {
+  "fetched_at": "2026-11-14T14:53:15Z",
+  "url": "https://openrouter.ai/provider/near-ai",
+  "days": 64,
+  "first": "2026-09-12",
+  "last": "2026-11-14",
+  "models": [
+   "deepseek/deepseek-v4.1-flash-1017",
+   "z-ai/glm-5.3-flash",
+   "qwen/qwen3.8-27b",
+   "openai/gpt-oss-120b"
+  ]
+ },
+ "github_repos": {
+  "fetched_at": "2026-11-14T14:57:09Z",
+  "org": "nearai",
+  "repos": 85,
+  "top": "nearai/ironclaw"
+ },
+ "protocol_history": {
+  "fetched_at": "2026-11-14T14:57:07Z",
+  "url": "https://archival-rpc.mainnet.near.org",
+  "changes": 2,
+  "end": "2026-11-14"
+ },
+ "explorer_gaps": {
+  "fetched_at": "2026-11-06T18:12:16Z",
+  "endpoint": "https://explorer.near-intents.org/api/v0/transactions",
+  "gaps": 1,
+  "rows": 812486
+ },
+ "peers": {
+  "fetched_at": "2026-11-14T10:13:27Z",
+  "defillama": "https://api.llama.fi/summary/fees/",
+  "coingecko": "https://api.coingecko.com/api/v3",
+  "names": 23,
+  "data_types": [
+   "dailyFees",
+   "dailyRevenue",
+   "dailyHoldersRevenue"
+  ],
+  "keep_days": 800
+ },
+ "staking_history": {
+  "fetched_at": "2026-11-14T12:07:09Z",
+  "url": "https://archival-rpc.mainnet.near.org",
+  "headers_url": "https://mainnet.neardata.xyz",
+  "method": "block header at the last block of each month (NEAR Data API), then validators by epoch_id (archival RPC)",
+  "points": 22,
+  "months_wanted": 22,
+  "start": "2025-01-31",
+  "end": "2026-10-31",
+  "file": "staking_history.csv"
+ },
+ "staking_validators": {
+  "fetched_at": "2026-11-14T12:17:57Z",
+  "url": "https://archival-rpc.mainnet.near.org",
+  "method": "validators by epoch_id (archival RPC) for the lowest month end in staking_history.csv and the month ends either side",
+  "months": [
+   "2026-08",
+   "2026-09",
+   "2026-10"
+  ],
+  "rows": 1235,
+  "file": "staking_validators.csv"
+ }
+}

@@ -1,0 +1,99 @@
+/* Layout for site/index.html. Color tokens (light and dark) are written into the page by
+   viz/build.py from viz/svg.py, so charts and page share one palette. */
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body {
+  margin: 0;
+  background: var(--page);
+  color: var(--text-1);
+  font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif;
+}
+main { max-width: 920px; margin: 0 auto; padding: 40px 16px 72px; }
+a { color: var(--link, var(--text-1)); text-underline-offset: 2px; }
+code { font: 12.5px/1.4 ui-monospace, SFMono-Regular, Menlo, monospace; }
+
+.kicker { margin: 0 0 6px; font-size: 13px; color: var(--text-2); letter-spacing: .02em; }
+h1 { font-size: 30px; line-height: 1.22; margin: 0 0 12px; font-weight: 650; max-width: 32ch; }
+h2 { font-size: 22px; margin: 0 0 12px; font-weight: 650; }
+h3 { font-size: 18px; margin: 28px 0 8px; font-weight: 600; line-height: 1.35; }
+h4 { font-size: 15px; margin: 0; font-weight: 600; }
+.asof { color: var(--text-2); font-size: 14px; margin: 0; }
+
+.hero { padding-bottom: 8px; }
+.thesis { font-size: 17px; line-height: 1.45; margin: 0 0 10px; max-width: 62ch; }
+.lede { color: var(--text-2); margin: -4px 0 12px; }
+
+.toc { display: flex; flex-wrap: wrap; gap: 8px 18px; margin: 28px 0 0; padding: 12px 0;
+       border-top: 1px solid var(--grid); border-bottom: 1px solid var(--grid); font-size: 14px; }
+.toc a { color: var(--text-2); text-decoration: none; }
+.toc a:hover { color: var(--text-1); }
+
+.part { margin-top: 48px; }
+.change { margin: 0 0 12px; padding: 10px 14px; border-left: 3px solid var(--axis); background: var(--surface);
+          border-radius: 0 8px 8px 0; font-size: 14px; }
+.change a { color: var(--text-2); white-space: nowrap; }
+
+.rebuild { margin-top: 28px; padding: 16px 20px 10px; background: var(--surface); border: 1px solid var(--border);
+           border-radius: 12px; }
+.rebuild h2 { font-size: 18px; margin-bottom: 8px; }
+.rebuild pre { font-size: 15px; margin: 0 0 10px; }
+.rebuild pre code { font-size: 15px; }
+.rebuild p { margin: 6px 0; font-size: 14px; color: var(--text-2); }
+
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+        padding: 18px 20px 14px; margin: 14px 0; }
+.card-head { display: flex; align-items: baseline; gap: 10px; flex-wrap: wrap; margin-bottom: 4px; }
+.card-head h3 { margin: 0; font-size: 16px; }
+.badge { font-size: 12px; padding: 1px 8px; border-radius: 999px; border: 1px solid var(--axis); color: var(--text-2); }
+.badge a { color: inherit; }
+.chart-wrap { margin: 0 -4px; }
+svg.chart { display: block; width: 100%; height: auto; }
+svg.chart:focus { outline: none; }
+svg.chart:focus-visible { outline: 2px solid var(--text-2); outline-offset: 4px; border-radius: 6px; }
+
+.sentence { margin: 4px 0 10px; }
+.q-label { margin: 12px 0 2px; color: var(--text-1); font-weight: 600; }
+.note { margin: 6px 0; font-size: 13px; color: var(--text-2); }
+.meta { margin: 8px 0 4px; font-size: 12.5px; color: var(--text-2); display: flex; flex-direction: column; gap: 2px; }
+.meta a { color: var(--text-2); }
+
+details { margin: 6px 0 0; font-size: 13px; }
+summary { cursor: pointer; color: var(--text-2); padding: 3px 0; }
+summary:hover { color: var(--text-1); }
+pre { overflow: auto; background: var(--page); border: 1px solid var(--grid); padding: 12px; border-radius: 8px;
+      max-height: 360px; margin: 6px 0 4px; }
+.table-wrap { overflow-x: auto; margin: 6px 0 4px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; }
+th, td { text-align: right; padding: 5px 10px; border-bottom: 1px solid var(--grid); white-space: nowrap;
+         font-variant-numeric: tabular-nums; }
+th:first-child, td:first-child { text-align: left; }
+th { color: var(--text-2); font-weight: 600; }
+
+.tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 10px; margin: 12px 0 4px; }
+.tile { border: 1px solid var(--grid); border-radius: 10px; padding: 10px 12px; }
+.tile-label { font-size: 13px; color: var(--text-2); }
+.tile-value { font-size: 22px; font-weight: 600; line-height: 1.3; }
+.tile-sub { font-size: 12px; color: var(--muted); }
+
+.sources li { margin: 6px 0; }
+.sources { font-size: 14px; }
+
+.tooltip { position: fixed; z-index: 20; pointer-events: none; min-width: 150px; max-width: 280px;
+           background: var(--surface); color: var(--text-1); border: 1px solid var(--border); border-radius: 8px;
+           box-shadow: 0 4px 16px rgba(0, 0, 0, .12); padding: 8px 10px; font-size: 12.5px; }
+.tooltip .t { color: var(--text-2); margin-bottom: 4px; }
+.tooltip .row { display: flex; align-items: center; gap: 8px; line-height: 1.6; }
+.tooltip .key { flex: none; width: 12px; height: 0; border-top: 2px solid var(--text-2); }
+.tooltip .key.dashed { border-top-style: dashed; }
+.tooltip .key.none { border-color: transparent; }
+.tooltip .v { font-weight: 600; font-variant-numeric: tabular-nums; }
+.tooltip .l { color: var(--text-2); }
+
+@media (max-width: 640px) {
+  main { padding-top: 24px; }
+  h1 { font-size: 24px; }
+  .card { padding: 14px 14px 10px; }
+  .chart-wrap { overflow-x: auto; margin: 0; }
+  .chart-wrap svg.chart { min-width: 600px; }
+}
+@media print { .tooltip, details { display: none; } .card { break-inside: avoid; } }

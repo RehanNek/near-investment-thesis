@@ -1,0 +1,25 @@
+# Facts that no API we pull exposes, each with its source and the date we checked it.
+# THESIS.md quotes these through viz/thesis.py; nothing else in the text is typed by hand.
+
+near_ai_customers:
+  value: [Brave, Venice, Government of Bermuda, Abound]
+  what: Teams named on NEAR AI's homepage as using its private inference.
+  source: https://near.ai/
+  checked: "2026-11-06"
+
+brave_leo:
+  date: "2026-10-15"
+  model: GLM 5.3 Flash
+  brave_monthly_users: 128M          # the post says "over 128 million"
+  what: >-
+    Brave's AI assistant Leo runs GLM 5.3 Flash on NEAR AI Cloud (TEEs, end-to-end encrypted) in
+    the production browser. Only Leo users who pick that model use NEAR AI Cloud.
+  source: https://near.ai/blog/near-ai-cloud-brings-private-inference-to-brave-leo
+  checked: "2026-11-06"
+
+hsp_027:
+  what: >-
+    House of Stake proposal that removes the 30% gas rebate paid to called contracts, so all gas
+    is burned. The on-chain switch date comes from data/raw/rpc/protocol_changes.json.
+  source: https://cryptobriefing.com/near-protocol-governance-eliminates-developer-gas-rebate/
+  checked: "2026-11-06"

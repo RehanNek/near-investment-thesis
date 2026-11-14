@@ -1,0 +1,7 @@
+policy,policy_label,scenario,start_growth_per_year,half_life_years,trend_window,start_month,start_capture_ratio_pct,ratio_after_1y_pct,ratio_after_3y_pct,supply_after_6y_bn,breakeven_month,revenue_vs_start_at_breakeven
+hsp_029,With HSP-029 (2.5% → 1.6%),bear,0,,,2026-10,19.479,22.0447,29.2494,1.45822,not within 6 years,
+hsp_029,With HSP-029 (2.5% → 1.6%),base,1.16447,2,2026Q1 -> 2026Q3,2026-10,19.479,40.6517,138.031,1.45822,2028-12,3.66924
+hsp_029,With HSP-029 (2.5% → 1.6%),bull,1.16447,,2026Q1 -> 2026Q3,2026-10,19.479,43.4164,263.588,1.45822,2028-08,4.11919
+no_cut,If HSP-029 isn't implemented (stays 2.5%),bear,0,,,2026-10,19.479,19.3824,18.4483,1.52127,not within 6 years,
+no_cut,If HSP-029 isn't implemented (stays 2.5%),base,1.16447,2,2026Q1 -> 2026Q3,2026-10,19.479,35.7423,87.0593,1.52127,2030-03,5.84523
+no_cut,If HSP-029 isn't implemented (stays 2.5%),bull,1.16447,,2026Q1 -> 2026Q3,2026-10,19.479,38.1731,166.251,1.52127,2029-01,5.68253

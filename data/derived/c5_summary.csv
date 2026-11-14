@@ -1,0 +1,22 @@
+metric,value,note
+"OpenRouter tokens, first complete week (B)",14.429,week ending 2026-09-20
+"OpenRouter tokens, last complete week (B)",225.243,week ending 2026-11-08
+"OpenRouter tokens, peak complete week (B)",320.709,week ending 2026-10-25
+OpenRouter models served by NEAR AI,4,openrouter.ai/provider/near-ai
+NEAR AI Cloud models in catalog,64,cloud-api.near.ai/v1/model/list
+  of which TEE-verifiable (private inference),17,cloud-api.near.ai/v1/model/list
+IronClaw GitHub stars,12715,github.com/nearai/ironclaw (snapshot)
+stake.dao total staked with validators (NEAR),1.43726e+06,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: NEAR staked (active),1.375e+06,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: active stakers,137,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: positions ever opened,218,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: median active stake (NEAR),113,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: largest staker share (%),72.7275,stake.dao via NEAR RPC
+NEAR AI Cloud Credits farm: top-10 stakers share (%),94.6371,stake.dao via NEAR RPC
+"NEAR AI Cloud credits funded per month (USD, at 100 NEAR-month = $1)",13750,stake.dao via NEAR RPC
+NEAR AI Agents subscriptions: accounts ever subscribed,84,stake.dao via NEAR RPC
+NEAR AI Agents subscriptions: active locks,38,stake.dao via NEAR RPC
+NEAR AI Agents subscriptions: NEAR in active locks,12254,stake.dao via NEAR RPC
+One-off credit purchases paid in NEAR: count,7,stake.dao via NEAR RPC
+One-off credit purchases paid in NEAR: total NEAR,10,stake.dao via NEAR RPC
+stake.dao registered accounts,283,stake.dao via NEAR RPC

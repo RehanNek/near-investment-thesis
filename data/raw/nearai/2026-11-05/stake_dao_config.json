@@ -1,0 +1,19 @@
+{
+ "owner_account_id": "stake.dao",
+ "proposed_new_owner_account_id": null,
+ "guardians": [
+  "as.near",
+  "c65255255d689f74ae46b0a89f04bbaab94d3a51ab9dc4b79b1e9b61e7cf6816",
+  "e953bb69d1129e4da87b99739373884a0b57d5e64a65fdc868478f22e6c31eac",
+  "fastnear-hos.near",
+  "root.near"
+ ],
+ "min_lock_duration_ns": "1",
+ "max_lock_duration_ns": "63072000000000000",
+ "epoch_unstake_settle_epochs": 4,
+ "min_storage_deposit": "10000000000000000000000",
+ "per_lock_storage_stake": "10000000000000000000000",
+ "per_farm_position_storage_stake": "5000000000000000000000",
+ "per_purchase_storage_stake": "5000000000000000000000",
+ "min_lock_amount": "1000000000000000000000000"
+}

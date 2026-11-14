@@ -1,0 +1,10 @@
+# Pinned, so a rebuild gives the same files on every machine.
+# Python 3.11 to 3.13 install the versions the committed files were built with. Python 3.14 gets a newer pandas and
+# pyarrow, because the older ones are not published for it.
+requests==2.32.3
+PyYAML==6.0.2
+numpy==2.4.6
+pandas==2.2.3; python_version < "3.14"
+pandas==2.3.3; python_version >= "3.14"
+pyarrow==18.1.0; python_version < "3.14"
+pyarrow==22.0.0; python_version >= "3.14"

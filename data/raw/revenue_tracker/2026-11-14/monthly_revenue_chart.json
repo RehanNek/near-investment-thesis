@@ -1,0 +1,82 @@
+[
+ {
+  "date": "Aug '25",
+  "value": 27596,
+  "cumulative": 27596
+ },
+ {
+  "date": "Sep '25",
+  "value": 28639,
+  "cumulative": 56235
+ },
+ {
+  "date": "Oct '25",
+  "value": 295781,
+  "cumulative": 352016
+ },
+ {
+  "date": "Nov '25",
+  "value": 657428,
+  "cumulative": 1009444
+ },
+ {
+  "date": "Dec '25",
+  "value": 281334,
+  "cumulative": 1290778
+ },
+ {
+  "date": "Jan '26",
+  "value": 526392,
+  "cumulative": 1817170
+ },
+ {
+  "date": "Feb '26",
+  "value": 429570,
+  "cumulative": 2246740
+ },
+ {
+  "date": "Mar '26",
+  "value": 395381,
+  "cumulative": 2642121
+ },
+ {
+  "date": "Apr '26",
+  "value": 401247,
+  "cumulative": 3043367
+ },
+ {
+  "date": "May '26",
+  "value": 823527,
+  "cumulative": 3866894
+ },
+ {
+  "date": "Jun '26",
+  "value": 943198,
+  "cumulative": 4810092
+ },
+ {
+  "date": "Jul '26",
+  "value": 654117,
+  "cumulative": 5464209
+ },
+ {
+  "date": "Aug '26",
+  "value": 871119,
+  "cumulative": 6335329
+ },
+ {
+  "date": "Sep '26",
+  "value": 2196455,
+  "cumulative": 8531784
+ },
+ {
+  "date": "Oct '26",
+  "value": 2502470,
+  "cumulative": 11034253
+ },
+ {
+  "date": "Nov '26",
+  "value": 825044,
+  "cumulative": 11859298
+ }
+]

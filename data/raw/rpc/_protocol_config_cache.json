@@ -1,0 +1,409 @@
+{
+ "136295586": {
+  "protocol_version": 73,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "138672776": {
+  "protocol_version": 73,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "140825640": {
+  "protocol_version": 73,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "143171155": {
+  "protocol_version": 76,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "141941664": {
+  "protocol_version": 74,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "141342788": {
+  "protocol_version": 73,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "141633709": {
+  "protocol_version": 73,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "141785344": {
+  "protocol_version": 74,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "141711289": {
+  "protocol_version": 74,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "145465469": {
+  "protocol_version": 76,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "149163658": {
+  "protocol_version": 77,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "153357743": {
+  "protocol_version": 77,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "157682743": {
+  "protocol_version": 77,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "162069852": {
+  "protocol_version": 79,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "166337307": {
+  "protocol_version": 80,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "170699198": {
+  "protocol_version": 81,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "168458941": {
+  "protocol_version": 80,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "169579742": {
+  "protocol_version": 80,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "170149211": {
+  "protocol_version": 80,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "170424736": {
+  "protocol_version": 81,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "179199137": {
+  "protocol_version": 82,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "172805018": {
+  "protocol_version": 81,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "171123156": {
+  "protocol_version": 81,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "170291268": {
+  "protocol_version": 80,
+  "max_inflation_rate": [
+   1,
+   20
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "192013996": {
+  "protocol_version": 82,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "205022620": {
+  "protocol_version": 84,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "217984975": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "223088017": {
+  "protocol_version": 87,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   0,
+   1
+  ]
+ },
+ "220436711": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "221760245": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "222343160": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "222641211": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "222791209": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "222942365": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "224435952": {
+  "protocol_version": 88,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   0,
+   1
+  ]
+ },
+ "221162122": {
+  "protocol_version": 86,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   3,
+   10
+  ]
+ },
+ "223537268": {
+  "protocol_version": 88,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   0,
+   1
+  ]
+ }
+}

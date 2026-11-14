@@ -1,0 +1,57 @@
+{
+ "statuses": "SUCCESS",
+ "backfill": {
+  "pages": 6663,
+  "rows": 6662196,
+  "newest": 1793904125,
+  "oldest": 1743065774,
+  "cursor": {
+   "address": "0xb40B5134EF6B46b3c2A49C3BAD4d6e20618C6384",
+   "memo": null
+  },
+  "done": true,
+  "finished_at": "2026-11-06T16:41:08Z"
+ },
+ "fill_1779412815_1775666657": {
+  "gap": {
+   "after_page": "b003456.jsonl.gz",
+   "newer": 1779412815,
+   "older": 1775666657,
+   "newer_iso": "2026-05-22T01:20:15Z",
+   "older_iso": "2026-04-08T16:44:17Z"
+  },
+  "end": 1775666658,
+  "pages": 813,
+  "rows": 812486,
+  "done": true,
+  "finished_at": "2026-11-06T18:12:16Z"
+ },
+ "gaps": [
+  {
+   "after_page": "b003456.jsonl.gz",
+   "newer": 1779412815,
+   "older": 1775666657,
+   "newer_iso": "2026-05-22T01:20:15Z",
+   "older_iso": "2026-04-08T16:44:17Z"
+  }
+ ],
+ "updates": [
+  {
+   "key": "update_2026-11-14T14:55:40Z",
+   "newest": 1794668083
+  }
+ ],
+ "update_2026-11-14T14:55:40Z": {
+  "since": "2026-11-05T18:42:05Z",
+  "pages": 183,
+  "rows": 182641,
+  "newest": 1794668083,
+  "oldest": 1793904125,
+  "cursor": {
+   "address": "48fa0fed1a1237b61aa84b7c9681998691a2081d9cd92c7e050809e1401573c0",
+   "memo": null
+  },
+  "done": true,
+  "finished_at": "2026-11-14T15:14:00Z"
+ }
+}

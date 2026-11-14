@@ -1,0 +1,18 @@
+{
+ "services": [
+  {
+   "id": "993df37c-752a-4871-a816-7f27d8974f06",
+   "serviceName": "web_search",
+   "displayName": "Web Search",
+   "description": "Web search proxied to Brave Search API",
+   "unit": "request",
+   "costPerUnit": 5000000,
+   "isActive": true,
+   "createdAt": "2026-04-06T15:05:25.487152Z",
+   "updatedAt": "2026-04-15T08:04:16.467962Z"
+  }
+ ],
+ "limit": 100,
+ "offset": 0,
+ "total": 1
+}

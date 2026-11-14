@@ -1,0 +1,19 @@
+[
+ {
+  "validator_id": "nearai.pool.near",
+  "catalog_manager_account_ids": [
+   "ironbuild.near"
+  ],
+  "status": "Active",
+  "total_shares": "1387902250000000000000000000000",
+  "total_staked_balance": "1389956200000000000000000000000",
+  "last_balance_refresh_ns": "1793894471693425007",
+  "pending_to_stake": "251000000000000000000000000",
+  "pending_to_unstake": "14980000000000000000000000",
+  "last_unstake_epoch": 4938,
+  "last_settlement_epoch": 4939,
+  "pending_to_withdraw": "2289970000000000000000000000",
+  "pending_to_claim": "3419730000000000000000000000",
+  "tx_status": "Idle"
+ }
+]

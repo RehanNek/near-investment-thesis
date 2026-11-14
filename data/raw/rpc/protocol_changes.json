@@ -1,0 +1,47 @@
+{
+ "source": "https://archival-rpc.mainnet.near.org",
+ "method": "EXPERIMENTAL_protocol_config at the first block of each day, bisected",
+ "start": "2025-01-01",
+ "end": "2026-11-14",
+ "latest": {
+  "protocol_version": 88,
+  "max_inflation_rate": [
+   1,
+   40
+  ],
+  "burnt_gas_reward": [
+   0,
+   1
+  ]
+ },
+ "changes": [
+  {
+   "parameter": "max_inflation_rate",
+   "from": [
+    1,
+    20
+   ],
+   "to": [
+    1,
+    40
+   ],
+   "last_day_before": "2025-10-29",
+   "first_day_after": "2025-10-30",
+   "height_checked_after": 170424736
+  },
+  {
+   "parameter": "burnt_gas_reward",
+   "from": [
+    3,
+    10
+   ],
+   "to": [
+    0,
+    1
+   ],
+   "last_day_before": "2026-11-04",
+   "first_day_after": "2026-11-05",
+   "height_checked_after": 223088017
+  }
+ ]
+}

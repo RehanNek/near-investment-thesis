@@ -1,0 +1,2855 @@
+[
+ {
+  "date": "2026-01-01",
+  "emissionsNear": 87596.3659226573,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.006678460394386851,
+  "netPct": 0,
+  "offsetPct": 0.006678460394386851
+ },
+ {
+  "date": "2026-01-02",
+  "emissionsNear": 175200.10447848385,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.013357482887875693,
+  "netPct": 0,
+  "offsetPct": 0.013357482887875693
+ },
+ {
+  "date": "2026-01-03",
+  "emissionsNear": 262811.1928276922,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.020037065739131558,
+  "netPct": 0,
+  "offsetPct": 0.020037065739131558
+ },
+ {
+  "date": "2026-01-04",
+  "emissionsNear": 350429.6502028969,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.026717210414473884,
+  "netPct": 0.0018522624756314495,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-05",
+  "emissionsNear": 438057.2889831004,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.03339805509202524,
+  "netPct": 0.008533107153182807,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-06",
+  "emissionsNear": 525692.2764768567,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.04007946004501606,
+  "netPct": 0.015214512106173623,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-07",
+  "emissionsNear": 613334.6211611873,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.04676142591974543,
+  "netPct": 0.021896477980902995,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-08",
+  "emissionsNear": 700984.3081226305,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.05344395157919171,
+  "netPct": 0.02857900364034928,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-09",
+  "emissionsNear": 788643.1570258723,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.06012717575694745,
+  "netPct": 0.03526222781810501,
+  "offsetPct": 0.02486494793884244
+ },
+ {
+  "date": "2026-01-10",
+  "emissionsNear": 876309.3581438699,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.06681096047707888,
+  "netPct": 0.04194601253823645,
+  "offsetPct": 0.024864947938842426
+ },
+ {
+  "date": "2026-01-11",
+  "emissionsNear": 963982.8671307083,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.07349530235859603,
+  "netPct": 0.0486303544197536,
+  "offsetPct": 0.024864947938842426
+ },
+ {
+  "date": "2026-01-12",
+  "emissionsNear": 1051665.4723437142,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.0801803377481778,
+  "netPct": 0.05531538980933537,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-13",
+  "emissionsNear": 1139355.4002838277,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.08686593143195878,
+  "netPct": 0.06200098349311634,
+  "offsetPct": 0.02486494793884244
+ },
+ {
+  "date": "2026-01-14",
+  "emissionsNear": 1227052.5919894231,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.09355207891462826,
+  "netPct": 0.06868713097578583,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-15",
+  "emissionsNear": 1314758.8873805096,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.10023892047407086,
+  "netPct": 0.07537397253522841,
+  "offsetPct": 0.024864947938842447
+ },
+ {
+  "date": "2026-01-16",
+  "emissionsNear": 1402472.4536928614,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.10692631637796812,
+  "netPct": 0.0820613684391257,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-17",
+  "emissionsNear": 1490193.2862289643,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.11361426626817556,
+  "netPct": 0.08874931832933312,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-18",
+  "emissionsNear": 1577921.39107718,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.12030277060887766,
+  "netPct": 0.09543782267003524,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-19",
+  "emissionsNear": 1665658.593481371,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.12699196855903067,
+  "netPct": 0.10212702062018825,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-20",
+  "emissionsNear": 1753403.0708898546,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.13368172116493368,
+  "netPct": 0.10881677322609126,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-21",
+  "emissionsNear": 1841155.1450662534,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.14037205295826202,
+  "netPct": 0.11550710501941959,
+  "offsetPct": 0.024864947938842433
+ },
+ {
+  "date": "2026-01-22",
+  "emissionsNear": 1928914.477158287,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.14706293810447896,
+  "netPct": 0.1221979901656365,
+  "offsetPct": 0.02486494793884246
+ },
+ {
+  "date": "2026-01-23",
+  "emissionsNear": 2016681.128063704,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.15375438124650764,
+  "netPct": 0.12888943330766522,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-24",
+  "emissionsNear": 2104456.866268752,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.1604465172160303,
+  "netPct": 0.13558156927718787,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-25",
+  "emissionsNear": 2192239.7658315855,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.16713919917674602,
+  "netPct": 0.1422742512379036,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-26",
+  "emissionsNear": 2280029.810598518,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.17383242589707684,
+  "netPct": 0.1489674779582344,
+  "offsetPct": 0.024864947938842447
+ },
+ {
+  "date": "2026-01-27",
+  "emissionsNear": 2367828.828916136,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.18052633677253468,
+  "netPct": 0.15566138883369227,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-28",
+  "emissionsNear": 2455634.951885347,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.18722078931583197,
+  "netPct": 0.16235584137698955,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-29",
+  "emissionsNear": 2543448.190534739,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.19391578436780268,
+  "netPct": 0.16905083642896024,
+  "offsetPct": 0.024864947938842447
+ },
+ {
+  "date": "2026-01-30",
+  "emissionsNear": 2631270.3880684343,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.20061146245671638,
+  "netPct": 0.17574651451787396,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-01-31",
+  "emissionsNear": 2719099.6389798177,
+  "revenueNear": 326134.9097958729,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.20730767830428068,
+  "netPct": 0.18244273036543826,
+  "offsetPct": 0.02486494793884242
+ },
+ {
+  "date": "2026-02-01",
+  "emissionsNear": 2806935.948975101,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2140044323455446,
+  "netPct": 0.15824765605022048,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-02",
+  "emissionsNear": 2894779.3608666845,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2207017278445809,
+  "netPct": 0.1649449515492568,
+  "offsetPct": 0.05575677629532408
+ },
+ {
+  "date": "2026-02-03",
+  "emissionsNear": 2982631.6332627824,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.22739969887995767,
+  "netPct": 0.1716429225846336,
+  "offsetPct": 0.05575677629532408
+ },
+ {
+  "date": "2026-02-04",
+  "emissionsNear": 3070490.8138207314,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.23409819660254158,
+  "netPct": 0.17834142030721747,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-05",
+  "emissionsNear": 3158356.849836066,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.24079721699407586,
+  "netPct": 0.18504044069875175,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-06",
+  "emissionsNear": 3246231.553355545,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.24749689820735243,
+  "netPct": 0.19174012191202833,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-07",
+  "emissionsNear": 3334113.0243484196,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.25419709538156604,
+  "netPct": 0.19844031908624193,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-08",
+  "emissionsNear": 3422001.2144845063,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2608978048319609,
+  "netPct": 0.20514102853663682,
+  "offsetPct": 0.05575677629532408
+ },
+ {
+  "date": "2026-02-09",
+  "emissionsNear": 3509897.8855267777,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2675991608776279,
+  "netPct": 0.21184238458230378,
+  "offsetPct": 0.055756776295324134
+ },
+ {
+  "date": "2026-02-10",
+  "emissionsNear": 3597772.526568301,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.27429883732750426,
+  "netPct": 0.21854206103218013,
+  "offsetPct": 0.055756776295324134
+ },
+ {
+  "date": "2026-02-11",
+  "emissionsNear": 3685653.903137703,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.28099902730275,
+  "netPct": 0.22524225100742584,
+  "offsetPct": 0.05575677629532416
+ },
+ {
+  "date": "2026-02-12",
+  "emissionsNear": 3773543.9322577757,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2876998769596658,
+  "netPct": 0.2319431006643417,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-13",
+  "emissionsNear": 3861440.781921337,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.2944012466236513,
+  "netPct": 0.2386444703283272,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-14",
+  "emissionsNear": 3949344.431239601,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3011031347021184,
+  "netPct": 0.24534635840679433,
+  "offsetPct": 0.05575677629532408
+ },
+ {
+  "date": "2026-02-15",
+  "emissionsNear": 4037254.8466060436,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.30780553863286214,
+  "netPct": 0.252048762337538,
+  "offsetPct": 0.05575677629532416
+ },
+ {
+  "date": "2026-02-16",
+  "emissionsNear": 4125173.868875676,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3145085987650529,
+  "netPct": 0.2587518224697288,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-17",
+  "emissionsNear": 4213099.609434239,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3212121711082933,
+  "netPct": 0.2654553948129692,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-18",
+  "emissionsNear": 4301032.118856305,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.32791625951845443,
+  "netPct": 0.2721594832231303,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-19",
+  "emissionsNear": 4388973.196032204,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.33462100114526483,
+  "netPct": 0.2788642248499407,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-20",
+  "emissionsNear": 4476921.018631915,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.34132625705192343,
+  "netPct": 0.2855694807565994,
+  "offsetPct": 0.05575677629532405
+ },
+ {
+  "date": "2026-02-21",
+  "emissionsNear": 4564875.583663566,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.34803202701032615,
+  "netPct": 0.2922752507150021,
+  "offsetPct": 0.05575677629532405
+ },
+ {
+  "date": "2026-02-22",
+  "emissionsNear": 4652836.871393569,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3547383095159586,
+  "netPct": 0.2989815332206345,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-23",
+  "emissionsNear": 4740806.711914612,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3614452440974576,
+  "netPct": 0.30568846780213355,
+  "offsetPct": 0.05575677629532405
+ },
+ {
+  "date": "2026-02-24",
+  "emissionsNear": 4828783.301066089,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3681526932032819,
+  "netPct": 0.3123959169079578,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-25",
+  "emissionsNear": 4916766.606573022,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.37486065437274524,
+  "netPct": 0.31910387807742113,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-26",
+  "emissionsNear": 5004758.583507196,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3815692766630529,
+  "netPct": 0.3258125003677288,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-27",
+  "emissionsNear": 5092757.282383902,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.38827841144296554,
+  "netPct": 0.33252163514764144,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-02-28",
+  "emissionsNear": 5180762.677123159,
+  "revenueNear": 731319.8986907166,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.3949880567241117,
+  "netPct": 0.3392312804287876,
+  "offsetPct": 0.055756776295324106
+ },
+ {
+  "date": "2026-03-01",
+  "emissionsNear": 5268774.770068692,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.40169821268517997,
+  "netPct": 0.3224928321694726,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-02",
+  "emissionsNear": 5356795.424899525,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.408409021415473,
+  "netPct": 0.3292036408997656,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-03",
+  "emissionsNear": 5444822.766336935,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4151203399413121,
+  "netPct": 0.33591495942560473,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-04",
+  "emissionsNear": 5532856.6852871785,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.421832159945249,
+  "netPct": 0.3426267794295416,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-05",
+  "emissionsNear": 5620899.068106601,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.42854462524553455,
+  "netPct": 0.34933924472982725,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-06",
+  "emissionsNear": 5708948.107204998,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.43525759802915054,
+  "netPct": 0.3560522175134432,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-07",
+  "emissionsNear": 5797003.697259568,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.44197107026615007,
+  "netPct": 0.36276568975044265,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-08",
+  "emissionsNear": 5885065.834630394,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4486850416790211,
+  "netPct": 0.3694796611633138,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-09",
+  "emissionsNear": 5973136.309633771,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4553996487637969,
+  "netPct": 0.3761942682480896,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-10",
+  "emissionsNear": 6061213.300003152,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4621147525885158,
+  "netPct": 0.38290937207280845,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-11",
+  "emissionsNear": 6149296.792096561,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.46883035211309554,
+  "netPct": 0.38962497159738824,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-12",
+  "emissionsNear": 6237388.586263672,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4755465845985275,
+  "netPct": 0.39634120408282014,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-13",
+  "emissionsNear": 6325486.998347647,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4822633216425127,
+  "netPct": 0.40305794112680526,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-14",
+  "emissionsNear": 6413591.927073909,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4889805555237464,
+  "netPct": 0.40977517500803906,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-15",
+  "emissionsNear": 6501705.078078711,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.4956984162821456,
+  "netPct": 0.4164930357664383,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-16",
+  "emissionsNear": 6589824.318677869,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5024167413191059,
+  "netPct": 0.4232113608033985,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-17",
+  "emissionsNear": 6677949.652618398,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5091355309203045,
+  "netPct": 0.4299301504045972,
+  "offsetPct": 0.0792053805157073
+ },
+ {
+  "date": "2026-03-18",
+  "emissionsNear": 6766082.916300073,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5158549250952388,
+  "netPct": 0.43664954457953153,
+  "offsetPct": 0.07920538051570725
+ },
+ {
+  "date": "2026-03-19",
+  "emissionsNear": 6854222.238494701,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5225747811790478,
+  "netPct": 0.4433694006633404,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-20",
+  "emissionsNear": 6942367.647551728,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.52929510133313,
+  "netPct": 0.45008972081742255,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-21",
+  "emissionsNear": 7030520.966955155,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5360160245822672,
+  "netPct": 0.45681064406655975,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-22",
+  "emissionsNear": 7118680.36315075,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.54273741113391,
+  "netPct": 0.4635320306182027,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-23",
+  "emissionsNear": 7206845.793946647,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5494592577712961,
+  "netPct": 0.47025387725558876,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-24",
+  "emissionsNear": 7295019.0575800715,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5561817015943605,
+  "netPct": 0.4769763210786531,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-25",
+  "emissionsNear": 7383198.176958998,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5629045918670464,
+  "netPct": 0.48369921135133903,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-26",
+  "emissionsNear": 7471383.138913472,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5696279275852595,
+  "netPct": 0.49042254706955213,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-27",
+  "emissionsNear": 7559575.862592397,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.576351855067398,
+  "netPct": 0.49714647455169053,
+  "offsetPct": 0.07920538051570741
+ },
+ {
+  "date": "2026-03-28",
+  "emissionsNear": 7647774.443086178,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5830762290806867,
+  "netPct": 0.5038708485649794,
+  "offsetPct": 0.07920538051570725
+ },
+ {
+  "date": "2026-03-29",
+  "emissionsNear": 7735978.877060401,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.589801049370906,
+  "netPct": 0.5105956688551986,
+  "offsetPct": 0.07920538051570747
+ },
+ {
+  "date": "2026-03-30",
+  "emissionsNear": 7824190.998771656,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.5965264557841539,
+  "netPct": 0.5173210752684465,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-03-31",
+  "emissionsNear": 7912408.964254912,
+  "revenueNear": 1038877.6881163493,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6032523077341481,
+  "netPct": 0.5240469272184407,
+  "offsetPct": 0.07920538051570736
+ },
+ {
+  "date": "2026-04-01",
+  "emissionsNear": 8000632.824953536,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6099786091429976,
+  "netPct": 0.5078784991261074,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-02",
+  "emissionsNear": 8088864.487625978,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6167055053844361,
+  "netPct": 0.5146053953675461,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-03",
+  "emissionsNear": 8177102.080132414,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.623432853724099,
+  "netPct": 0.5213327437072088,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-04",
+  "emissionsNear": 8265345.576973206,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6301606522178603,
+  "netPct": 0.5280605422009703,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-05",
+  "emissionsNear": 8353596.7734218715,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6368890377396988,
+  "netPct": 0.5347889277228086,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-06",
+  "emissionsNear": 8441853.884062162,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6436178741671669,
+  "netPct": 0.5415177641502766,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-07",
+  "emissionsNear": 8530116.924055817,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6503471626562152,
+  "netPct": 0.548247052639325,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-08",
+  "emissionsNear": 8618387.687516352,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6570770399923822,
+  "netPct": 0.554976929975492,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-09",
+  "emissionsNear": 8706664.401950883,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6638073710385143,
+  "netPct": 0.5617072610216242,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-10",
+  "emissionsNear": 8794947.045076437,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.670538154095729,
+  "netPct": 0.5684380440788389,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-11",
+  "emissionsNear": 8883237.450994695,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6772695289983138,
+  "netPct": 0.5751694189814238,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-12",
+  "emissionsNear": 8971533.770223059,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6840013547393204,
+  "netPct": 0.5819012447224303,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-13",
+  "emissionsNear": 9059836.10962908,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6907336394664689,
+  "netPct": 0.5886335294495787,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-14",
+  "emissionsNear": 9148146.282820815,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.6974665214515867,
+  "netPct": 0.5953664114346966,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-15",
+  "emissionsNear": 9236462.486335898,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7041998631963672,
+  "netPct": 0.602099753179477,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-16",
+  "emissionsNear": 9324784.64780897,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7109336591835815,
+  "netPct": 0.6088335491666915,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-17",
+  "emissionsNear": 9413114.665942483,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.717668054172764,
+  "netPct": 0.6155679441558738,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-18",
+  "emissionsNear": 9501680.746485762,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7244204468658194,
+  "netPct": 0.6223203368489294,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-19",
+  "emissionsNear": 9590252.253506593,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7311732532805519,
+  "netPct": 0.6290731432636619,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-20",
+  "emissionsNear": 9678602.032254664,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7379091548445826,
+  "netPct": 0.6358090448276926,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-21",
+  "emissionsNear": 9766957.838499216,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7446455159527521,
+  "netPct": 0.6425454059358618,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-22",
+  "emissionsNear": 9855319.609069295,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7513823317888246,
+  "netPct": 0.6492822217719346,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-23",
+  "emissionsNear": 9943687.492242584,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7581196136576831,
+  "netPct": 0.656019503640793,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-24",
+  "emissionsNear": 10032063.15717838,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7648574888181943,
+  "netPct": 0.6627573788013043,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-25",
+  "emissionsNear": 10120444.736782225,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7715958149206582,
+  "netPct": 0.6694957049037681,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-26",
+  "emissionsNear": 10208833.998624517,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7783347267269316,
+  "netPct": 0.6762346167100414,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-04-27",
+  "emissionsNear": 10297229.17456565,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7850740894317606,
+  "netPct": 0.6829739794148706,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-28",
+  "emissionsNear": 10385630.275907923,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7918139038968472,
+  "netPct": 0.6897137938799572,
+  "offsetPct": 0.10210011001689001
+ },
+ {
+  "date": "2026-04-29",
+  "emissionsNear": 10474039.084772028,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.7985543059933814,
+  "netPct": 0.6964541959764913,
+  "offsetPct": 0.10210011001689012
+ },
+ {
+  "date": "2026-04-30",
+  "emissionsNear": 10562453.802667772,
+  "revenueNear": 1339170.7174456017,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8052951586021411,
+  "netPct": 0.7031950485852508,
+  "offsetPct": 0.10210011001689023
+ },
+ {
+  "date": "2026-05-01",
+  "emissionsNear": 10650874.421222989,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8120364610848215,
+  "netPct": 0.6748792820654678,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-02",
+  "emissionsNear": 10739302.742211467,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8187783508109902,
+  "netPct": 0.6816211717916365,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-03",
+  "emissionsNear": 10827736.993014794,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8255206926339236,
+  "netPct": 0.6883635136145697,
+  "offsetPct": 0.13715717901935387
+ },
+ {
+  "date": "2026-05-04",
+  "emissionsNear": 10916177.160555918,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8322634855566098,
+  "netPct": 0.695106306537256,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-05",
+  "emissionsNear": 11004625.066798484,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8390068684879173,
+  "netPct": 0.7018496894685636,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-06",
+  "emissionsNear": 11093078.895076133,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8457507029228499,
+  "netPct": 0.7085935239034963,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-07",
+  "emissionsNear": 11181540.44325774,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8524951259332593,
+  "netPct": 0.7153379469139055,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-08",
+  "emissionsNear": 11270007.9169688,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.859240000713709,
+  "netPct": 0.7220828216943553,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-09",
+  "emissionsNear": 11358481.280353118,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8659853245304763,
+  "netPct": 0.7288281455111225,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-10",
+  "emissionsNear": 11446962.38416947,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8727312384878074,
+  "netPct": 0.7355740594684537,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-11",
+  "emissionsNear": 11535449.390542934,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8794776024637377,
+  "netPct": 0.7423204234443841,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-12",
+  "emissionsNear": 11623942.43619192,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8862244268818563,
+  "netPct": 0.7490672478625026,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-13",
+  "emissionsNear": 11712441.69533628,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.89297172502491,
+  "netPct": 0.7558145460055561,
+  "offsetPct": 0.13715717901935387
+ },
+ {
+  "date": "2026-05-14",
+  "emissionsNear": 11800948.914709546,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.8997196300661253,
+  "netPct": 0.7625624510467717,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-05-15",
+  "emissionsNear": 11889462.1911092,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9064679969028779,
+  "netPct": 0.7693108178835242,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-16",
+  "emissionsNear": 11977981.532851702,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9132168261692253,
+  "netPct": 0.7760596471498715,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-17",
+  "emissionsNear": 12066508.791052058,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.919966258996573,
+  "netPct": 0.7828090799772193,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-18",
+  "emissionsNear": 12155042.12185768,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9267161548072114,
+  "netPct": 0.7895589757878576,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-19",
+  "emissionsNear": 12243581.528855355,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9334665138746019,
+  "netPct": 0.7963093348552481,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-20",
+  "emissionsNear": 12332126.98971906,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9402173344965795,
+  "netPct": 0.803060155477226,
+  "offsetPct": 0.13715717901935354
+ },
+ {
+  "date": "2026-05-21",
+  "emissionsNear": 12420680.324073661,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9469687554037012,
+  "netPct": 0.8098115763843474,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-22",
+  "emissionsNear": 12509239.697259434,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9537206367191329,
+  "netPct": 0.8165634576997791,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-23",
+  "emissionsNear": 12597805.088590335,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9604729768657441,
+  "netPct": 0.8233157978463903,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-24",
+  "emissionsNear": 12686378.34745302,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9672259168431686,
+  "netPct": 0.8300687378238149,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-25",
+  "emissionsNear": 12774957.613572298,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9739793148216164,
+  "netPct": 0.8368221358022626,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-26",
+  "emissionsNear": 12863542.896802178,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.98073317155237,
+  "netPct": 0.8435759925330163,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-27",
+  "emissionsNear": 12952134.183333585,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9874874859826075,
+  "netPct": 0.8503303069632537,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-28",
+  "emissionsNear": 13040733.341080204,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 0.9942424005244879,
+  "netPct": 0.8570852215051341,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-29",
+  "emissionsNear": 13129338.514143312,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0009977736818885,
+  "netPct": 0.8638405946625347,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-30",
+  "emissionsNear": 13217949.68514231,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.00775360412969,
+  "netPct": 0.8705964251103362,
+  "offsetPct": 0.13715717901935376
+ },
+ {
+  "date": "2026-05-31",
+  "emissionsNear": 13306568.687730603,
+  "revenueNear": 1798988.0500596694,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.014510031668003,
+  "netPct": 0.8773528526486493,
+  "offsetPct": 0.13715717901935365
+ },
+ {
+  "date": "2026-06-01",
+  "emissionsNear": 13395193.72244119,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0212669191031325,
+  "netPct": 0.8503215521175235,
+  "offsetPct": 0.17094536698560903
+ },
+ {
+  "date": "2026-06-02",
+  "emissionsNear": 13483824.750619143,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0280242634879768,
+  "netPct": 0.8570788965023678,
+  "offsetPct": 0.17094536698560903
+ },
+ {
+  "date": "2026-06-03",
+  "emissionsNear": 13572463.524298705,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0347821983998962,
+  "netPct": 0.863836831414287,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-04",
+  "emissionsNear": 13661108.233325755,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0415405858303952,
+  "netPct": 0.8705952188447863,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-05",
+  "emissionsNear": 13749758.955311544,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.048299431696657,
+  "netPct": 0.8773540647110479,
+  "offsetPct": 0.17094536698560903
+ },
+ {
+  "date": "2026-06-06",
+  "emissionsNear": 13838415.780134972,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0550587428511646,
+  "netPct": 0.8841133758655556,
+  "offsetPct": 0.17094536698560903
+ },
+ {
+  "date": "2026-06-07",
+  "emissionsNear": 13927080.55634365,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0618186602295827,
+  "netPct": 0.8908732932439736,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-08",
+  "emissionsNear": 14015772.71582827,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0685806653444259,
+  "netPct": 0.8976352983588166,
+  "offsetPct": 0.17094536698560925
+ },
+ {
+  "date": "2026-06-09",
+  "emissionsNear": 14104470.990346925,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.075343136677384,
+  "netPct": 0.9043977696917749,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-10",
+  "emissionsNear": 14193175.423718164,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0821060775692404,
+  "netPct": 0.9111607105836311,
+  "offsetPct": 0.17094536698560925
+ },
+ {
+  "date": "2026-06-11",
+  "emissionsNear": 14281885.973070007,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0888694847513793,
+  "netPct": 0.9179241177657702,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-12",
+  "emissionsNear": 14370604.473153694,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.0956334981076121,
+  "netPct": 0.9246881311220031,
+  "offsetPct": 0.17094536698560903
+ },
+ {
+  "date": "2026-06-13",
+  "emissionsNear": 14459329.052722232,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1023979749716444,
+  "netPct": 0.9314526079860352,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-14",
+  "emissionsNear": 14548059.673802119,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1091629124483267,
+  "netPct": 0.9382175454627175,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-15",
+  "emissionsNear": 14636796.358436037,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1159283122182222,
+  "netPct": 0.944982945232613,
+  "offsetPct": 0.17094536698560925
+ },
+ {
+  "date": "2026-06-16",
+  "emissionsNear": 14725540.89627048,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.122694310726297,
+  "netPct": 0.9517489437406881,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-17",
+  "emissionsNear": 14814291.4172656,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1294607653982915,
+  "netPct": 0.9585153984126826,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-18",
+  "emissionsNear": 14903047.913566357,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1362276756353273,
+  "netPct": 0.9652823086497182,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-19",
+  "emissionsNear": 14991812.21871372,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1429951812289423,
+  "netPct": 0.9720498142433331,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-20",
+  "emissionsNear": 15080582.496787805,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1497631422062269,
+  "netPct": 0.9788177752206177,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-21",
+  "emissionsNear": 15169358.757669251,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.156531559320494,
+  "netPct": 0.9855861923348845,
+  "offsetPct": 0.17094536698560936
+ },
+ {
+  "date": "2026-06-22",
+  "emissionsNear": 15258141.048166223,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.163300436140458,
+  "netPct": 0.9923550691548488,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-23",
+  "emissionsNear": 15346931.180377418,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1700699108228712,
+  "netPct": 0.999124543837262,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-24",
+  "emissionsNear": 15435727.309599657,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1768398427251738,
+  "netPct": 1.005894475739565,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-25",
+  "emissionsNear": 15524529.427902618,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1836102312427481,
+  "netPct": 1.012664864257139,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-26",
+  "emissionsNear": 15613339.36923107,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.190381216197918,
+  "netPct": 1.019435849212309,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-27",
+  "emissionsNear": 15702155.234040491,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.1971526527669494,
+  "netPct": 1.0262072857813405,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-06-28",
+  "emissionsNear": 15790977.011232868,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2039245401037153,
+  "netPct": 1.0329791731181062,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-29",
+  "emissionsNear": 15879806.524403244,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2106970172414635,
+  "netPct": 1.0397516502558544,
+  "offsetPct": 0.17094536698560914
+ },
+ {
+  "date": "2026-06-30",
+  "emissionsNear": 15968641.976507526,
+  "revenueNear": 2242162.419925399,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2174699471712247,
+  "netPct": 1.0465245801856158,
+  "offsetPct": 0.17094536698560892
+ },
+ {
+  "date": "2026-07-01",
+  "emissionsNear": 16057477.55444316,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2242428866945316,
+  "netPct": 1.0269061193191047,
+  "offsetPct": 0.19733676737542694
+ },
+ {
+  "date": "2026-07-02",
+  "emissionsNear": 16146321.2601359,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.231016445888567,
+  "netPct": 1.0336796785131406,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-03",
+  "emissionsNear": 16235170.983819405,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2377904639020132,
+  "netPct": 1.0404536965265865,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-04",
+  "emissionsNear": 16324026.685406027,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2445649376785357,
+  "netPct": 1.047228170303109,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-05",
+  "emissionsNear": 16412888.409868423,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2513398706469083,
+  "netPct": 1.0540031032714816,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-06",
+  "emissionsNear": 16501758.042437697,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2581154065395919,
+  "netPct": 1.060778639164165,
+  "offsetPct": 0.19733676737542694
+ },
+ {
+  "date": "2026-07-07",
+  "emissionsNear": 16590633.716755064,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2648914030629754,
+  "netPct": 1.0675546356875485,
+  "offsetPct": 0.19733676737542694
+ },
+ {
+  "date": "2026-07-08",
+  "emissionsNear": 16679515.451493213,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.271667861640689,
+  "netPct": 1.0743310942652622,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-09",
+  "emissionsNear": 16768405.068680627,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.278444921186544,
+  "netPct": 1.0811081538111171,
+  "offsetPct": 0.19733676737542694
+ },
+ {
+  "date": "2026-07-10",
+  "emissionsNear": 16857300.79392253,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.2852224464183843,
+  "netPct": 1.0878856790429576,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-11",
+  "emissionsNear": 16946202.500158887,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.292000427648989,
+  "netPct": 1.0946636602735622,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-12",
+  "emissionsNear": 17035110.206765078,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.298778866355561,
+  "netPct": 1.1014420989801343,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-13",
+  "emissionsNear": 17124025.913601264,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3055579150100303,
+  "netPct": 1.1082211476346038,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-14",
+  "emissionsNear": 17212947.769141886,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3123374324496897,
+  "netPct": 1.115000665074263,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-15",
+  "emissionsNear": 17301875.829548143,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3191174229563416,
+  "netPct": 1.1217806555809149,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-16",
+  "emissionsNear": 17390809.974422283,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3258978773507057,
+  "netPct": 1.128561109975279,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-17",
+  "emissionsNear": 17479752.034803,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3326789352335435,
+  "netPct": 1.1353421678581168,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-18",
+  "emissionsNear": 17568700.040559642,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3394604463995425,
+  "netPct": 1.1421236790241156,
+  "offsetPct": 0.19733676737542694
+ },
+ {
+  "date": "2026-07-19",
+  "emissionsNear": 17657654.03720743,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3462424143188416,
+  "netPct": 1.1489056469434151,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-20",
+  "emissionsNear": 17746614.13235963,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3530248471960165,
+  "netPct": 1.15568807982059,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-21",
+  "emissionsNear": 17835580.592243813,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3598077653286011,
+  "netPct": 1.1624709979531747,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-22",
+  "emissionsNear": 17924554.987085212,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3665912884326017,
+  "netPct": 1.169254521057175,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-23",
+  "emissionsNear": 18013535.397520974,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3733752701733077,
+  "netPct": 1.1760385027978812,
+  "offsetPct": 0.1973367673754265
+ },
+ {
+  "date": "2026-07-24",
+  "emissionsNear": 18102521.784264177,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.380159707555434,
+  "netPct": 1.1828229401800072,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-25",
+  "emissionsNear": 18191515.97614671,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3869447400114918,
+  "netPct": 1.189607972636065,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-26",
+  "emissionsNear": 18280516.069969457,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.3937302224391162,
+  "netPct": 1.1963934550636894,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-27",
+  "emissionsNear": 18369522.079654396,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.400516155899736,
+  "netPct": 1.2031793885243094,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-28",
+  "emissionsNear": 18458534.049174283,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.407302543745892,
+  "netPct": 1.2099657763704652,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-29",
+  "emissionsNear": 18547553.785348684,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4140895237318474,
+  "netPct": 1.2167527563564207,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-30",
+  "emissionsNear": 18636579.34197051,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4208769474762533,
+  "netPct": 1.2235401801008265,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-07-31",
+  "emissionsNear": 18725594.958015084,
+  "revenueNear": 2588318.6639155345,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4276636133381742,
+  "netPct": 1.2303268459627474,
+  "offsetPct": 0.1973367673754267
+ },
+ {
+  "date": "2026-08-01",
+  "emissionsNear": 18814616.620197024,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.434450740165439,
+  "netPct": 1.1989100099212824,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-02",
+  "emissionsNear": 18903646.195666783,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4412384703120165,
+  "netPct": 1.20569774006786,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-03",
+  "emissionsNear": 18992681.759430323,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4480266570138682,
+  "netPct": 1.2124859267697117,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-04",
+  "emissionsNear": 19081723.353740644,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4548153034924172,
+  "netPct": 1.2192745732482608,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-05",
+  "emissionsNear": 19170772.816261724,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4616045498535455,
+  "netPct": 1.226063819609389,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-06",
+  "emissionsNear": 19259828.341988716,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4683942584813459,
+  "netPct": 1.2328535282371893,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-07",
+  "emissionsNear": 19348889.92142434,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.475184428651733,
+  "netPct": 1.2396436984075765,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-08",
+  "emissionsNear": 19437957.48544855,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4819750550949056,
+  "netPct": 1.246434324850749,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-09",
+  "emissionsNear": 19527032.89897286,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4887662799941324,
+  "netPct": 1.253225549749976,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-10",
+  "emissionsNear": 19616114.325686112,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.4955579633466725,
+  "netPct": 1.2600172331025161,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-11",
+  "emissionsNear": 19705201.790181004,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.502350107027505,
+  "netPct": 1.2668093767833486,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-12",
+  "emissionsNear": 19794295.35343784,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5091427156858477,
+  "netPct": 1.2736019854416911,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-13",
+  "emissionsNear": 19883396.787336122,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.515935924412088,
+  "netPct": 1.2803951941679315,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-14",
+  "emissionsNear": 19972504.187754057,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5227295880335148,
+  "netPct": 1.2871888577893584,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-15",
+  "emissionsNear": 20061617.715895317,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5295237188405049,
+  "netPct": 1.2939829885963483,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-16",
+  "emissionsNear": 20150737.268344704,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.536318308948549,
+  "netPct": 1.3007775787043925,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-17",
+  "emissionsNear": 20239864.673129693,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5431134977288299,
+  "netPct": 1.3075727674846735,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-18",
+  "emissionsNear": 20328998.11538034,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5499091468133128,
+  "netPct": 1.3143684165691563,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-19",
+  "emissionsNear": 20418137.547131997,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5567052525451102,
+  "netPct": 1.3211645223009536,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-20",
+  "emissionsNear": 20507283.960578766,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5635018905703857,
+  "netPct": 1.3279611603262291,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-21",
+  "emissionsNear": 20596437.355614513,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5702990608810474,
+  "netPct": 1.334758330636891,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-22",
+  "emissionsNear": 20685596.856051467,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5770966966754052,
+  "netPct": 1.3415559664312489,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-23",
+  "emissionsNear": 20774762.366386622,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.583894790672186,
+  "netPct": 1.3483540604280295,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-24",
+  "emissionsNear": 20863935.716460705,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5906934823808168,
+  "netPct": 1.3551527521366604,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-25",
+  "emissionsNear": 20953115.06830222,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.5974926316719702,
+  "netPct": 1.3619519014278139,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-26",
+  "emissionsNear": 21042300.417250548,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6042922381903146,
+  "netPct": 1.368751507946158,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-27",
+  "emissionsNear": 21131491.84014515,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6110923077941899,
+  "netPct": 1.3755515775500333,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-08-28",
+  "emissionsNear": 21220691.206221785,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6178929829965518,
+  "netPct": 1.382352252752395,
+  "offsetPct": 0.23554073024415678
+ },
+ {
+  "date": "2026-08-29",
+  "emissionsNear": 21309896.63769416,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6246941206325405,
+  "netPct": 1.3891533903883841,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-30",
+  "emissionsNear": 21399108.173556022,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6314957236750904,
+  "netPct": 1.395954993430934,
+  "offsetPct": 0.23554073024415634
+ },
+ {
+  "date": "2026-08-31",
+  "emissionsNear": 21488325.818701714,
+  "revenueNear": 3089411.447808895,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6382977924973527,
+  "netPct": 1.4027570622531962,
+  "offsetPct": 0.23554073024415656
+ },
+ {
+  "date": "2026-09-01",
+  "emissionsNear": 21577551.45934708,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6451004709068657,
+  "netPct": 1.358112066208591,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-02",
+  "emissionsNear": 21666783.235077083,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6519036170631778,
+  "netPct": 1.364915212364903,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-03",
+  "emissionsNear": 21756021.28674413,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.658707241705059,
+  "netPct": 1.371718837006784,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-04",
+  "emissionsNear": 21845265.474111985,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6655113341407166,
+  "netPct": 1.378522929442442,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-05",
+  "emissionsNear": 21934515.747013677,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6723158905453561,
+  "netPct": 1.3853274858470814,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-06",
+  "emissionsNear": 22023773.985403426,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6791210542491224,
+  "netPct": 1.3921326495508475,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-07",
+  "emissionsNear": 22113038.323147573,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6859266829755675,
+  "netPct": 1.3989382782772928,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-08",
+  "emissionsNear": 22202308.746990666,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6927327757140793,
+  "netPct": 1.4057443710158048,
+  "offsetPct": 0.28698840469827447
+ },
+ {
+  "date": "2026-09-09",
+  "emissionsNear": 22291585.259980127,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.6995393326969972,
+  "netPct": 1.4125509279987225,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-10",
+  "emissionsNear": 22380867.83548637,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7063463518940467,
+  "netPct": 1.419357947195772,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-11",
+  "emissionsNear": 22470158.42421684,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7131539820296902,
+  "netPct": 1.4261655773314155,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-12",
+  "emissionsNear": 22559455.101558067,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7199620763689039,
+  "netPct": 1.432973671670629,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-13",
+  "emissionsNear": 22648757.867003515,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7267706348730685,
+  "netPct": 1.4397822301747938,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-14",
+  "emissionsNear": 22738066.690370042,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7335796552409826,
+  "netPct": 1.4465912505427079,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-15",
+  "emissionsNear": 22827383.484099094,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7403892832796592,
+  "netPct": 1.4534008785813846,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-16",
+  "emissionsNear": 22916706.354986843,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.747199374648786,
+  "netPct": 1.4602109699505113,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-17",
+  "emissionsNear": 23006035.283833116,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7540099278845172,
+  "netPct": 1.4670215231862425,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-18",
+  "emissionsNear": 23095370.192764986,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7608209370497194,
+  "netPct": 1.4738325323514447,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-19",
+  "emissionsNear": 23184712.925297353,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7676325426963573,
+  "netPct": 1.4806441379980824,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-20",
+  "emissionsNear": 23274061.7178472,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7744446103665763,
+  "netPct": 1.4874562056683016,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-21",
+  "emissionsNear": 23363416.48978614,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7812571339131649,
+  "netPct": 1.4942687292148904,
+  "offsetPct": 0.28698840469827447
+ },
+ {
+  "date": "2026-09-22",
+  "emissionsNear": 23452779.149280358,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.788070258817184,
+  "netPct": 1.5010818541189093,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-23",
+  "emissionsNear": 23542147.83939725,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.7948838435036867,
+  "netPct": 1.507895438805412,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-24",
+  "emissionsNear": 23631522.49060817,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8016978826717187,
+  "netPct": 1.5147094779734442,
+  "offsetPct": 0.28698840469827447
+ },
+ {
+  "date": "2026-09-25",
+  "emissionsNear": 23720903.031444058,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.808512370872387,
+  "netPct": 1.5215239661741122,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-26",
+  "emissionsNear": 23810291.24506804,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8153274440563572,
+  "netPct": 1.5283390393580825,
+  "offsetPct": 0.2869884046982747
+ },
+ {
+  "date": "2026-09-27",
+  "emissionsNear": 23899685.28546549,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8221429614810838,
+  "netPct": 1.5351545567828089,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-28",
+  "emissionsNear": 23989086.978807017,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8289590623761791,
+  "netPct": 1.5419706576779042,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-29",
+  "emissionsNear": 24078494.570499532,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8357756129691931,
+  "netPct": 1.5487872082709182,
+  "offsetPct": 0.2869884046982749
+ },
+ {
+  "date": "2026-09-30",
+  "emissionsNear": 24167908.162427105,
+  "revenueNear": 3764212.0831679744,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8425926210278993,
+  "netPct": 1.5556042163296249,
+  "offsetPct": 0.28698840469827447
+ },
+ {
+  "date": "2026-10-01",
+  "emissionsNear": 24257327.646446176,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8494100783072935,
+  "netPct": 1.5234595241021993,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-02",
+  "emissionsNear": 24346754.786816273,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8562281193168062,
+  "netPct": 1.5302775651117124,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-03",
+  "emissionsNear": 24436187.752088655,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8630466044244138,
+  "netPct": 1.5370960502193198,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-04",
+  "emissionsNear": 24525628.340117298,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8698656707008317,
+  "netPct": 1.5439151164957376,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-05",
+  "emissionsNear": 24615074.75033018,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.876685180868117,
+  "netPct": 1.550734626663023,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-06",
+  "emissionsNear": 24704526.983494665,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8835051349847747,
+  "netPct": 1.557554580779681,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-07",
+  "emissionsNear": 24793986.884618033,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8903256737165492,
+  "netPct": 1.5643751195114555,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-08",
+  "emissionsNear": 24883452.594918024,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.8971466553474738,
+  "netPct": 1.5711961011423796,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-09",
+  "emissionsNear": 24972925.951911904,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9039682199722443,
+  "netPct": 1.5780176657671503,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-10",
+  "emissionsNear": 25062405.053755578,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.910790222591804,
+  "netPct": 1.5848396683867099,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-11",
+  "emissionsNear": 25151889.8017267,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9176126556794335,
+  "netPct": 1.5916621014743393,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-12",
+  "emissionsNear": 25241382.21867197,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.924435673459585,
+  "netPct": 1.5984851192544909,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-13",
+  "emissionsNear": 25330880.48406511,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.931259137132977,
+  "netPct": 1.605308582927883,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-14",
+  "emissionsNear": 25420385.67691225,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9380831289644345,
+  "netPct": 1.6121325747593407,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-15",
+  "emissionsNear": 25509896.50376171,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.944907550339526,
+  "netPct": 1.6189569961344321,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-16",
+  "emissionsNear": 25599415.076430943,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9517325622659498,
+  "netPct": 1.6257820080608558,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-17",
+  "emissionsNear": 25688939.572555568,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.958558025804285,
+  "netPct": 1.6326074715991907,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-18",
+  "emissionsNear": 25778469.98131601,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.965383940129633,
+  "netPct": 1.6394333859245387,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-19",
+  "emissionsNear": 25868008.132839397,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.972210444773256,
+  "netPct": 1.6462598905681622,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-20",
+  "emissionsNear": 25957552.223999318,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9790374022624617,
+  "netPct": 1.653086848057368,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-21",
+  "emissionsNear": 26047102.255433153,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9858648126458447,
+  "netPct": 1.659914258440751,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-22",
+  "emissionsNear": 26136659.959488682,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9926928079998434,
+  "netPct": 1.6667422537947496,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-23",
+  "emissionsNear": 26226223.474052522,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 1.9995212463545218,
+  "netPct": 1.6735706921494276,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-24",
+  "emissionsNear": 26315794.4626678,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0063502545405623,
+  "netPct": 1.6803997003354678,
+  "offsetPct": 0.32595055420509444
+ },
+ {
+  "date": "2026-10-25",
+  "emissionsNear": 26405371.213880602,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0131797020745013,
+  "netPct": 1.6872291478694075,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-26",
+  "emissionsNear": 26494949.72171779,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0200092835357593,
+  "netPct": 1.694058729330665,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-10-27",
+  "emissionsNear": 26584534.4267468,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.026839337478948,
+  "netPct": 1.7008887832738542,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-28",
+  "emissionsNear": 26674124.89847074,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0336698310824275,
+  "netPct": 1.7077192768773337,
+  "offsetPct": 0.3259505542050938
+ },
+ {
+  "date": "2026-10-29",
+  "emissionsNear": 26763722.958625272,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0405009032376844,
+  "netPct": 1.7145503490325904,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-30",
+  "emissionsNear": 26853326.817814145,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.04733241751883,
+  "netPct": 1.721381863313736,
+  "offsetPct": 0.325950554205094
+ },
+ {
+  "date": "2026-10-31",
+  "emissionsNear": 26942936.4661478,
+  "revenueNear": 4275249.433662881,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.054164373171872,
+  "netPct": 1.728213818966778,
+  "offsetPct": 0.3259505542050942
+ },
+ {
+  "date": "2026-11-01",
+  "emissionsNear": 27032553.64882579,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.060996903253085,
+  "netPct": 1.7182488352591312,
+  "offsetPct": 0.34274806799395385
+ },
+ {
+  "date": "2026-11-02",
+  "emissionsNear": 27122176.585535176,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.067829872029104,
+  "netPct": 1.7250818040351508,
+  "offsetPct": 0.3427480679939534
+ },
+ {
+  "date": "2026-11-03",
+  "emissionsNear": 27211806.97196548,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0746634087814955,
+  "netPct": 1.7319153407875414,
+  "offsetPct": 0.3427480679939541
+ },
+ {
+  "date": "2026-11-04",
+  "emissionsNear": 27301443.19617986,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0814973906141057,
+  "netPct": 1.738749322620152,
+  "offsetPct": 0.34274806799395363
+ },
+ {
+  "date": "2026-11-05",
+  "emissionsNear": 27391086.903382167,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.0883319429594076,
+  "netPct": 1.7455838749654538,
+  "offsetPct": 0.34274806799395385
+ },
+ {
+  "date": "2026-11-06",
+  "emissionsNear": 27480736.333628234,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.095166931636978,
+  "netPct": 1.7524188636430242,
+  "offsetPct": 0.34274806799395385
+ },
+ {
+  "date": "2026-11-07",
+  "emissionsNear": 27570393.276165616,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1020024930613688,
+  "netPct": 1.759254425067415,
+  "offsetPct": 0.34274806799395385
+ },
+ {
+  "date": "2026-11-08",
+  "emissionsNear": 27660055.904058788,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1088384879446487,
+  "netPct": 1.7660904199506948,
+  "offsetPct": 0.34274806799395385
+ },
+ {
+  "date": "2026-11-09",
+  "emissionsNear": 27749726.014915936,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.115675053338794,
+  "netPct": 1.7729269853448404,
+  "offsetPct": 0.3427480679939534
+ },
+ {
+  "date": "2026-11-10",
+  "emissionsNear": 27839401.837605424,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1225120542104357,
+  "netPct": 1.7797639862164816,
+  "offsetPct": 0.3427480679939541
+ },
+ {
+  "date": "2026-11-11",
+  "emissionsNear": 27929083.436317243,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1293494954535004,
+  "netPct": 1.7866014274595463,
+  "offsetPct": 0.3427480679939541
+ },
+ {
+  "date": "2026-11-12",
+  "emissionsNear": 28018772.506261177,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1361875063129787,
+  "netPct": 1.7934394383190246,
+  "offsetPct": 0.3427480679939541
+ },
+ {
+  "date": "2026-11-13",
+  "emissionsNear": 28108467.259222582,
+  "revenueNear": 4495569.848481322,
+  "referenceSupplyNear": 1311625146.3627872,
+  "grossPct": 2.1430259504530693,
+  "netPct": 1.8002778824591157,
+  "offsetPct": 0.34274806799395363
+ }
+]

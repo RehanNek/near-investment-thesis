@@ -1,0 +1,46 @@
+# Inputs for analysis/scenarios.py. Edit these and run `make charts` to see the effect.
+#
+# Scenarios project the capture ratio (NEAR burned or captured as Intents revenue / NEAR issued)
+# forward from the last complete quarter. Everything is in NEAR terms: Intents revenue is earned in
+# USD and converted to NEAR, so "revenue growth in NEAR" combines USD revenue growth and NEAR price
+# change. A rising NEAR price slows it (each dollar buys less NEAR).
+#
+# Revenue growth starts from Intents' trailing growth rate, computed from the data (not typed here):
+# the annualised change in Intents revenue in NEAR over the last `trend.quarters` complete quarters.
+
+trend:
+  quarters: 2                      # trailing window for the growth rate (2 = Q1 -> Q3 when Q3 is the last)
+  sensitivity_quarters: [1, 2, 3]  # windows shown in the "how much depends on the window" table
+
+scenarios:
+  bear:
+    growth: none                   # revenue in NEAR stays at the last quarter's level
+    note: "No growth from the last quarter's level."
+  base:
+    growth: trend
+    half_life_years: 2             # the trailing growth rate halves every 2 years
+    note: "Starts at the trailing growth rate, which then halves every two years."
+  bull:
+    growth: trend
+    half_life_years: null          # the trailing growth rate holds
+    note: "The trailing growth rate holds."
+
+# Held constant in every scenario
+l1_burn_growth_per_year: 0.00     # L1 burn stays at the last quarter's level (now ~1% of issuance), scaled
+                                  # up from the day all gas is burned (HSP-027; date from protocol config)
+horizon_years: 6
+
+# Inflation. Today: max_inflation_rate 1/40 = 2.5% (NEAR RPC, protocol 88, 2026-11-14).
+# HSP-029 (House of Stake vote Oct 19 - Nov 2, 2026, ~99.96% in favour) cuts the maximum to 1.6%,
+# phased down evenly over 24 months (~0.0375 percentage points a month) after a 90-day grace period.
+# Not yet in force: still in its veto window and needs a protocol upgrade. It passed with ~99.96%, so it
+# is the main path; "no_cut" (issuance stays at 2.5%) is the check if it isn't implemented.
+# ramp_start is an assumption: vote end (2026-11-02) + 90 days.
+inflation:
+  current_rate: 0.025
+  hsp_029:
+    vote_passed: "2026-11-02"
+    source: "https://cryptobriefing.com/near-protocol-cuts-max-issuance-1-6-percent/"
+    target_rate: 0.016
+    ramp_start: "2027-02"
+    ramp_months: 24

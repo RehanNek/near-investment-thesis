@@ -1,0 +1,1135 @@
+{
+ "account_changes": {
+  "type": "TABLE",
+  "rows": 36522260743,
+  "size_gb": 8259.4,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_block",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "affected_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "caused_by_transaction_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "caused_by_receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "update_reason",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "affected_account_nonstaked_balance",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "affected_account_staked_balance",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "affected_account_storage_usage",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "accounts": {
+  "type": "VIEW",
+  "rows": 0,
+  "size_gb": 0.0,
+  "partitioning": null,
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_action_receipt",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "action_kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_active",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "blocks": {
+  "type": "TABLE",
+  "rows": 213004028,
+  "size_gb": 32.3,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "prev_block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "total_supply",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "gas_price",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "author_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "chunks": {
+  "type": "TABLE",
+  "rows": 1175667952,
+  "size_gb": 294.5,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signature",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "gas_limit",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "gas_used",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "author_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "circulating_supply": {
+  "type": "TABLE",
+  "rows": 1405,
+  "size_gb": 0.0,
+  "partitioning": null,
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "computed_at_block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "computed_at_block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "computed_at_block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "circulating_tokens_supply",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "total_tokens_supply",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "execution_outcomes": {
+  "type": "TABLE",
+  "rows": 22685604242,
+  "size_gb": 9874.2,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "executed_in_block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "outcome_receipt_ids",
+    "type": "RECORD",
+    "mode": "NULLABLE",
+    "fields": [
+     {
+      "name": "list",
+      "type": "RECORD",
+      "mode": "REPEATED",
+      "fields": [
+       {
+        "name": "element",
+        "type": "STRING",
+        "mode": "NULLABLE"
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "name": "index_in_chunk",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "gas_burnt",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "tokens_burnt",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "executor_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "logs",
+    "type": "RECORD",
+    "mode": "NULLABLE",
+    "fields": [
+     {
+      "name": "list",
+      "type": "RECORD",
+      "mode": "REPEATED",
+      "fields": [
+       {
+        "name": "element",
+        "type": "STRING",
+        "mode": "NULLABLE"
+       }
+      ]
+     }
+    ]
+   }
+  ]
+ },
+ "ft_balances_daily": {
+  "type": "TABLE",
+  "rows": 27320018,
+  "size_gb": 4.5,
+  "partitioning": "epoch_date",
+  "clustering": [
+   "account_id"
+  ],
+  "columns": [
+   {
+    "name": "epoch_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "epoch_block_height",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "liquid",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "storage_usage",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "unstaked_not_liquid",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "staked",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "reward",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "lockup_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "lockup_liquid",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "lockup_unstaked_not_liquid",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "lockup_staked",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "lockup_reward",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "ft_events": {
+  "type": "TABLE",
+  "rows": 13735099831,
+  "size_gb": 4389.3,
+  "partitioning": "block_date",
+  "clustering": [
+   "contract_account_id"
+  ],
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "standard",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contract_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "affected_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "involved_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "delta_amount",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "cause",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "event_memo",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "event_index",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "token_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "ft_events_contracts_by_account": {
+  "type": "MATERIALIZED_VIEW",
+  "rows": 248740363,
+  "size_gb": 11.4,
+  "partitioning": null,
+  "clustering": null,
+  "columns": [
+   {
+    "name": "affected_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contract_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "nft_events": {
+  "type": "TABLE",
+  "rows": 60636924,
+  "size_gb": 24.3,
+  "partitioning": "block_date",
+  "clustering": [
+   "contract_account_id"
+  ],
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "standard",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contract_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "token_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "old_owner_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "new_owner_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "authorized_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "cause",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "event_memo",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "event_index",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "nft_events_contracts_by_account": {
+  "type": "MATERIALIZED_VIEW",
+  "rows": 41833614,
+  "size_gb": 2.9,
+  "partitioning": null,
+  "clustering": null,
+  "columns": [
+   {
+    "name": "old_owner_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "new_owner_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "contract_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "receipt_actions": {
+  "type": "TABLE",
+  "rows": 23303954895,
+  "size_gb": 13133.8,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_action_receipt",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "gas_price",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_public_key",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "args",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_predecessor_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "action_kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_receiver_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "is_delegate_action",
+    "type": "BOOLEAN",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "receipt_details": {
+  "type": "TABLE",
+  "rows": 24422297584,
+  "size_gb": 20147.6,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_chunk",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "data_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "predecessor_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receiver_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "receipt_origin_transaction": {
+  "type": "TABLE",
+  "rows": 24443125540,
+  "size_gb": 2892.5,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "data_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "originated_from_transaction_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "_record_last_updated_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "transaction_actions": {
+  "type": "TABLE",
+  "rows": 6025297329,
+  "size_gb": 4904.1,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "transaction_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "transaction_status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "converted_into_receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_public_key",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receiver_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_transaction",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "action_kind",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "args",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   }
+  ]
+ },
+ "transactions": {
+  "type": "TABLE",
+  "rows": 5479508140,
+  "size_gb": 2399.5,
+  "partitioning": "block_date",
+  "clustering": null,
+  "columns": [
+   {
+    "name": "block_date",
+    "type": "DATE",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_height",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_timestamp_utc",
+    "type": "TIMESTAMP",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "block_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "chunk_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "shard_id",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "transaction_hash",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "index_in_chunk",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signer_public_key",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "nonce",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receiver_account_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "signature",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "status",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "converted_into_receipt_id",
+    "type": "STRING",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_conversion_gas_burnt",
+    "type": "INTEGER",
+    "mode": "NULLABLE"
+   },
+   {
+    "name": "receipt_conversion_tokens_burnt",
+    "type": "FLOAT",
+    "mode": "NULLABLE"
+   }
+  ]
+ }
+}

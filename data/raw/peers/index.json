@@ -1,0 +1,188 @@
+[
+ {
+  "group": "near",
+  "name": "NEAR",
+  "slugs": [
+   "near",
+   "near-intents"
+  ],
+  "gecko_id": "near"
+ },
+ {
+  "group": "l1",
+  "name": "Ethereum",
+  "slugs": [
+   "ethereum"
+  ],
+  "gecko_id": "ethereum"
+ },
+ {
+  "group": "l1",
+  "name": "Solana",
+  "slugs": [
+   "solana"
+  ],
+  "gecko_id": "solana"
+ },
+ {
+  "group": "l1",
+  "name": "BNB Chain",
+  "slugs": [
+   "bsc"
+  ],
+  "gecko_id": "binancecoin"
+ },
+ {
+  "group": "l1",
+  "name": "Tron",
+  "slugs": [
+   "tron"
+  ],
+  "gecko_id": "tron"
+ },
+ {
+  "group": "l1",
+  "name": "Avalanche",
+  "slugs": [
+   "avalanche"
+  ],
+  "gecko_id": "avalanche-2"
+ },
+ {
+  "group": "l1",
+  "name": "Sui",
+  "slugs": [
+   "sui"
+  ],
+  "gecko_id": "sui"
+ },
+ {
+  "group": "l1",
+  "name": "Aptos",
+  "slugs": [
+   "aptos"
+  ],
+  "gecko_id": "aptos"
+ },
+ {
+  "group": "l1",
+  "name": "ICP",
+  "slugs": [
+   "icp"
+  ],
+  "gecko_id": "internet-computer"
+ },
+ {
+  "group": "swap",
+  "name": "THORChain",
+  "slugs": [
+   "thorchain-dex",
+   "thorchain"
+  ],
+  "gecko_id": "thorchain"
+ },
+ {
+  "group": "swap",
+  "name": "Chainflip",
+  "slugs": [
+   "chainflip"
+  ],
+  "gecko_id": "chainflip"
+ },
+ {
+  "group": "swap",
+  "name": "deBridge",
+  "slugs": [
+   "debridge"
+  ],
+  "gecko_id": "debridge"
+ },
+ {
+  "group": "swap",
+  "name": "Across",
+  "slugs": [
+   "across"
+  ],
+  "gecko_id": "across-protocol"
+ },
+ {
+  "group": "swap",
+  "name": "Uniswap",
+  "slugs": [
+   "uniswap"
+  ],
+  "gecko_id": "uniswap"
+ },
+ {
+  "group": "swap",
+  "name": "Jupiter",
+  "slugs": [
+   "jupiter"
+  ],
+  "gecko_id": "jupiter-exchange-solana"
+ },
+ {
+  "group": "swap",
+  "name": "PancakeSwap",
+  "slugs": [
+   "pancakeswap"
+  ],
+  "gecko_id": "pancakeswap-token"
+ },
+ {
+  "group": "swap",
+  "name": "Aerodrome",
+  "slugs": [
+   "aerodrome"
+  ],
+  "gecko_id": "aero"
+ },
+ {
+  "group": "swap",
+  "name": "Raydium",
+  "slugs": [
+   "raydium"
+  ],
+  "gecko_id": "raydium"
+ },
+ {
+  "group": "swap",
+  "name": "Curve",
+  "slugs": [
+   "curve-finance"
+  ],
+  "gecko_id": "curve-dao-token"
+ },
+ {
+  "group": "swap",
+  "name": "Orca",
+  "slugs": [
+   "orca"
+  ],
+  "gecko_id": "orca"
+ },
+ {
+  "group": "swap",
+  "name": "CoW Swap",
+  "slugs": [
+   "cowswap"
+  ],
+  "gecko_id": "cow-protocol"
+ },
+ {
+  "group": "swap",
+  "name": "Meteora",
+  "slugs": [
+   "meteora"
+  ],
+  "gecko_id": "meteora"
+ },
+ {
+  "group": "swap",
+  "name": "Hyperliquid",
+  "slugs": [
+   "hyperliquid"
+  ],
+  "gecko_id": "hyperliquid"
+ }
+]

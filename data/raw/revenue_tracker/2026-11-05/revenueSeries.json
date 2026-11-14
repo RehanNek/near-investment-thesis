@@ -1,0 +1,130 @@
+[
+ {
+  "period_month": "2025-08-01",
+  "revenue_usd": 27596.022718672375,
+  "revenue_near": 10625.532528802676,
+  "cumulative_revenue_usd": 27596.022718672375,
+  "cumulative_revenue_near": 10625.532528802676,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2025-09-01",
+  "revenue_usd": 28638.80978366858,
+  "revenue_near": 10448.828604794244,
+  "cumulative_revenue_usd": 56234.832502340956,
+  "cumulative_revenue_near": 21074.361133596918,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2025-10-01",
+  "revenue_usd": 295780.78720105864,
+  "revenue_near": 119575.90608647325,
+  "cumulative_revenue_usd": 352015.6197033996,
+  "cumulative_revenue_near": 140650.26722007018,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2025-11-01",
+  "revenue_usd": 657428.0950774138,
+  "revenue_near": 304871.46825115447,
+  "cumulative_revenue_usd": 1009443.7147808134,
+  "cumulative_revenue_near": 445521.73547122465,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2025-12-01",
+  "revenue_usd": 281333.9081411999,
+  "revenue_near": 174151.5583886538,
+  "cumulative_revenue_usd": 1290777.6229220133,
+  "cumulative_revenue_near": 619673.2938598784,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-01-01",
+  "revenue_usd": 526392.2648915,
+  "revenue_near": 330339.68310821796,
+  "cumulative_revenue_usd": 1817169.8878135132,
+  "cumulative_revenue_near": 950012.9769680963,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-02-01",
+  "revenue_usd": 429570.00468585984,
+  "revenue_near": 404219.990094364,
+  "cumulative_revenue_usd": 2246739.892499373,
+  "cumulative_revenue_near": 1354232.9670624603,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-03-01",
+  "revenue_usd": 395381.0632989956,
+  "revenue_near": 305709.752979629,
+  "cumulative_revenue_usd": 2642120.9557983684,
+  "cumulative_revenue_near": 1659942.7200420892,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-04-01",
+  "revenue_usd": 401246.5409059249,
+  "revenue_near": 300365.7795532456,
+  "cumulative_revenue_usd": 3043367.4967042934,
+  "cumulative_revenue_near": 1960308.4995953348,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-05-01",
+  "revenue_usd": 823526.5435941791,
+  "revenue_near": 440598.8999501696,
+  "cumulative_revenue_usd": 3866894.0402984726,
+  "cumulative_revenue_near": 2400907.3995455042,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-06-01",
+  "revenue_usd": 943197.8954485292,
+  "revenue_near": 435629.3054330905,
+  "cumulative_revenue_usd": 4810091.935747001,
+  "cumulative_revenue_near": 2836536.7049785946,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-07-01",
+  "revenue_usd": 654034.2712915181,
+  "revenue_near": 345693.4952857597,
+  "cumulative_revenue_usd": 5464126.20703852,
+  "cumulative_revenue_near": 3182230.2002643542,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-08-01",
+  "revenue_usd": 870432.2805852605,
+  "revenue_near": 490864.6208409824,
+  "cumulative_revenue_usd": 6334558.48762378,
+  "cumulative_revenue_near": 3673094.821105337,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-09-01",
+  "revenue_usd": 2177670.6136374283,
+  "revenue_near": 687476.7819078689,
+  "cumulative_revenue_usd": 8512229.101261208,
+  "cumulative_revenue_near": 4360571.603013205,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-10-01",
+  "revenue_usd": 2472888.897349638,
+  "revenue_near": 506940.3715184299,
+  "cumulative_revenue_usd": 10985117.998610847,
+  "cumulative_revenue_near": 4867511.974531636,
+  "is_stale": 0
+ },
+ {
+  "period_month": "2026-11-01",
+  "revenue_usd": 208453.39897502758,
+  "revenue_near": 51775.48535147701,
+  "cumulative_revenue_usd": 11193571.397585874,
+  "cumulative_revenue_near": 4919287.459883112,
+  "is_stale": 0
+ }
+]
