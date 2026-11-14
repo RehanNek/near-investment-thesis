@@ -129,3 +129,20 @@
     });
   });
 })();
+
+// On GitHub Pages (https://<owner>.github.io/<repo>/site/) a link to a file in the repo, such as "../THESIS.md" or
+// "../queries/l1_activity.sql", would open as raw text or download. There, send it to the same file on github.com.
+// Opened from disk or from any other host, the links stay as they are.
+(function () {
+  "use strict";
+  var owner = /^([^.]+)\.github\.io$/.exec(location.hostname);
+  var repo = location.pathname.split("/")[1];
+  if (!owner || !repo) return;
+  var base = "https://github.com/" + owner[1] + "/" + repo + "/";
+  document.querySelectorAll('a[href^="../"]').forEach(function (a) {
+    var path = a.getAttribute("href").slice(3), hash = "", i = path.indexOf("#");
+    if (i >= 0) { hash = path.slice(i); path = path.slice(0, i); }
+    var isFolder = path.slice(-1) === "/";
+    a.href = base + (isFolder ? "tree/main/" + path.slice(0, -1) : "blob/main/" + path) + hash;
+  });
+})();

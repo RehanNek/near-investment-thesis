@@ -14,7 +14,7 @@ Three documents carry this entry. Everything else in the repo is the data and co
 |---|---|---|
 | 1 | **README.md** (this page) | What this is, and how to rebuild every number, chart and document with one command: `make charts` |
 | 2 | **[THESIS.md](THESIS.md)** | The report: the thesis, the evidence for it, the evidence against it, and what would change our mind |
-| 3 | **[DASHBOARD.md](DASHBOARD.md)** | Every chart, with one plain sentence on what it shows and the query behind it. `site/index.html` is the same page with hover readouts |
+| 3 | **[DASHBOARD.md](DASHBOARD.md)** | Every chart, with one plain sentence on what it shows and the query behind it. `site/index.html` is the same page with hover readouts, [hosted here](https://rehannek.github.io/near-investment-thesis/site/) |
 
 ## What this is
 
@@ -35,7 +35,7 @@ You need `make`, a Unix shell and Python 3.11, 3.12, 3.13 or 3.14. You need no A
 | 0 | `git clone https://github.com/RehanNek/near-investment-thesis.git`, then `cd near-investment-thesis` | The repo, with `README.md`, `THESIS.md` and `DASHBOARD.md` at the top level | A minute |
 | 1 | `make charts` | `Built THESIS.md, METHODS.md, DASHBOARD.md, site/index.html and 21 charts in site/charts/ (data as of 2026-11-14).`, then four key points | About a minute the first time, 20 seconds after |
 | 2 | `make check` | `OK: all 53 generated files match the committed copies` | 20 seconds |
-| 3 | Open `site/index.html` in a browser | 21 charts, each with one plain sentence, its sources and the query behind it | |
+| 3 | Open `site/index.html` in a browser, or the [hosted copy](https://rehannek.github.io/near-investment-thesis/site/) | 21 charts, each with one plain sentence, its sources and the query behind it | |
 | 4 | In `config.yaml`, under `scenarios:` then `base:`, change `half_life_years: 2` to `3`. Run `make charts` | The third key point's date moves from "Dec 2028" to "Nov 2028" | 20 seconds |
 | 5 | `make verify` | A summary like `31 match, 0 revised, 0 differ, 1 skipped`. The run passes when nothing differs | Under a minute |
 
@@ -88,7 +88,7 @@ Documents and charts must be identical byte for byte. A data file may differ in 
 
 ### 3. Open the dashboard
 
-Open `site/index.html` in a browser (no server needed), or read [`DASHBOARD.md`](DASHBOARD.md).
+Open `site/index.html` in a browser (no server needed), or read [`DASHBOARD.md`](DASHBOARD.md). The same page is hosted at <https://rehannek.github.io/near-investment-thesis/site/>.
 
 **You should see:**
 
