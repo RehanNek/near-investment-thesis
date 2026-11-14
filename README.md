@@ -1,6 +1,6 @@
 # NEAR Investment Thesis
 
-**Track:** NEAR HACKATHON, Investment Thesis (`thesis`). An investment thesis on NEAR in which every number, chart and document is rebuilt from the raw data by one command, `make charts`, with no API keys.
+**Track:** NEAR HACKATHON, Investment Thesis (`thesis`). An investment thesis on NEAR in which every number, chart and document is rebuilt from the raw data by one command, `make charts`, with no API keys. It is hosted at <https://rehannek.github.io/near-investment-thesis/site/>.
 
 **Our other entry:** [Basis Prime](https://github.com/RehanNek/basis-prime), a prime brokerage on NEAR, in the Unstoppable DeFi track (`defi`). The two projects are independent and share no code.
 
