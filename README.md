@@ -2,6 +2,8 @@
 
 **Track:** NEAR HACKATHON, Investment Thesis (`thesis`). An investment thesis on NEAR in which every number, chart and document is rebuilt from the raw data by one command, `make charts`, with no API keys.
 
+**Our other entry:** [Basis Prime](https://github.com/RehanNek/basis-prime), a prime brokerage on NEAR, in the Unstoppable DeFi track (`defi`). The two projects are independent and share no code.
+
 ## Our Thesis
 
 ### NEAR is an L1 with two fast-growing businesses behind its token. Revenue growth, combined with buybacks, burns and staking, makes it a solid long-term investment.
@@ -210,10 +212,6 @@ Mostly the sources named in the track prompt and NEAR's own first-party data:
 | CoinGecko | Third-party (price cross-check) | `fetch/coingecko.py` |
 
 Each fetch is logged with its date in `data/raw/_manifest.json`.
-
-## Our other NEAR HACKATHON entry
-
-We entered a second, independent project: **[Basis Prime](https://github.com/RehanNek/basis-prime)**, a prime brokerage on NEAR, in the Unstoppable DeFi track (`defi`). The two projects share no code.
 
 ## Tools used
 
