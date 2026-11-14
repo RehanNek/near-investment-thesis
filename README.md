@@ -28,6 +28,17 @@ NEAR is usually valued as a layer-1 blockchain. Most of its fee revenue now come
 
 You need `make`, a Unix shell and Python 3.11, 3.12, 3.13 or 3.14. You need no API keys and no accounts, because the raw data is committed in `data/raw/`. The first run needs internet once, to install five pinned packages into `.venv/`.
 
+**Do X, see Y.** The five steps in short; each is set out in full below.
+
+| # | Do | See | Takes |
+|---|---|---|---|
+| 0 | `git clone https://github.com/RehanNek/near-investment-thesis.git`, then `cd near-investment-thesis` | The repo, with `README.md`, `THESIS.md` and `DASHBOARD.md` at the top level | A minute |
+| 1 | `make charts` | `Built THESIS.md, METHODS.md, DASHBOARD.md, site/index.html and 21 charts in site/charts/ (data as of 2026-11-14).`, then four key points | About a minute the first time, 20 seconds after |
+| 2 | `make check` | `OK: all 53 generated files match the committed copies` | 20 seconds |
+| 3 | Open `site/index.html` in a browser | 21 charts, each with one plain sentence, its sources and the query behind it | |
+| 4 | In `config.yaml`, under `scenarios:` then `base:`, change `half_life_years: 2` to `3`. Run `make charts` | The third key point's date moves from "Dec 2028" to "Nov 2028" | 20 seconds |
+| 5 | `make verify` | A summary like `31 match, 0 revised, 0 differ, 1 skipped`. The run passes when nothing differs | Under a minute |
+
 ### 1. Rebuild everything
 
 ```bash
