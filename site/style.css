@@ -55,7 +55,7 @@ svg.chart:focus-visible { outline: 2px solid var(--text-2); outline-offset: 4px;
 .q-label { margin: 12px 0 2px; color: var(--text-1); font-weight: 600; }
 .note { margin: 6px 0; font-size: 13px; color: var(--text-2); }
 .meta { margin: 8px 0 4px; font-size: 12.5px; color: var(--text-2); display: flex; flex-direction: column; gap: 2px; }
-.meta a { color: var(--text-2); }
+.meta a { color: var(--text-2); overflow-wrap: anywhere; }
 
 details { margin: 6px 0 0; font-size: 13px; }
 summary { cursor: pointer; color: var(--text-2); padding: 3px 0; }
@@ -89,11 +89,52 @@ th { color: var(--text-2); font-weight: 600; }
 .tooltip .v { font-weight: 600; font-variant-numeric: tabular-nums; }
 .tooltip .l { color: var(--text-2); }
 
+/* The four tabs: Thesis, Dashboard, Build it yourself, Methods. app.js shows one at a time; without
+   JavaScript they follow one another on the page. */
+.tabs { position: sticky; top: 0; z-index: 10; background: var(--page); border-bottom: 1px solid var(--grid); }
+.tabs-in { max-width: 920px; margin: 0 auto; padding: 10px 16px; display: flex; flex-wrap: wrap; align-items: center;
+           gap: 6px; }
+.tabs .brand { font-weight: 650; margin-right: auto; padding-right: 16px; }
+.tabs a { padding: 5px 13px; border: 1px solid transparent; border-radius: 999px; color: var(--text-2);
+          text-decoration: none; font-size: 14px; }
+.tabs a:hover { color: var(--text-1); }
+.tabs a[aria-current="page"] { color: var(--text-1); background: var(--surface); border-color: var(--border);
+                               font-weight: 600; }
+.tab + .tab { margin-top: 80px; padding-top: 40px; border-top: 1px solid var(--grid); }
+.tabbed .tab + .tab { margin-top: 0; padding-top: 0; border-top: 0; }
+/* A tab opens at the top of the page; a heading or chart inside one stops just under the tab bar. */
+.tab { scroll-margin-top: 400px; }
+.tab [id] { scroll-margin-top: 64px; }
+
+/* THESIS.md and METHODS.md, rendered into their tabs. */
+.prose { max-width: 760px; font-size: 16px; line-height: 1.65; }
+.prose h1 { max-width: none; margin-bottom: 20px; }
+.prose h2 { margin: 40px 0 10px; padding-top: 22px; border-top: 1px solid var(--grid); }
+.prose h1 + h2 { margin-top: 0; }
+.prose h3 { margin: 26px 0 6px; }
+.prose p, .prose ul, .prose ol { margin: 0 0 14px; }
+.prose li { margin: 5px 0; }
+.prose code { font-size: 13.5px; }
+.prose figure { margin: 22px 0; }
+.prose figure img { display: block; width: 100%; height: auto; border: 1px solid var(--border); border-radius: 12px; }
+.prose .table-wrap { margin: 16px 0; border: 1px solid var(--border); border-radius: 10px; background: var(--surface); }
+.prose table, .steps table { font-size: 14px; }
+.prose th, .prose td, .steps th, .steps td { text-align: left; white-space: normal; vertical-align: top;
+                                             font-variant-numeric: normal; }
+.prose tr:last-child td { border-bottom: 0; }
+.steps td:first-child { color: var(--text-2); }
+.steps code { overflow-wrap: anywhere; }
+
 @media (max-width: 640px) {
   main { padding-top: 24px; }
   h1 { font-size: 24px; }
   .card { padding: 14px 14px 10px; }
   .chart-wrap { overflow-x: auto; margin: 0; }
   .chart-wrap svg.chart { min-width: 600px; }
+  .tabs .brand { display: none; }
+  .tabs-in { flex-wrap: nowrap; overflow-x: auto; gap: 2px; padding: 8px 12px; }
+  .tabs a { padding: 4px 9px; font-size: 13px; white-space: nowrap; }
+  .prose { font-size: 15px; }
+  .tab [id] { scroll-margin-top: 56px; }
 }
-@media print { .tooltip, details { display: none; } .card { break-inside: avoid; } }
+@media print { .tooltip, details, .tabs { display: none; } .card { break-inside: avoid; } .tab[hidden] { display: block; } }

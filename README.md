@@ -14,7 +14,7 @@ Three documents carry this entry. Everything else in the repo is the data and co
 |---|---|---|
 | 1 | **README.md** (this page) | What this is, and how to rebuild every number, chart and document with one command: `make charts` |
 | 2 | **[THESIS.md](THESIS.md)** | The report: the thesis, the evidence for it, the evidence against it, and what would change our mind |
-| 3 | **[DASHBOARD.md](DASHBOARD.md)** | Every chart, with one plain sentence on what it shows and the query behind it. `site/index.html` is the same page with hover readouts, [hosted here](https://rehannek.github.io/near-investment-thesis/site/) |
+| 3 | **[DASHBOARD.md](DASHBOARD.md)** | Every chart, with one plain sentence on what it shows and the query behind it. `site/index.html` has the same charts with hover readouts, in a site with four tabs (Thesis, Dashboard, Build it yourself, Methods) that is [hosted here](https://rehannek.github.io/near-investment-thesis/site/) |
 
 ## What this is
 
@@ -35,7 +35,7 @@ You need `make`, a Unix shell and Python 3.11, 3.12, 3.13 or 3.14. You need no A
 | 0 | `git clone https://github.com/RehanNek/near-investment-thesis.git`, then `cd near-investment-thesis` | The repo, with `README.md`, `THESIS.md` and `DASHBOARD.md` at the top level | A minute |
 | 1 | `make charts` | `Built THESIS.md, METHODS.md, DASHBOARD.md, site/index.html and 21 charts in site/charts/ (data as of 2026-11-14).`, then four key points | About a minute the first time, 20 seconds after |
 | 2 | `make check` | `OK: all 53 generated files match the committed copies` | 20 seconds |
-| 3 | Open `site/index.html` in a browser, or the [hosted copy](https://rehannek.github.io/near-investment-thesis/site/) | 21 charts, each with one plain sentence, its sources and the query behind it | |
+| 3 | Open `site/index.html` in a browser, or the [hosted copy](https://rehannek.github.io/near-investment-thesis/site/) | Four tabs: Thesis, Dashboard, Build it yourself, Methods. The Dashboard tab has 21 charts, each with one plain sentence, its sources and the query behind it | |
 | 4 | In `config.yaml`, under `scenarios:` then `base:`, change `half_life_years: 2` to `3`. Run `make charts` | The third key point's date moves from "Dec 2028" to "Nov 2028" | 20 seconds |
 | 5 | `make verify` | A summary like `31 match, 0 revised, 0 differ, 1 skipped`. The run passes when nothing differs | Under a minute |
 
@@ -86,16 +86,16 @@ Documents and charts must be identical byte for byte. A data file may differ in 
 
 **What this was tested on:** macOS on Apple silicon, with Python 3.11, 3.13 and 3.14. All three give 53 identical files. The 3.13 and 3.14 runs started from a fresh copy of the repo with no `.venv/`. Python 3.12, Linux and other processors were not tested.
 
-### 3. Open the dashboard
+### 3. Open the site
 
 Open `site/index.html` in a browser (no server needed), or read [`DASHBOARD.md`](DASHBOARD.md). The same page is hosted at <https://rehannek.github.io/near-investment-thesis/site/>.
 
 **You should see:**
 
-- "Rebuild it yourself" at the top.
-- One section for each row of the thesis table, in the table's order, each opening with the result that would change our mind.
+- Four tabs: **Thesis** (`THESIS.md`), **Dashboard**, **Build it yourself** (these steps in short) and **Methods** (`METHODS.md`). The build writes all four into the one page.
+- On the Dashboard tab, one section for each row of the thesis table, in the table's order, each opening with the result that would change our mind.
 - Under every chart: one plain sentence on what it shows, the source and its date, the data files and code that drew it, and the SQL query or API request behind it.
-- In `site/index.html`, a hover readout on every chart and a table of the plotted values under it.
+- A hover readout on every chart and a table of the plotted values under it.
 
 ### 4. Change an assumption and re-run the model
 
@@ -165,7 +165,7 @@ The committed data was last refreshed on 2026-11-14: every download behind `make
 | SQL queries against the NEAR BigQuery public dataset for daily active accounts, transaction counts and contract usage, always filtered on `block_date` | [`queries/`](queries/), run by `fetch/bigquery.py`, with results in `data/raw/bigquery/`. Daily active accounts and transaction counts: `queries/l1_activity.sql`, charted in [DASHBOARD.md, "NEAR L1"](DASHBOARD.md#near-l1). Contract usage: the top 25 receiving contracts per month in `l1_activity.sql`, transactions by app in `l1_app_split_daily.sql`, and calls to NEAR AI's staking contract in `nearai_staking_activity_daily.sql`. Every query filters on `block_date`, except the two that read `ft_balances_daily`: that table has `epoch_date` instead, and they filter on it. |
 | A pull from the NEAR Intents Explorer API for swap volume (JWT in `.env`) | `fetch/explorer.py` reads `NEAR_INTENTS_JWT` from `.env`. The pull is committed as `data/raw/explorer/swaps/`, and `analysis/c3_intents_breadth.py` turns it into the volume, user and chain charts in [DASHBOARD.md, "3. NEAR Intents"](DASHBOARD.md#near-intents). |
 | One command that rebuilds every chart from raw data | `make charts`. `make check` deletes every generated file, rebuilds and confirms the result matches. See "Try it" above. |
-| A static dashboard page: each chart, the query behind it, and one plain sentence on what it shows | [`DASHBOARD.md`](DASHBOARD.md), and the same page with hover readouts in `site/index.html` |
+| A static dashboard page: each chart, the query behind it, and one plain sentence on what it shows | [`DASHBOARD.md`](DASHBOARD.md), and the same page with hover readouts in the Dashboard tab of `site/index.html` |
 | `THESIS.md` with the claim | [`THESIS.md`](THESIS.md), "Thesis" (the first section) |
 | The evidence for it, the evidence against it, and what result would change my mind | [`THESIS.md`](THESIS.md), "What would change our mind": one table with a row for each thing the thesis line claims (revenue is growing, burns and buybacks tie that revenue to the token, NEAR Intents is a fast-growing business, NEAR AI is a fast-growing business, staking locks NEAR up) and the columns For, Against and What would change our mind. The detail behind each row is in [`METHODS.md`](METHODS.md), under claims C1 to C6. |
 | Never invent numbers | Every figure in the documents and charts is filled in by the build. See "How a chart is built" above. |
@@ -177,7 +177,7 @@ The committed data was last refreshed on 2026-11-14: every download behind `make
 |---|---|
 | [`THESIS.md`](THESIS.md) | The thesis, on one page: the thesis in a paragraph, the problem NEAR solves, a diagram of the three layers, why the token has value, the last year business by business, and one table that tests each part of the thesis line: evidence for, evidence against and what would change our mind. |
 | [`DASHBOARD.md`](DASHBOARD.md) | The static dashboard: every chart, one plain sentence on what it shows, and the query behind it. |
-| `site/index.html` | The same dashboard with hover readouts and a data table under each chart. Open it in a browser; no server needed. |
+| `site/index.html` | The site, with four tabs: the thesis, the dashboard with hover readouts and a data table under each chart, the build steps, and the methods. Open it in a browser; no server needed. |
 | [`METHODS.md`](METHODS.md) | The reference detail: how each number is computed, each claim's evidence and caveats in full, the scenario assumptions, what we couldn't compute, and every source with its date. |
 | `Makefile` | The commands: `make charts`, `make check`, `make verify` and the fetch commands. |
 | `queries/` | The SQL run against the NEAR BigQuery public dataset. |

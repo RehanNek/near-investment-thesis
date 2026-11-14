@@ -3,7 +3,8 @@
     make charts     (runs `make analysis` first; no keys, a few seconds)
 
 Writes:
-  site/index.html                     the dashboard (open it in a browser; no server needed)
+  site/index.html                     the site: four tabs (Thesis, Dashboard, Build it yourself, Methods);
+                                      open it in a browser, no server needed
   site/charts/<id>.svg                each chart as a standalone image, for THESIS.md
   THESIS.md                           the written thesis, from viz/thesis_template.md (see viz/thesis.py)
   METHODS.md                          methods, scenario detail and sources, from viz/methods_template.md
@@ -1586,9 +1587,146 @@ def rebuild_text(n_charts: int) -> list:
 
 
 REBUILD_CMD = "make charts"
+REPO_URL = "https://github.com/RehanNek/near-investment-thesis"
+
+# site/index.html has four tabs. THESIS.md and METHODS.md are rendered into theirs from the files this build just
+# wrote, so the site cannot drift from them. Their headings get a prefix so ids stay unique on the one page.
+TABS = [("thesis", "Thesis"), ("dashboard", "Dashboard"), ("build", "Build it yourself"), ("methods", "Methods")]
+DOC_TAB = {"THESIS.md": ("thesis", "t-"), "METHODS.md": ("methods", "m-"), "DASHBOARD.md": ("dashboard", "")}
 
 
-def page(secs, data_asof) -> str:
+def site_href(url: str, own: str) -> str:
+    """Where a link written in THESIS.md or METHODS.md points once that document is a tab of site/index.html."""
+    if url.startswith(("http://", "https://", "mailto:")):
+        return url
+    path, _, frag = url.partition("#")
+    if not path:
+        return f"#{own}{frag}"
+    if path in DOC_TAB:
+        tab, prefix = DOC_TAB[path]
+        return f"#{prefix}{frag}" if frag else f"#{tab}"
+    return "../" + url  # any other file in the repo, one level up from site/
+
+
+def md_slug(heading: str) -> str:
+    """The anchor GitHub gives a heading: lower case, punctuation dropped, spaces to hyphens."""
+    h = re.sub(r"\[([^\]]*)\]\([^)]*\)", r"\1", re.sub(r"[`*]", "", heading.strip().lower()))
+    return re.sub(r"[^\w\- ]", "", h).replace(" ", "-")
+
+
+def md_inline(text: str, own: str) -> str:
+    codes = []
+
+    def keep(m):
+        codes.append(f"<code>{e(m.group(1))}</code>")
+        return f"\x00{len(codes) - 1}\x00"
+
+    def link(m):
+        return f'<a href="{site_href(m.group(2), own)}">{m.group(1)}</a>'
+
+    t = html.escape(re.sub(r"`([^`]+)`", keep, text), quote=True)
+    t = re.sub(r"\[([^\]]+)\]\(([^)\s]+)\)", link, t)
+    t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
+    t = re.sub(r"(?<![\w*])\*([^*\n]+)\*(?![\w*])", r"<em>\1</em>", t)
+    return re.sub(r"\x00(\d+)\x00", lambda m: codes[int(m.group(1))], t)
+
+
+def md_html(text: str, own: str) -> str:
+    """THESIS.md or METHODS.md as HTML for its tab. Covers what the two templates use: headings, paragraphs, flat
+    lists, tables, images on their own line, and inline code, links, bold and italic. Anything else stops the build."""
+    lines = re.sub(r"<!--.*?-->", "", text, flags=re.S).split("\n")
+    block = r"(#{1,4} |!\[|\||- |\d+\. )"
+    out, i = [], 0
+
+    def cells(row):
+        return [c.strip() for c in row.strip().strip("|").split("|")]
+
+    while i < len(lines):
+        ln = lines[i]
+        if not ln.strip():
+            i += 1
+            continue
+        if ln.startswith(("```", "<", ">", "    ", "\t")) or re.match(r" +[-\d]", ln):
+            raise RuntimeError(f"md_html does not render this line of the document: {ln[:60]!r}")
+        m = re.match(r"(#{1,4}) (.+)$", ln)
+        if m:
+            lvl = len(m.group(1))
+            out.append(f'<h{lvl} id="{own}{md_slug(m.group(2))}">{md_inline(m.group(2), own)}</h{lvl}>')
+            i += 1
+            continue
+        m = re.match(r"!\[([^\]]*)\]\(([^)]+)\)$", ln)
+        if m:
+            src = m.group(2)[len("site/"):] if m.group(2).startswith("site/") else "../" + m.group(2)
+            out.append(f'<figure><img alt="{e(m.group(1))}" src="{e(src)}"></figure>')
+            i += 1
+            continue
+        if ln.startswith("|"):
+            rows = []
+            while i < len(lines) and lines[i].startswith("|"):
+                rows.append(lines[i])
+                i += 1
+            head, body = cells(rows[0]), [cells(r) for r in rows[2:]]
+            out.append('<div class="table-wrap"><table><thead><tr>'
+                       + "".join(f"<th>{md_inline(c, own)}</th>" for c in head) + "</tr></thead><tbody>"
+                       + "".join("<tr>" + "".join(f"<td>{md_inline(c, own)}</td>" for c in r) + "</tr>" for r in body)
+                       + "</tbody></table></div>")
+            continue
+        for pat, tag in ((r"- ", "ul"), (r"\d+\. ", "ol")):
+            if re.match(pat, ln):
+                items = []
+                while i < len(lines) and re.match(pat, lines[i]):
+                    items.append(re.sub("^" + pat, "", lines[i]))
+                    i += 1
+                out.append(f"<{tag}>" + "".join(f"<li>{md_inline(x, own)}</li>" for x in items) + f"</{tag}>")
+                break
+        else:
+            para = []
+            while i < len(lines) and lines[i].strip() and not re.match(block, lines[i]):
+                para.append(lines[i])
+                i += 1
+            out.append("<p>" + md_inline(" ".join(para), own) + "</p>")
+    return "".join(out)
+
+
+def n_generated() -> int:
+    """How many files `make check` deletes and rebuilds (it prints this number)."""
+    from verify.rebuild_check import outputs
+    return sum(len(v) for v in outputs().values())
+
+
+def build_tab(n_charts: int, data_asof: str) -> str:
+    """The "Build it yourself" tab: the one command, then the same do X, see Y steps as the README."""
+    half_life = CFG["scenarios"]["base"]["half_life_years"]
+    steps = [
+        (f"`git clone {REPO_URL}.git`, then `cd near-investment-thesis`",
+         "The repo, with `README.md`, `THESIS.md` and `DASHBOARD.md` at the top level"),
+        (f"`{REBUILD_CMD}`",
+         f"The line `Built THESIS.md, METHODS.md, DASHBOARD.md, site/index.html and {n_charts} charts in site/charts/ "
+         f"(data as of {data_asof}).` and then four key points"),
+        ("`make check`", f"`OK: all {n_generated()} generated files match the committed copies`"),
+        ("Open `site/index.html` in a browser", "This site, with every chart under the Dashboard tab"),
+        (f"In `config.yaml`, under `scenarios:` then `base:`, change `half_life_years: {half_life}` to "
+         f"`{half_life + 1}`. Run `{REBUILD_CMD}`",
+         "A different break-even date in the third key point, in the thesis and in the scenario charts"),
+        ("`make verify`",
+         "A table of committed and live values, then a count of how many match. The run passes when nothing differs"),
+    ]
+    paras = [t.replace("this page", "this site").replace("Each chart below", "Each chart on the Dashboard tab")
+             for t in rebuild_text(n_charts)]
+    return ('<header class="hero"><h1>Build it yourself</h1>'
+            '<p class="thesis">Every number, chart and document here is rebuilt from the raw data by one command, '
+            "with no API keys.</p></header>"
+            '<section class="rebuild" id="rebuild"><h2>One command</h2>'
+            f"<pre><code>{e(REBUILD_CMD)}</code></pre>" + "".join(f"<p>{tick(t)}</p>" for t in paras) + "</section>"
+            '<section class="part steps"><h2>Do X, see Y</h2>'
+            '<div class="table-wrap"><table><thead><tr><th>#</th><th>Do</th><th>See</th></tr></thead><tbody>'
+            + "".join(f"<tr><td>{i}</td><td>{tick(do)}</td><td>{tick(see)}</td></tr>" for i, (do, see) in enumerate(steps))
+            + "</tbody></table></div>"
+            '<p class="note">The <a href="../README.md">README</a> sets out each step in full, lists the commands that '
+            "download the raw data again, and says what this was tested on.</p></section>")
+
+
+def page(secs, data_asof, thesis_md, methods_md) -> str:
     css = (f":root{{color-scheme:light;{svg.css_vars(0)}}}"
            f"@media (prefers-color-scheme: dark){{:root:not([data-theme=\"light\"]){{color-scheme:dark;{svg.css_vars(1)}}}}}"
            f":root[data-theme=\"dark\"]{{color-scheme:dark;{svg.css_vars(1)}}}" + svg.CHART_CSS)
@@ -1599,9 +1737,6 @@ def page(secs, data_asof) -> str:
             f'<p class="asof">{e(INTRO)} Data as of {e(dl(data_asof))}. The argument is in '
             f'<a href="../THESIS.md">THESIS.md</a> and the methods in <a href="../METHODS.md">METHODS.md</a>. '
             f"Hover a chart for values, or open its table.</p></header>",
-            '<section class="rebuild" id="rebuild"><h2>Rebuild it yourself</h2>'
-            f"<pre><code>{e(REBUILD_CMD)}</code></pre>"
-            + "".join(f"<p>{tick(t)}</p>" for t in rebuild_text(n_charts)) + "</section>",
             '<nav class="toc">' + "".join(f'<a href="#{s.id}">{e(s.title)}</a>' for s in secs)
             + '<a href="#sources">Sources</a></nav>']
     for s in secs:
@@ -1612,13 +1747,27 @@ def page(secs, data_asof) -> str:
     srcs = sorted({(l, u, w) for l, u, w in SRC.values()}, key=lambda x: x[0].lower())
     body.append('<section class="part" id="sources"><h2>Sources</h2><ul class="sources">'
                 + "".join(f"<li>{src_html([x])}</li>" for x in srcs) + "</ul></section>")
+    dash = "".join(body)
+    for doc, (tab, prefix) in DOC_TAB.items():  # links to the two documents now open their tabs
+        dash = dash.replace(f'href="../{doc}#', f'href="#{prefix}').replace(f'href="../{doc}"', f'href="#{tab}"')
+    panels = {"thesis": md_html(thesis_md, "t-"), "dashboard": dash, "build": build_tab(n_charts, data_asof),
+              "methods": md_html(methods_md, "m-")}
+    ids = re.findall(r'\sid="([^"]+)"', "".join(panels.values())) + [t for t, _ in TABS]
+    twice = sorted({i for i in ids if ids.count(i) > 1})
+    if twice:
+        raise RuntimeError(f"site/index.html would have the same id twice: {twice}")
+    nav = ('<nav class="tabs" aria-label="Parts of this site"><div class="tabs-in">'
+           '<span class="brand">NEAR Investment Thesis</span>'
+           + "".join(f'<a href="#{t}" data-tab="{t}">{e(label)}</a>' for t, label in TABS) + "</div></nav>")
     return ("<!doctype html><html lang=\"en\"><head><meta charset=\"utf-8\">"
             "<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">"
-            "<title>NEAR Thesis Dashboard</title>"
-            "<meta name=\"description\" content=\"Every chart behind the NEAR investment thesis, with one plain sentence "
-            "on what it shows and the query behind it. One command rebuilds all of it from raw data.\">"
-            f"<link rel=\"stylesheet\" href=\"style.css\"><style>{css}</style></head><body><main>"
-            + "".join(body) + "</main><script src=\"app.js\"></script></body></html>\n")
+            "<title>NEAR Investment Thesis</title>"
+            "<meta name=\"description\" content=\"An investment thesis on NEAR: the thesis, every chart with the query "
+            "behind it, the methods, and one command that rebuilds all of it from raw data.\">"
+            f"<link rel=\"stylesheet\" href=\"style.css\"><style>{css}</style></head><body>{nav}<main>"
+            + "".join(f'<section class="tab{" prose" if t in ("thesis", "methods") else ""}" id="{t}">{panels[t]}</section>'
+                      for t, _ in TABS)
+            + "</main><script src=\"app.js\"></script></body></html>\n")
 
 
 def dashboard_md(secs, data_asof) -> str:
@@ -1683,7 +1832,8 @@ def main() -> None:
     (SITE / "charts").mkdir(parents=True, exist_ok=True)
     for c in cards:
         (SITE / "charts" / f"{c.chart.id}.svg").write_text(c.chart.standalone())
-    (SITE / "index.html").write_text(page(secs, data_asof))
+    (SITE / "index.html").write_text(page(secs, data_asof, (ROOT / "THESIS.md").read_text(),
+                                          (ROOT / "METHODS.md").read_text()))
     (ROOT / "DASHBOARD.md").write_text(dashboard_md(secs, data_asof))
     print(f"Built THESIS.md, METHODS.md, DASHBOARD.md, site/index.html and {len(cards)} charts in site/charts/ "
           f"(data as of {data_asof}).")

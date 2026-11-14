@@ -130,6 +130,34 @@
   });
 })();
 
+// Tabs. Each tab is a <section class="tab">; one shows at a time. The address keeps the place: "#dashboard" opens a
+// tab, and the id of anything inside a tab (a chart, a heading in the thesis) opens that tab and scrolls to it.
+(function () {
+  "use strict";
+  var links = document.querySelectorAll("nav.tabs a[data-tab]");
+  var panels = document.querySelectorAll("section.tab");
+  if (!links.length || !panels.length) return;
+  document.documentElement.classList.add("tabbed");
+
+  function show(panel, target) {
+    panels.forEach(function (p) { p.hidden = p !== panel; });
+    links.forEach(function (a) {
+      if (a.dataset.tab === panel.id) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current");
+    });
+    if (target) target.scrollIntoView(); else window.scrollTo(0, 0);
+  }
+
+  function route() {
+    var id = decodeURIComponent(location.hash.slice(1));
+    var target = id ? document.getElementById(id) : null;
+    var panel = target ? target.closest("section.tab") : null;
+    if (panel) show(panel, target === panel ? null : target); else show(panels[0], null);
+  }
+
+  window.addEventListener("hashchange", route);
+  route();
+})();
+
 // On GitHub Pages (https://<owner>.github.io/<repo>/site/) a link to a file in the repo, such as "../THESIS.md" or
 // "../queries/l1_activity.sql", would open as raw text or download. There, send it to the same file on github.com.
 // Opened from disk or from any other host, the links stay as they are.
