@@ -200,6 +200,10 @@ Mostly the sources named in the track prompt and NEAR's own first-party data:
 
 Each fetch is logged with its date in `data/raw/_manifest.json`.
 
+## Our other NEAR HACKATHON entry
+
+We entered a second, independent project: **[Basis Prime](https://github.com/RehanNek/basis-prime)**, a prime brokerage on NEAR, in the Unstoppable DeFi track (`defi`). The two projects share no code.
+
 ## Tools used
 
 Python 3.11 to 3.14 with requests, numpy, pandas, pyarrow and PyYAML (versions pinned in `requirements.txt`). Running the BigQuery queries again also needs google-cloud-bigquery (`requirements-bigquery.txt`). Charts are plain SVG drawn by `viz/svg.py` (no plotting library); the dashboard's hover layer is `site/app.js`, vanilla JavaScript with no dependencies. Code written with help from Claude Code (AI). NEAR agent skills from `near/agent-skills`.
